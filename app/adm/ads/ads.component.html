@@ -1,0 +1,39 @@
+<!-- <div>
+    <h3>소재 입찰 리스트</h3>
+  
+    <table *ngIf="ads" class="table table-striped">
+      <thead>
+          <tr>
+              <th>No</th>
+              <th>키워드명</th>
+              <th>ON/OFF</th>
+              <th>현재순위</th>
+              <th>입찰가</th>
+              <th>희망순위</th>
+              <th>입찰한도</th>
+              <th>가감액</th>
+              <th>입찰</th>
+          </tr>
+      </thead>
+      <tbody> 
+          <tr *ngFor = "let ad of ads; let i = index" class="data-table-row" >
+              <td>{{ i + 1 }}</td>
+              <td>{{ ad.keywords }}</td>
+              <td>{{ ad.is_active }}</td>
+              <td>{{ ad.current_rank }} </td>
+              <td>{{ ad.bid_amt }}</td>
+              <td><input type="text" [(ngModel)]="ad.aimed_rank" ></td>
+              <td><input type="text" [(ngModel)]="ad.bid_amt_limit"> </td>
+              <td><input type="text" [(ngModel)]="ad.bid_change_amt"></td>
+              <td><input type="checkbox"  [ngModel]="ad.is_bidding == false ? 0 : ad.is_bidding == true ? 1 : null" (ngModelChange)="ad.is_bidding = $event ? 1 : 0" name="is_bidding_{{ i }}" >{{ad.is_bidding}}</td>
+          </tr>
+      </tbody>
+    </table>
+        <div *ngIf="successMessage" >{{successMessage}}</div>
+        <div *ngIf="errorMessage" >{{errorMessage}}</div>
+    
+  </div>
+
+  <button class="btn btn-success" (click)="click_bidding()" >입찰시작</button> -->
+
+  

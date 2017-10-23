@@ -1,0 +1,1317 @@
+2017-09-21 01:22:50.961 [pid:26583] - debug: ------------ client connection ------------
+2017-09-21 01:22:50.963 [pid:26583] - debug: [Process Id] 26583
+2017-09-21 01:22:50.963 [pid:26583] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 01:22:50.963 [pid:26583] - debug: [CLIENT INFO] Windows 10.0 / Chrome (61.0.3163.91) / Microsoft Windows
+2017-09-21 01:22:50.966 [pid:26583] - debug: [HTTP GET] http://node4.mas-i.com/adgroups
+2017-09-21 01:22:50.971 [pid:26583] - debug: 애드그룹 GET 컨트롤러 실행
+2017-09-21 01:22:50.972 [pid:26583] - debug: [HTTP GET PARAMS] type=false
+2017-09-21 01:22:50.972 [pid:26583] - debug: SELECTAdgroup 실행
+2017-09-21 01:22:51.015 [pid:26583] - debug: [DB 접속됨 threadId = 612147]
+2017-09-21 01:22:51.015 [pid:26583] - debug: [DB 임대됨 threadId = 612147]
+2017-09-21 01:22:51.017 [pid:26583] - debug: 클로즈!
+2017-09-21 01:22:51.017 [pid:26583] - debug: [DB 반납됨 threadId = 612147]
+2017-09-21 01:22:51.022 [pid:26583] - sql: [threadId=612147] SELECT * FROM naver_shopping_adgroup
+2017-09-21 01:22:51.026 [pid:26583] - sql: selected data:  
+{ '0': 
+   { no: 285,
+     id: 'grp-a001-02-000000002315010',
+     name: 'TEST_디자인 케이스',
+     campaign_id: 'cmp-a001-02-000000000354348',
+     campaign_name: '피코그라프_케이스',
+     site: 'http://www.picograph.kr',
+     bid_amt: 50,
+     total_ad_count: 0,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '1': 
+   { no: 286,
+     id: 'grp-a001-02-000000002977893',
+     name: 'PG_피코포토',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 3,
+     bidding_ad_count: 1,
+     is_on_stage: 0,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '2': 
+   { no: 287,
+     id: 'grp-a001-02-000000002977906',
+     name: 'PG_사진인화',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 300,
+     total_ad_count: 2,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '3': 
+   { no: 288,
+     id: 'grp-a001-02-000000002977929',
+     name: 'PG_퍼즐액자',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 1,
+     bidding_ad_count: 1,
+     is_on_stage: 0,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '4': 
+   { no: 289,
+     id: 'grp-a001-02-000000002977957',
+     name: 'PG_캔버스',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 400,
+     total_ad_count: 1,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' } }
+2017-09-21 01:22:51.028 [pid:26583] - debug: [STATUS 200] OK-SUCCESS
+2017-09-21 01:22:51.034 [pid:26583] - debug: ---------- client disconnection ------------
+2017-09-21 01:22:51.034 [pid:26583] - debug: runtime=77ms
+2017-09-21 01:22:51.034 [pid:26583] - debug: 
+2017-09-21 01:23:15.595 [pid:26583] - debug: ------------ client connection ------------
+2017-09-21 01:23:15.596 [pid:26583] - debug: [Process Id] 26583
+2017-09-21 01:23:15.598 [pid:26583] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 01:23:15.599 [pid:26583] - debug: [CLIENT INFO] Windows 10.0 / Chrome (61.0.3163.91) / Microsoft Windows
+2017-09-21 01:23:15.600 [pid:26583] - debug: [HTTP GET] http://node4.mas-i.com/adgroups
+2017-09-21 01:23:15.601 [pid:26583] - debug: 애드그룹 GET 컨트롤러 실행
+2017-09-21 01:23:15.602 [pid:26583] - debug: [HTTP GET PARAMS] type=false
+2017-09-21 01:23:15.602 [pid:26583] - debug: SELECTAdgroup 실행
+2017-09-21 01:23:15.603 [pid:26583] - debug: [DB 임대됨 threadId = 612147]
+2017-09-21 01:23:15.603 [pid:26583] - debug: 클로즈!
+2017-09-21 01:23:15.604 [pid:26583] - debug: [DB 반납됨 threadId = 612147]
+2017-09-21 01:23:15.605 [pid:26583] - sql: [threadId=612147] SELECT * FROM naver_shopping_adgroup
+2017-09-21 01:23:15.606 [pid:26583] - sql: selected data:  
+{ '0': 
+   { no: 285,
+     id: 'grp-a001-02-000000002315010',
+     name: 'TEST_디자인 케이스',
+     campaign_id: 'cmp-a001-02-000000000354348',
+     campaign_name: '피코그라프_케이스',
+     site: 'http://www.picograph.kr',
+     bid_amt: 50,
+     total_ad_count: 0,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '1': 
+   { no: 286,
+     id: 'grp-a001-02-000000002977893',
+     name: 'PG_피코포토',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 3,
+     bidding_ad_count: 1,
+     is_on_stage: 0,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '2': 
+   { no: 287,
+     id: 'grp-a001-02-000000002977906',
+     name: 'PG_사진인화',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 300,
+     total_ad_count: 2,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '3': 
+   { no: 288,
+     id: 'grp-a001-02-000000002977929',
+     name: 'PG_퍼즐액자',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 1,
+     bidding_ad_count: 1,
+     is_on_stage: 0,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '4': 
+   { no: 289,
+     id: 'grp-a001-02-000000002977957',
+     name: 'PG_캔버스',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 400,
+     total_ad_count: 1,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' } }
+2017-09-21 01:23:15.607 [pid:26583] - debug: [STATUS 200] OK-SUCCESS
+2017-09-21 01:23:15.608 [pid:26583] - debug: ---------- client disconnection ------------
+2017-09-21 01:23:15.609 [pid:26583] - debug: runtime=14ms
+2017-09-21 01:23:15.609 [pid:26583] - debug: 
+2017-09-21 01:23:29.053 [pid:26583] - debug: ------------ client connection ------------
+2017-09-21 01:23:29.053 [pid:26583] - debug: [Process Id] 26583
+2017-09-21 01:23:29.054 [pid:26583] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 01:23:29.054 [pid:26583] - debug: [CLIENT INFO] Windows 10.0 / Chrome (61.0.3163.91) / Microsoft Windows
+2017-09-21 01:23:29.054 [pid:26583] - debug: [HTTP GET] http://node4.mas-i.com/adgroups
+2017-09-21 01:23:29.054 [pid:26583] - debug: 애드그룹 GET 컨트롤러 실행
+2017-09-21 01:23:29.055 [pid:26583] - debug: [HTTP GET PARAMS] type=false
+2017-09-21 01:23:29.055 [pid:26583] - debug: SELECTAdgroup 실행
+2017-09-21 01:23:29.055 [pid:26583] - debug: [DB 임대됨 threadId = 612147]
+2017-09-21 01:23:29.056 [pid:26583] - debug: 클로즈!
+2017-09-21 01:23:29.056 [pid:26583] - debug: [DB 반납됨 threadId = 612147]
+2017-09-21 01:23:29.057 [pid:26583] - sql: [threadId=612147] SELECT * FROM naver_shopping_adgroup
+2017-09-21 01:23:29.059 [pid:26583] - sql: selected data:  
+{ '0': 
+   { no: 285,
+     id: 'grp-a001-02-000000002315010',
+     name: 'TEST_디자인 케이스',
+     campaign_id: 'cmp-a001-02-000000000354348',
+     campaign_name: '피코그라프_케이스',
+     site: 'http://www.picograph.kr',
+     bid_amt: 50,
+     total_ad_count: 0,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '1': 
+   { no: 286,
+     id: 'grp-a001-02-000000002977893',
+     name: 'PG_피코포토',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 3,
+     bidding_ad_count: 1,
+     is_on_stage: 0,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '2': 
+   { no: 287,
+     id: 'grp-a001-02-000000002977906',
+     name: 'PG_사진인화',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 300,
+     total_ad_count: 2,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '3': 
+   { no: 288,
+     id: 'grp-a001-02-000000002977929',
+     name: 'PG_퍼즐액자',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 1,
+     bidding_ad_count: 1,
+     is_on_stage: 0,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '4': 
+   { no: 289,
+     id: 'grp-a001-02-000000002977957',
+     name: 'PG_캔버스',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 400,
+     total_ad_count: 1,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' } }
+2017-09-21 01:23:29.059 [pid:26583] - debug: [STATUS 200] OK-SUCCESS
+2017-09-21 01:23:29.060 [pid:26583] - debug: ---------- client disconnection ------------
+2017-09-21 01:23:29.060 [pid:26583] - debug: runtime=8ms
+2017-09-21 01:23:29.060 [pid:26583] - debug: 
+2017-09-21 01:23:48.106 [pid:26583] - debug: ------------ client connection ------------
+2017-09-21 01:23:48.107 [pid:26583] - debug: [Process Id] 26583
+2017-09-21 01:23:48.108 [pid:26583] - debug: [ip] ::ffff:60.191.38.77
+2017-09-21 01:23:48.108 [pid:26583] - debug: [CLIENT INFO] OS X El Capitan / Firefox (47.0) / Apple Mac
+2017-09-21 01:23:48.108 [pid:26583] - debug: [HTTP GET] http://121.124.124.178:80/
+2017-09-21 01:23:48.112 [pid:26583] - debug: ---------- client disconnection ------------
+2017-09-21 01:23:48.112 [pid:26583] - debug: runtime=6ms
+2017-09-21 01:23:48.112 [pid:26583] - debug: 
+2017-09-21 01:25:28.603 [pid:26583] - debug: ------------ client connection ------------
+2017-09-21 01:25:28.603 [pid:26583] - debug: [Process Id] 26583
+2017-09-21 01:25:28.604 [pid:26583] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 01:25:28.605 [pid:26583] - debug: [CLIENT INFO] Windows 10.0 / Chrome (61.0.3163.91) / Microsoft Windows
+2017-09-21 01:25:28.605 [pid:26583] - debug: [HTTP GET] http://node4.mas-i.com/adgroups
+2017-09-21 01:25:28.608 [pid:26583] - debug: 애드그룹 GET 컨트롤러 실행
+2017-09-21 01:25:28.610 [pid:26583] - debug: [HTTP GET PARAMS] type=false
+2017-09-21 01:25:28.610 [pid:26583] - debug: SELECTAdgroup 실행
+2017-09-21 01:25:28.611 [pid:26583] - debug: [DB 임대됨 threadId = 612147]
+2017-09-21 01:25:28.611 [pid:26583] - debug: 클로즈!
+2017-09-21 01:25:28.611 [pid:26583] - debug: [DB 반납됨 threadId = 612147]
+2017-09-21 01:25:28.613 [pid:26583] - sql: [threadId=612147] SELECT * FROM naver_shopping_adgroup
+2017-09-21 01:25:28.614 [pid:26583] - sql: selected data:  
+{ '0': 
+   { no: 285,
+     id: 'grp-a001-02-000000002315010',
+     name: 'TEST_디자인 케이스',
+     campaign_id: 'cmp-a001-02-000000000354348',
+     campaign_name: '피코그라프_케이스',
+     site: 'http://www.picograph.kr',
+     bid_amt: 50,
+     total_ad_count: 0,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '1': 
+   { no: 286,
+     id: 'grp-a001-02-000000002977893',
+     name: 'PG_피코포토',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 3,
+     bidding_ad_count: 1,
+     is_on_stage: 0,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '2': 
+   { no: 287,
+     id: 'grp-a001-02-000000002977906',
+     name: 'PG_사진인화',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 300,
+     total_ad_count: 2,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '3': 
+   { no: 288,
+     id: 'grp-a001-02-000000002977929',
+     name: 'PG_퍼즐액자',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 1,
+     bidding_ad_count: 1,
+     is_on_stage: 0,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '4': 
+   { no: 289,
+     id: 'grp-a001-02-000000002977957',
+     name: 'PG_캔버스',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 400,
+     total_ad_count: 1,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' } }
+2017-09-21 01:25:28.615 [pid:26583] - debug: [STATUS 200] OK-SUCCESS
+2017-09-21 01:25:28.616 [pid:26583] - debug: ---------- client disconnection ------------
+2017-09-21 01:25:28.616 [pid:26583] - debug: runtime=14ms
+2017-09-21 01:25:28.616 [pid:26583] - debug: 
+2017-09-21 01:26:03.558 [pid:26583] - debug: ------------ client connection ------------
+2017-09-21 01:26:03.559 [pid:26583] - debug: [Process Id] 26583
+2017-09-21 01:26:03.559 [pid:26583] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 01:26:03.559 [pid:26583] - debug: [CLIENT INFO] Windows 10.0 / Chrome (61.0.3163.91) / Microsoft Windows
+2017-09-21 01:26:03.559 [pid:26583] - debug: [HTTP GET] http://node4.mas-i.com/adgroups
+2017-09-21 01:26:03.560 [pid:26583] - debug: 애드그룹 GET 컨트롤러 실행
+2017-09-21 01:26:03.560 [pid:26583] - debug: [HTTP GET PARAMS] type=false
+2017-09-21 01:26:03.560 [pid:26583] - debug: SELECTAdgroup 실행
+2017-09-21 01:26:03.561 [pid:26583] - debug: [DB 임대됨 threadId = 612147]
+2017-09-21 01:26:03.561 [pid:26583] - debug: 클로즈!
+2017-09-21 01:26:03.562 [pid:26583] - debug: [DB 반납됨 threadId = 612147]
+2017-09-21 01:26:03.562 [pid:26583] - sql: [threadId=612147] SELECT * FROM naver_shopping_adgroup
+2017-09-21 01:26:03.563 [pid:26583] - sql: selected data:  
+{ '0': 
+   { no: 285,
+     id: 'grp-a001-02-000000002315010',
+     name: 'TEST_디자인 케이스',
+     campaign_id: 'cmp-a001-02-000000000354348',
+     campaign_name: '피코그라프_케이스',
+     site: 'http://www.picograph.kr',
+     bid_amt: 50,
+     total_ad_count: 0,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '1': 
+   { no: 286,
+     id: 'grp-a001-02-000000002977893',
+     name: 'PG_피코포토',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 3,
+     bidding_ad_count: 1,
+     is_on_stage: 0,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '2': 
+   { no: 287,
+     id: 'grp-a001-02-000000002977906',
+     name: 'PG_사진인화',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 300,
+     total_ad_count: 2,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '3': 
+   { no: 288,
+     id: 'grp-a001-02-000000002977929',
+     name: 'PG_퍼즐액자',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 1,
+     bidding_ad_count: 1,
+     is_on_stage: 0,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '4': 
+   { no: 289,
+     id: 'grp-a001-02-000000002977957',
+     name: 'PG_캔버스',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 400,
+     total_ad_count: 1,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' } }
+2017-09-21 01:26:03.564 [pid:26583] - debug: [STATUS 200] OK-SUCCESS
+2017-09-21 01:26:03.564 [pid:26583] - debug: ---------- client disconnection ------------
+2017-09-21 01:26:03.564 [pid:26583] - debug: runtime=9ms
+2017-09-21 01:26:03.564 [pid:26583] - debug: 
+2017-09-21 01:26:11.864 [pid:26583] - debug: ------------ client connection ------------
+2017-09-21 01:26:11.865 [pid:26583] - debug: [Process Id] 26583
+2017-09-21 01:26:11.865 [pid:26583] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 01:26:11.865 [pid:26583] - debug: [CLIENT INFO] Windows 10.0 / Chrome (61.0.3163.91) / Microsoft Windows
+2017-09-21 01:26:11.866 [pid:26583] - debug: [HTTP GET] http://node4.mas-i.com/adgroups
+2017-09-21 01:26:11.867 [pid:26583] - debug: 애드그룹 GET 컨트롤러 실행
+2017-09-21 01:26:11.868 [pid:26583] - debug: [HTTP GET PARAMS] type=false
+2017-09-21 01:26:11.868 [pid:26583] - debug: SELECTAdgroup 실행
+2017-09-21 01:26:11.869 [pid:26583] - debug: [DB 임대됨 threadId = 612147]
+2017-09-21 01:26:11.869 [pid:26583] - debug: 클로즈!
+2017-09-21 01:26:11.869 [pid:26583] - debug: [DB 반납됨 threadId = 612147]
+2017-09-21 01:26:11.870 [pid:26583] - sql: [threadId=612147] SELECT * FROM naver_shopping_adgroup
+2017-09-21 01:26:11.872 [pid:26583] - sql: selected data:  
+{ '0': 
+   { no: 285,
+     id: 'grp-a001-02-000000002315010',
+     name: 'TEST_디자인 케이스',
+     campaign_id: 'cmp-a001-02-000000000354348',
+     campaign_name: '피코그라프_케이스',
+     site: 'http://www.picograph.kr',
+     bid_amt: 50,
+     total_ad_count: 0,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '1': 
+   { no: 286,
+     id: 'grp-a001-02-000000002977893',
+     name: 'PG_피코포토',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 3,
+     bidding_ad_count: 1,
+     is_on_stage: 0,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '2': 
+   { no: 287,
+     id: 'grp-a001-02-000000002977906',
+     name: 'PG_사진인화',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 300,
+     total_ad_count: 2,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '3': 
+   { no: 288,
+     id: 'grp-a001-02-000000002977929',
+     name: 'PG_퍼즐액자',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 1,
+     bidding_ad_count: 1,
+     is_on_stage: 0,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '4': 
+   { no: 289,
+     id: 'grp-a001-02-000000002977957',
+     name: 'PG_캔버스',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 400,
+     total_ad_count: 1,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' } }
+2017-09-21 01:26:11.872 [pid:26583] - debug: [STATUS 200] OK-SUCCESS
+2017-09-21 01:26:11.873 [pid:26583] - debug: ---------- client disconnection ------------
+2017-09-21 01:26:11.873 [pid:26583] - debug: runtime=9ms
+2017-09-21 01:26:11.873 [pid:26583] - debug: 
+2017-09-21 01:26:14.533 [pid:26583] - debug: ------------ client connection ------------
+2017-09-21 01:26:14.534 [pid:26583] - debug: [Process Id] 26583
+2017-09-21 01:26:14.534 [pid:26583] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 01:26:14.535 [pid:26583] - debug: [CLIENT INFO] Windows 10.0 / Chrome (61.0.3163.91) / Microsoft Windows
+2017-09-21 01:26:14.536 [pid:26583] - debug: [HTTP GET] http://node4.mas-i.com/adgroups
+2017-09-21 01:26:14.538 [pid:26583] - debug: 애드그룹 GET 컨트롤러 실행
+2017-09-21 01:26:14.538 [pid:26583] - debug: [HTTP GET PARAMS] type=false
+2017-09-21 01:26:14.538 [pid:26583] - debug: SELECTAdgroup 실행
+2017-09-21 01:26:14.539 [pid:26583] - debug: [DB 임대됨 threadId = 612147]
+2017-09-21 01:26:14.539 [pid:26583] - debug: 클로즈!
+2017-09-21 01:26:14.539 [pid:26583] - debug: [DB 반납됨 threadId = 612147]
+2017-09-21 01:26:14.541 [pid:26583] - sql: [threadId=612147] SELECT * FROM naver_shopping_adgroup
+2017-09-21 01:26:14.543 [pid:26583] - sql: selected data:  
+{ '0': 
+   { no: 285,
+     id: 'grp-a001-02-000000002315010',
+     name: 'TEST_디자인 케이스',
+     campaign_id: 'cmp-a001-02-000000000354348',
+     campaign_name: '피코그라프_케이스',
+     site: 'http://www.picograph.kr',
+     bid_amt: 50,
+     total_ad_count: 0,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '1': 
+   { no: 286,
+     id: 'grp-a001-02-000000002977893',
+     name: 'PG_피코포토',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 3,
+     bidding_ad_count: 1,
+     is_on_stage: 0,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '2': 
+   { no: 287,
+     id: 'grp-a001-02-000000002977906',
+     name: 'PG_사진인화',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 300,
+     total_ad_count: 2,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '3': 
+   { no: 288,
+     id: 'grp-a001-02-000000002977929',
+     name: 'PG_퍼즐액자',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 1,
+     bidding_ad_count: 1,
+     is_on_stage: 0,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '4': 
+   { no: 289,
+     id: 'grp-a001-02-000000002977957',
+     name: 'PG_캔버스',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 400,
+     total_ad_count: 1,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' } }
+2017-09-21 01:26:14.543 [pid:26583] - debug: [STATUS 200] OK-SUCCESS
+2017-09-21 01:26:14.544 [pid:26583] - debug: ---------- client disconnection ------------
+2017-09-21 01:26:14.544 [pid:26583] - debug: runtime=11ms
+2017-09-21 01:26:14.545 [pid:26583] - debug: 
+2017-09-21 01:26:20.022 [pid:26583] - debug: ------------ client connection ------------
+2017-09-21 01:26:20.023 [pid:26583] - debug: [Process Id] 26583
+2017-09-21 01:26:20.023 [pid:26583] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 01:26:20.027 [pid:26583] - debug: [CLIENT INFO] Windows 10.0 / Chrome (61.0.3163.91) / Microsoft Windows
+2017-09-21 01:26:20.028 [pid:26583] - debug: [HTTP GET] http://node4.mas-i.com/adgroups
+2017-09-21 01:26:20.029 [pid:26583] - debug: 애드그룹 GET 컨트롤러 실행
+2017-09-21 01:26:20.029 [pid:26583] - debug: [HTTP GET PARAMS] type=false
+2017-09-21 01:26:20.029 [pid:26583] - debug: SELECTAdgroup 실행
+2017-09-21 01:26:20.030 [pid:26583] - debug: [DB 임대됨 threadId = 612147]
+2017-09-21 01:26:20.030 [pid:26583] - debug: 클로즈!
+2017-09-21 01:26:20.030 [pid:26583] - debug: [DB 반납됨 threadId = 612147]
+2017-09-21 01:26:20.032 [pid:26583] - sql: [threadId=612147] SELECT * FROM naver_shopping_adgroup
+2017-09-21 01:26:20.033 [pid:26583] - sql: selected data:  
+{ '0': 
+   { no: 285,
+     id: 'grp-a001-02-000000002315010',
+     name: 'TEST_디자인 케이스',
+     campaign_id: 'cmp-a001-02-000000000354348',
+     campaign_name: '피코그라프_케이스',
+     site: 'http://www.picograph.kr',
+     bid_amt: 50,
+     total_ad_count: 0,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '1': 
+   { no: 286,
+     id: 'grp-a001-02-000000002977893',
+     name: 'PG_피코포토',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 3,
+     bidding_ad_count: 1,
+     is_on_stage: 0,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '2': 
+   { no: 287,
+     id: 'grp-a001-02-000000002977906',
+     name: 'PG_사진인화',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 300,
+     total_ad_count: 2,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '3': 
+   { no: 288,
+     id: 'grp-a001-02-000000002977929',
+     name: 'PG_퍼즐액자',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 1,
+     bidding_ad_count: 1,
+     is_on_stage: 0,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '4': 
+   { no: 289,
+     id: 'grp-a001-02-000000002977957',
+     name: 'PG_캔버스',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 400,
+     total_ad_count: 1,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' } }
+2017-09-21 01:26:20.034 [pid:26583] - debug: [STATUS 200] OK-SUCCESS
+2017-09-21 01:26:20.035 [pid:26583] - debug: ---------- client disconnection ------------
+2017-09-21 01:26:20.036 [pid:26583] - debug: runtime=13ms
+2017-09-21 01:26:20.036 [pid:26583] - debug: 
+2017-09-21 02:53:43.123 [pid:24832] - debug: ------------ client connection ------------
+2017-09-21 02:53:43.125 [pid:24832] - debug: [Process Id] 24832
+2017-09-21 02:53:43.126 [pid:24832] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 02:53:43.126 [pid:24832] - debug: [CLIENT INFO] Windows 10.0 / Chrome (61.0.3163.91) / Microsoft Windows
+2017-09-21 02:53:43.128 [pid:24832] - debug: [HTTP GET] http://node4.mas-i.com/adgroups
+2017-09-21 02:53:43.134 [pid:24832] - debug: 애드그룹 GET 컨트롤러 실행
+2017-09-21 02:53:43.134 [pid:24832] - debug: [HTTP GET PARAMS] type=false
+2017-09-21 02:53:43.135 [pid:24832] - debug: SELECTAdgroup 실행
+2017-09-21 02:53:43.226 [pid:24832] - debug: [DB 접속됨 threadId = 612841]
+2017-09-21 02:53:43.228 [pid:24832] - debug: [DB 임대됨 threadId = 612841]
+2017-09-21 02:53:43.232 [pid:24832] - debug: 클로즈!
+2017-09-21 02:53:43.234 [pid:24832] - debug: [DB 반납됨 threadId = 612841]
+2017-09-21 02:53:43.245 [pid:24832] - sql: [threadId=612841] SELECT * FROM naver_shopping_adgroup
+2017-09-21 02:53:43.252 [pid:24832] - sql: selected data:  
+{ '0': 
+   { no: 285,
+     id: 'grp-a001-02-000000002315010',
+     name: 'TEST_디자인 케이스',
+     campaign_id: 'cmp-a001-02-000000000354348',
+     campaign_name: '피코그라프_케이스',
+     site: 'http://www.picograph.kr',
+     bid_amt: 50,
+     total_ad_count: 0,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '1': 
+   { no: 286,
+     id: 'grp-a001-02-000000002977893',
+     name: 'PG_피코포토',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 3,
+     bidding_ad_count: 1,
+     is_on_stage: 0,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '2': 
+   { no: 287,
+     id: 'grp-a001-02-000000002977906',
+     name: 'PG_사진인화',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 300,
+     total_ad_count: 2,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '3': 
+   { no: 288,
+     id: 'grp-a001-02-000000002977929',
+     name: 'PG_퍼즐액자',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 1,
+     bidding_ad_count: 1,
+     is_on_stage: 0,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '4': 
+   { no: 289,
+     id: 'grp-a001-02-000000002977957',
+     name: 'PG_캔버스',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 400,
+     total_ad_count: 1,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' } }
+2017-09-21 02:53:43.254 [pid:24832] - debug: [STATUS 200] OK-SUCCESS
+2017-09-21 02:53:43.260 [pid:24832] - debug: ---------- client disconnection ------------
+2017-09-21 02:53:43.260 [pid:24832] - debug: runtime=141ms
+2017-09-21 02:53:43.261 [pid:24832] - debug: 
+2017-09-21 03:04:38.880 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 03:04:38.882 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 03:04:38.883 [pid:7374] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 03:04:38.883 [pid:7374] - debug: [CLIENT INFO] Windows 10.0 / Chrome (61.0.3163.91) / Microsoft Windows
+2017-09-21 03:04:38.886 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/adgroups
+2017-09-21 03:04:38.892 [pid:7374] - debug: 애드그룹 GET 컨트롤러 실행
+2017-09-21 03:04:38.892 [pid:7374] - debug: [HTTP GET PARAMS] type=false
+2017-09-21 03:04:38.892 [pid:7374] - debug: SELECTAdgroup 실행
+2017-09-21 03:04:38.939 [pid:7374] - debug: [DB 접속됨 threadId = 612970]
+2017-09-21 03:04:38.940 [pid:7374] - debug: [DB 임대됨 threadId = 612970]
+2017-09-21 03:04:38.941 [pid:7374] - debug: 클로즈!
+2017-09-21 03:04:38.942 [pid:7374] - debug: [DB 반납됨 threadId = 612970]
+2017-09-21 03:04:38.946 [pid:7374] - sql: [threadId=612970] SELECT * FROM naver_shopping_adgroup
+2017-09-21 03:04:38.949 [pid:7374] - sql: selected data:  
+{ '0': 
+   { no: 285,
+     id: 'grp-a001-02-000000002315010',
+     name: 'TEST_디자인 케이스',
+     campaign_id: 'cmp-a001-02-000000000354348',
+     campaign_name: '피코그라프_케이스',
+     site: 'http://www.picograph.kr',
+     bid_amt: 50,
+     total_ad_count: 0,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '1': 
+   { no: 286,
+     id: 'grp-a001-02-000000002977893',
+     name: 'PG_피코포토',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 3,
+     bidding_ad_count: 1,
+     is_on_stage: 0,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '2': 
+   { no: 287,
+     id: 'grp-a001-02-000000002977906',
+     name: 'PG_사진인화',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 300,
+     total_ad_count: 2,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '3': 
+   { no: 288,
+     id: 'grp-a001-02-000000002977929',
+     name: 'PG_퍼즐액자',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 1,
+     bidding_ad_count: 1,
+     is_on_stage: 0,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '4': 
+   { no: 289,
+     id: 'grp-a001-02-000000002977957',
+     name: 'PG_캔버스',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 400,
+     total_ad_count: 1,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' } }
+2017-09-21 03:04:38.950 [pid:7374] - debug: [STATUS 200] OK-SUCCESS
+2017-09-21 03:04:38.955 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 03:04:38.955 [pid:7374] - debug: runtime=80ms
+2017-09-21 03:04:38.955 [pid:7374] - debug: 
+2017-09-21 04:36:01.370 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 04:36:01.374 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 04:36:01.375 [pid:7374] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 04:36:01.375 [pid:7374] - debug: [CLIENT INFO] Windows 10.0 / Chrome (60.0.3112.113) / Microsoft Windows
+2017-09-21 04:36:01.375 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/
+2017-09-21 04:36:01.382 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 04:36:01.382 [pid:7374] - debug: runtime=13ms
+2017-09-21 04:36:01.383 [pid:7374] - debug: 
+2017-09-21 04:36:01.452 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 04:36:01.453 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 04:36:01.454 [pid:7374] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 04:36:01.454 [pid:7374] - debug: [CLIENT INFO] Windows 10.0 / Chrome (60.0.3112.113) / Microsoft Windows
+2017-09-21 04:36:01.455 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/inline.bundle.js
+2017-09-21 04:36:01.457 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 04:36:01.457 [pid:7374] - debug: runtime=5ms
+2017-09-21 04:36:01.458 [pid:7374] - debug: 
+2017-09-21 04:36:01.490 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 04:36:01.490 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 04:36:01.490 [pid:7374] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 04:36:01.491 [pid:7374] - debug: [CLIENT INFO] Windows 10.0 / Chrome (60.0.3112.113) / Microsoft Windows
+2017-09-21 04:36:01.491 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/polyfills.bundle.js
+2017-09-21 04:36:01.495 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 04:36:01.495 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 04:36:01.495 [pid:7374] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 04:36:01.495 [pid:7374] - debug: [CLIENT INFO] Windows 10.0 / Chrome (60.0.3112.113) / Microsoft Windows
+2017-09-21 04:36:01.495 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/styles.bundle.js
+2017-09-21 04:36:01.498 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 04:36:01.498 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 04:36:01.498 [pid:7374] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 04:36:01.498 [pid:7374] - debug: [CLIENT INFO] Windows 10.0 / Chrome (60.0.3112.113) / Microsoft Windows
+2017-09-21 04:36:01.499 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/main.bundle.js
+2017-09-21 04:36:01.499 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 04:36:01.500 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 04:36:01.501 [pid:7374] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 04:36:01.501 [pid:7374] - debug: [CLIENT INFO] Windows 10.0 / Chrome (60.0.3112.113) / Microsoft Windows
+2017-09-21 04:36:01.501 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/vendor.bundle.js
+2017-09-21 04:36:01.502 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 04:36:01.502 [pid:7374] - debug: runtime=4ms
+2017-09-21 04:36:01.502 [pid:7374] - debug: 
+2017-09-21 04:36:02.145 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 04:36:02.146 [pid:7374] - debug: runtime=655ms
+2017-09-21 04:36:02.146 [pid:7374] - debug: 
+2017-09-21 04:36:02.210 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 04:36:02.211 [pid:7374] - debug: runtime=716ms
+2017-09-21 04:36:02.212 [pid:7374] - debug: 
+2017-09-21 04:36:08.052 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 04:36:08.053 [pid:7374] - debug: runtime=6553ms
+2017-09-21 04:36:08.064 [pid:7374] - debug: 
+2017-09-21 04:36:08.614 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 04:36:08.615 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 04:36:08.616 [pid:7374] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 04:36:08.617 [pid:7374] - debug: [CLIENT INFO] Windows 10.0 / Chrome (60.0.3112.113) / Microsoft Windows
+2017-09-21 04:36:08.617 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/adgroups
+2017-09-21 04:36:08.618 [pid:7374] - debug: 애드그룹 GET 컨트롤러 실행
+2017-09-21 04:36:08.618 [pid:7374] - debug: [HTTP GET PARAMS] type=false
+2017-09-21 04:36:08.618 [pid:7374] - debug: SELECTAdgroup 실행
+2017-09-21 04:36:08.619 [pid:7374] - debug: [DB 임대됨 threadId = 612970]
+2017-09-21 04:36:08.619 [pid:7374] - debug: 클로즈!
+2017-09-21 04:36:08.619 [pid:7374] - debug: [DB 반납됨 threadId = 612970]
+2017-09-21 04:36:08.621 [pid:7374] - sql: [threadId=612970] SELECT * FROM naver_shopping_adgroup
+2017-09-21 04:36:08.623 [pid:7374] - sql: selected data:  
+{ '0': 
+   { no: 285,
+     id: 'grp-a001-02-000000002315010',
+     name: 'TEST_디자인 케이스',
+     campaign_id: 'cmp-a001-02-000000000354348',
+     campaign_name: '피코그라프_케이스',
+     site: 'http://www.picograph.kr',
+     bid_amt: 50,
+     total_ad_count: 0,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '1': 
+   { no: 286,
+     id: 'grp-a001-02-000000002977893',
+     name: 'PG_피코포토',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 3,
+     bidding_ad_count: 1,
+     is_on_stage: 0,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '2': 
+   { no: 287,
+     id: 'grp-a001-02-000000002977906',
+     name: 'PG_사진인화',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 300,
+     total_ad_count: 2,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '3': 
+   { no: 288,
+     id: 'grp-a001-02-000000002977929',
+     name: 'PG_퍼즐액자',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 1,
+     bidding_ad_count: 1,
+     is_on_stage: 0,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '4': 
+   { no: 289,
+     id: 'grp-a001-02-000000002977957',
+     name: 'PG_캔버스',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 400,
+     total_ad_count: 1,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' } }
+2017-09-21 04:36:08.624 [pid:7374] - debug: [STATUS 200] OK-SUCCESS
+2017-09-21 04:36:08.625 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 04:36:08.625 [pid:7374] - debug: runtime=12ms
+2017-09-21 04:36:08.625 [pid:7374] - debug: 
+2017-09-21 04:37:04.354 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 04:37:04.354 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 04:37:04.355 [pid:7374] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 04:37:04.357 [pid:7374] - debug: [CLIENT INFO] Windows 10.0 / Chrome (60.0.3112.113) / Microsoft Windows
+2017-09-21 04:37:04.357 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/inline.bundle.js.map
+2017-09-21 04:37:04.358 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 04:37:04.358 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 04:37:04.358 [pid:7374] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 04:37:04.358 [pid:7374] - debug: [CLIENT INFO] Windows 10.0 / Chrome (60.0.3112.113) / Microsoft Windows
+2017-09-21 04:37:04.358 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/polyfills.bundle.js.map
+2017-09-21 04:37:04.359 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 04:37:04.359 [pid:7374] - debug: runtime=6ms
+2017-09-21 04:37:04.359 [pid:7374] - debug: 
+2017-09-21 04:37:04.360 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 04:37:04.360 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 04:37:04.360 [pid:7374] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 04:37:04.360 [pid:7374] - debug: [CLIENT INFO] Windows 10.0 / Chrome (60.0.3112.113) / Microsoft Windows
+2017-09-21 04:37:04.361 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/styles.bundle.js.map
+2017-09-21 04:37:04.363 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 04:37:04.363 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 04:37:04.363 [pid:7374] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 04:37:04.364 [pid:7374] - debug: [CLIENT INFO] Windows 10.0 / Chrome (60.0.3112.113) / Microsoft Windows
+2017-09-21 04:37:04.364 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/vendor.bundle.js.map
+2017-09-21 04:37:04.376 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 04:37:04.377 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 04:37:04.377 [pid:7374] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 04:37:04.377 [pid:7374] - debug: [CLIENT INFO] Windows 10.0 / Chrome (60.0.3112.113) / Microsoft Windows
+2017-09-21 04:37:04.378 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/main.bundle.js.map
+2017-09-21 04:37:04.379 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 04:37:04.379 [pid:7374] - debug: runtime=3ms
+2017-09-21 04:37:04.379 [pid:7374] - debug: 
+2017-09-21 04:37:04.998 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 04:37:04.999 [pid:7374] - debug: runtime=640ms
+2017-09-21 04:37:04.999 [pid:7374] - debug: 
+2017-09-21 04:37:05.196 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 04:37:05.197 [pid:7374] - debug: runtime=836ms
+2017-09-21 04:37:05.197 [pid:7374] - debug: 
+2017-09-21 04:37:08.530 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 04:37:08.531 [pid:7374] - debug: runtime=4169ms
+2017-09-21 04:37:08.531 [pid:7374] - debug: 
+2017-09-21 04:37:22.331 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 04:37:22.331 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 04:37:22.332 [pid:7374] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 04:37:22.332 [pid:7374] - debug: [CLIENT INFO] Windows 10.0 / Chrome (60.0.3112.113) / Microsoft Windows
+2017-09-21 04:37:22.332 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/%3Faaa=1111
+2017-09-21 04:37:22.333 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 04:37:22.333 [pid:7374] - debug: runtime=2ms
+2017-09-21 04:37:22.334 [pid:7374] - debug: 
+2017-09-21 04:37:22.400 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 04:37:22.400 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 04:37:22.400 [pid:7374] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 04:37:22.401 [pid:7374] - debug: [CLIENT INFO] Windows 10.0 / Chrome (60.0.3112.113) / Microsoft Windows
+2017-09-21 04:37:22.401 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/inline.bundle.js
+2017-09-21 04:37:22.402 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 04:37:22.402 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 04:37:22.402 [pid:7374] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 04:37:22.402 [pid:7374] - debug: [CLIENT INFO] Windows 10.0 / Chrome (60.0.3112.113) / Microsoft Windows
+2017-09-21 04:37:22.402 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/polyfills.bundle.js
+2017-09-21 04:37:22.403 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 04:37:22.403 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 04:37:22.403 [pid:7374] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 04:37:22.403 [pid:7374] - debug: [CLIENT INFO] Windows 10.0 / Chrome (60.0.3112.113) / Microsoft Windows
+2017-09-21 04:37:22.404 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/styles.bundle.js
+2017-09-21 04:37:22.405 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 04:37:22.405 [pid:7374] - debug: runtime=6ms
+2017-09-21 04:37:22.405 [pid:7374] - debug: 
+2017-09-21 04:37:22.405 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 04:37:22.405 [pid:7374] - debug: runtime=4ms
+2017-09-21 04:37:22.406 [pid:7374] - debug: 
+2017-09-21 04:37:22.406 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 04:37:22.406 [pid:7374] - debug: runtime=3ms
+2017-09-21 04:37:22.406 [pid:7374] - debug: 
+2017-09-21 04:37:22.407 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 04:37:22.407 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 04:37:22.407 [pid:7374] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 04:37:22.408 [pid:7374] - debug: [CLIENT INFO] Windows 10.0 / Chrome (60.0.3112.113) / Microsoft Windows
+2017-09-21 04:37:22.408 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/vendor.bundle.js
+2017-09-21 04:37:22.408 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 04:37:22.409 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 04:37:22.409 [pid:7374] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 04:37:22.409 [pid:7374] - debug: [CLIENT INFO] Windows 10.0 / Chrome (60.0.3112.113) / Microsoft Windows
+2017-09-21 04:37:22.409 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/main.bundle.js
+2017-09-21 04:37:22.409 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 04:37:22.409 [pid:7374] - debug: runtime=3ms
+2017-09-21 04:37:22.409 [pid:7374] - debug: 
+2017-09-21 04:37:22.410 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 04:37:22.410 [pid:7374] - debug: runtime=2ms
+2017-09-21 04:37:22.410 [pid:7374] - debug: 
+2017-09-21 04:37:23.284 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 04:37:23.284 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 04:37:23.285 [pid:7374] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 04:37:23.285 [pid:7374] - debug: [CLIENT INFO] Windows 10.0 / Chrome (60.0.3112.113) / Microsoft Windows
+2017-09-21 04:37:23.285 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/inline.bundle.js.map
+2017-09-21 04:37:23.287 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 04:37:23.287 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 04:37:23.288 [pid:7374] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 04:37:23.288 [pid:7374] - debug: [CLIENT INFO] Windows 10.0 / Chrome (60.0.3112.113) / Microsoft Windows
+2017-09-21 04:37:23.288 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/polyfills.bundle.js.map
+2017-09-21 04:37:23.290 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 04:37:23.290 [pid:7374] - debug: runtime=7ms
+2017-09-21 04:37:23.291 [pid:7374] - debug: 
+2017-09-21 04:37:23.294 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 04:37:23.305 [pid:7374] - debug: runtime=8ms
+2017-09-21 04:37:23.305 [pid:7374] - debug: 
+2017-09-21 04:37:23.306 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 04:37:23.306 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 04:37:23.306 [pid:7374] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 04:37:23.306 [pid:7374] - debug: [CLIENT INFO] Windows 10.0 / Chrome (60.0.3112.113) / Microsoft Windows
+2017-09-21 04:37:23.307 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/styles.bundle.js.map
+2017-09-21 04:37:23.307 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 04:37:23.307 [pid:7374] - debug: runtime=1ms
+2017-09-21 04:37:23.307 [pid:7374] - debug: 
+2017-09-21 04:37:23.389 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 04:37:23.389 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 04:37:23.390 [pid:7374] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 04:37:23.390 [pid:7374] - debug: [CLIENT INFO] Windows 10.0 / Chrome (60.0.3112.113) / Microsoft Windows
+2017-09-21 04:37:23.390 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/vendor.bundle.js.map
+2017-09-21 04:37:23.390 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 04:37:23.390 [pid:7374] - debug: runtime=1ms
+2017-09-21 04:37:23.391 [pid:7374] - debug: 
+2017-09-21 04:37:23.555 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 04:37:23.555 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 04:37:23.555 [pid:7374] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 04:37:23.555 [pid:7374] - debug: [CLIENT INFO] Windows 10.0 / Chrome (60.0.3112.113) / Microsoft Windows
+2017-09-21 04:37:23.555 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/adgroups
+2017-09-21 04:37:23.556 [pid:7374] - debug: 애드그룹 GET 컨트롤러 실행
+2017-09-21 04:37:23.556 [pid:7374] - debug: [HTTP GET PARAMS] type=false
+2017-09-21 04:37:23.556 [pid:7374] - debug: SELECTAdgroup 실행
+2017-09-21 04:37:23.558 [pid:7374] - debug: [DB 임대됨 threadId = 612970]
+2017-09-21 04:37:23.558 [pid:7374] - debug: 클로즈!
+2017-09-21 04:37:23.558 [pid:7374] - debug: [DB 반납됨 threadId = 612970]
+2017-09-21 04:37:23.560 [pid:7374] - sql: [threadId=612970] SELECT * FROM naver_shopping_adgroup
+2017-09-21 04:37:23.561 [pid:7374] - sql: selected data:  
+{ '0': 
+   { no: 285,
+     id: 'grp-a001-02-000000002315010',
+     name: 'TEST_디자인 케이스',
+     campaign_id: 'cmp-a001-02-000000000354348',
+     campaign_name: '피코그라프_케이스',
+     site: 'http://www.picograph.kr',
+     bid_amt: 50,
+     total_ad_count: 0,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '1': 
+   { no: 286,
+     id: 'grp-a001-02-000000002977893',
+     name: 'PG_피코포토',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 3,
+     bidding_ad_count: 1,
+     is_on_stage: 0,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '2': 
+   { no: 287,
+     id: 'grp-a001-02-000000002977906',
+     name: 'PG_사진인화',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 300,
+     total_ad_count: 2,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '3': 
+   { no: 288,
+     id: 'grp-a001-02-000000002977929',
+     name: 'PG_퍼즐액자',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 1,
+     bidding_ad_count: 1,
+     is_on_stage: 0,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '4': 
+   { no: 289,
+     id: 'grp-a001-02-000000002977957',
+     name: 'PG_캔버스',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 400,
+     total_ad_count: 1,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' } }
+2017-09-21 04:37:23.561 [pid:7374] - debug: [STATUS 200] OK-SUCCESS
+2017-09-21 04:37:23.562 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 04:37:23.562 [pid:7374] - debug: runtime=7ms
+2017-09-21 04:37:23.562 [pid:7374] - debug: 
+2017-09-21 04:37:23.565 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 04:37:23.565 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 04:37:23.566 [pid:7374] - debug: [ip] ::ffff:125.131.99.75
+2017-09-21 04:37:23.566 [pid:7374] - debug: [CLIENT INFO] Windows 10.0 / Chrome (60.0.3112.113) / Microsoft Windows
+2017-09-21 04:37:23.566 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/main.bundle.js.map
+2017-09-21 04:37:23.566 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 04:37:23.566 [pid:7374] - debug: runtime=1ms
+2017-09-21 04:37:23.566 [pid:7374] - debug: 
+2017-09-21 05:10:17.236 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 05:10:17.236 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 05:10:17.236 [pid:7374] - debug: [ip] ::ffff:23.248.219.88
+2017-09-21 05:10:17.237 [pid:7374] - debug: [CLIENT INFO] Windows 8 / IE (10.0) / Microsoft Windows
+2017-09-21 05:10:17.237 [pid:7374] - debug: [HTTP GET] http://121.124.124.178:80/manager/html
+2017-09-21 05:10:17.239 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 05:10:17.239 [pid:7374] - debug: runtime=3ms
+2017-09-21 05:10:17.240 [pid:7374] - debug: 
+2017-09-21 05:15:43.698 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 05:15:43.698 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 05:15:43.698 [pid:7374] - debug: [ip] ::ffff:213.180.203.46
+2017-09-21 05:15:43.698 [pid:7374] - debug: [CLIENT INFO] unknown / unknown (undefined) / unknown
+2017-09-21 05:15:43.698 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/robots.txt
+2017-09-21 05:15:43.700 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 05:15:43.700 [pid:7374] - debug: runtime=3ms
+2017-09-21 05:15:43.700 [pid:7374] - debug: 
+2017-09-21 05:15:47.339 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 05:15:47.339 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 05:15:47.339 [pid:7374] - debug: [ip] ::ffff:213.180.203.46
+2017-09-21 05:15:47.340 [pid:7374] - debug: [CLIENT INFO] unknown / unknown (undefined) / unknown
+2017-09-21 05:15:47.340 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/
+2017-09-21 05:15:47.342 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 05:15:47.343 [pid:7374] - debug: runtime=4ms
+2017-09-21 05:15:47.343 [pid:7374] - debug: 
+2017-09-21 05:15:49.236 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 05:15:49.236 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 05:15:49.236 [pid:7374] - debug: [ip] ::ffff:213.180.203.46
+2017-09-21 05:15:49.237 [pid:7374] - debug: [CLIENT INFO] unknown / unknown (undefined) / unknown
+2017-09-21 05:15:49.237 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/polyfills.bundle.js
+2017-09-21 05:15:50.881 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 05:15:50.882 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 05:15:50.884 [pid:7374] - debug: [ip] ::ffff:141.8.142.51
+2017-09-21 05:15:50.884 [pid:7374] - debug: [CLIENT INFO] unknown / unknown (undefined) / unknown
+2017-09-21 05:15:50.884 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/vendor.bundle.js
+2017-09-21 05:15:52.191 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 05:15:52.191 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 05:15:52.192 [pid:7374] - debug: [ip] ::ffff:213.180.203.46
+2017-09-21 05:15:52.192 [pid:7374] - debug: [CLIENT INFO] unknown / unknown (undefined) / unknown
+2017-09-21 05:15:52.192 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/inline.bundle.js
+2017-09-21 05:15:52.193 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 05:15:52.193 [pid:7374] - debug: runtime=6ms
+2017-09-21 05:15:52.193 [pid:7374] - debug: 
+2017-09-21 05:15:53.506 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 05:15:53.507 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 05:15:53.507 [pid:7374] - debug: [ip] ::ffff:141.8.142.51
+2017-09-21 05:15:53.508 [pid:7374] - debug: [CLIENT INFO] unknown / unknown (undefined) / unknown
+2017-09-21 05:15:53.508 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/main.bundle.js
+2017-09-21 05:15:53.510 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 05:15:53.510 [pid:7374] - debug: runtime=4ms
+2017-09-21 05:15:53.510 [pid:7374] - debug: 
+2017-09-21 05:15:54.426 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 05:15:54.427 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 05:15:54.427 [pid:7374] - debug: [ip] ::ffff:213.180.203.46
+2017-09-21 05:15:54.427 [pid:7374] - debug: [CLIENT INFO] unknown / unknown (undefined) / unknown
+2017-09-21 05:15:54.428 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/styles.bundle.js
+2017-09-21 05:15:55.736 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 05:15:55.736 [pid:7374] - debug: runtime=1311ms
+2017-09-21 05:15:55.737 [pid:7374] - debug: 
+2017-09-21 05:15:56.192 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 05:15:56.192 [pid:7374] - debug: runtime=6956ms
+2017-09-21 05:15:56.193 [pid:7374] - debug: 
+2017-09-21 05:17:09.950 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 05:17:09.950 [pid:7374] - debug: runtime=79069ms
+2017-09-21 05:17:09.951 [pid:7374] - debug: 
+2017-09-21 05:17:13.661 [pid:7374] - debug: ------------ client connection ------------
+2017-09-21 05:17:13.662 [pid:7374] - debug: [Process Id] 7374
+2017-09-21 05:17:13.663 [pid:7374] - debug: [ip] ::ffff:213.180.203.46
+2017-09-21 05:17:13.663 [pid:7374] - debug: [CLIENT INFO] unknown / unknown (undefined) / unknown
+2017-09-21 05:17:13.663 [pid:7374] - debug: [HTTP GET] http://node4.mas-i.com/adgroups
+2017-09-21 05:17:13.664 [pid:7374] - debug: 애드그룹 GET 컨트롤러 실행
+2017-09-21 05:17:13.664 [pid:7374] - debug: [HTTP GET PARAMS] type=false
+2017-09-21 05:17:13.665 [pid:7374] - debug: SELECTAdgroup 실행
+2017-09-21 05:17:13.666 [pid:7374] - debug: [DB 임대됨 threadId = 612970]
+2017-09-21 05:17:13.667 [pid:7374] - debug: 클로즈!
+2017-09-21 05:17:13.667 [pid:7374] - debug: [DB 반납됨 threadId = 612970]
+2017-09-21 05:17:13.669 [pid:7374] - sql: [threadId=612970] SELECT * FROM naver_shopping_adgroup
+2017-09-21 05:17:13.674 [pid:7374] - sql: selected data:  
+{ '0': 
+   { no: 285,
+     id: 'grp-a001-02-000000002315010',
+     name: 'TEST_디자인 케이스',
+     campaign_id: 'cmp-a001-02-000000000354348',
+     campaign_name: '피코그라프_케이스',
+     site: 'http://www.picograph.kr',
+     bid_amt: 50,
+     total_ad_count: 0,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '1': 
+   { no: 286,
+     id: 'grp-a001-02-000000002977893',
+     name: 'PG_피코포토',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 3,
+     bidding_ad_count: 1,
+     is_on_stage: 0,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '2': 
+   { no: 287,
+     id: 'grp-a001-02-000000002977906',
+     name: 'PG_사진인화',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 300,
+     total_ad_count: 2,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '3': 
+   { no: 288,
+     id: 'grp-a001-02-000000002977929',
+     name: 'PG_퍼즐액자',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 1,
+     bidding_ad_count: 1,
+     is_on_stage: 0,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '4': 
+   { no: 289,
+     id: 'grp-a001-02-000000002977957',
+     name: 'PG_캔버스',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 400,
+     total_ad_count: 1,
+     bidding_ad_count: 0,
+     is_on_stage: 0,
+     is_bidding: 0,
+     is_active: 'ON' } }
+2017-09-21 05:17:13.677 [pid:7374] - debug: [STATUS 200] OK-SUCCESS
+2017-09-21 05:17:13.679 [pid:7374] - debug: ---------- client disconnection ------------
+2017-09-21 05:17:13.680 [pid:7374] - debug: runtime=20ms
+2017-09-21 05:17:13.680 [pid:7374] - debug: 

@@ -1,0 +1,105 @@
+<div>
+    <h3>광고그룹 리스트</h3>
+  
+    <table *ngIf="adgroups" class="table table-striped">
+      <thead>
+          <tr>
+              <th>No</th>
+              <th>ID</th>
+              <th>캠페인명</th>
+              <th>광고그룹명</th>
+              <th>사이트주소</th>
+              <th>ON/OFF</th>
+              <th>선택</th>
+          </tr>
+      </thead>
+      <tbody> 
+          <tr *ngFor = "let adgroup of adgroups; let i = index" class="data-table-row" >
+              <td>{{ i + 1 }}</td>
+              <td>{{ adgroup.id }}</td>
+              <td>{{ adgroup.campaign_name }}</td>
+              <td>{{ adgroup.name }}</td>
+              <td>{{ adgroup.site }}</td>
+              <td>{{ adgroup.is_active }} 
+              <td><input type="checkbox"  [ngModel]="adgroup.is_on_stage == false ? 0 : adgroup.is_on_stage == true ? 1 : null" (ngModelChange)="adgroup.is_on_stage = $event ? 1 : 0" name="is_on_stage_{{ i }}" >{{adgroup.is_on_stage}}</td>
+          </tr>
+
+          <div *ngIf="successMessage" >{{successMessage}}</div>
+          <div *ngIf="errorMessage" >{{errorMessage}}</div>
+
+          <button class="btn btn-success" (click)="clickupdateAdgroups()">그룹동기화</button>
+          
+      </tbody>
+    </table>
+  
+  </div>
+  
+  <div>
+    <table *ngIf="adgroupons" class="table table-striped">
+      <thead>
+          <tr>
+              <th>No</th>
+              <th>캠페인명</th>
+              <th>광고그룹명</th>
+              <th>사이트주소</th>
+              <th>ON/OFF</th>
+              <th>선택</th>
+          </tr>
+      </thead>
+      <tbody *ngFor = "let adgroupon of adgroupons; let ix = index" > 
+          <tr  class="data-table-row" (click)="click_getadsid(adgroupon.id)">
+              <td>{{ ix + 1 }}</td> 
+              <td>{{ adgroupon.campaign_name }}</td>
+              <td>{{ adgroupon.name }}</td>
+              <td>{{ adgroupon.site }}</td>
+              <td>{{ adgroupon.is_active }}</td>  
+              <td><input type="checkbox"  [ngModel]="adgroupon.is_bidding == false ? 0 : adgroupon.is_bidding == true ? 1 : null" (ngModelChange)="adgroupon.is_bidding = $event ? 1 : 0" name="is_bidding_{{ i }}" >{{adgroupon.is_bidding}}</td>
+          </tr>
+          
+      </tbody>
+    </table>
+  
+  </div>
+
+
+
+  <div>
+    <table *ngIf="ads" class="table table-striped">
+      <thead>
+          <tr>
+              <th>No</th>
+              <th>키워드명</th>
+              <th>ON/OFF</th>
+              <th>현재순위</th>
+              <th>입찰가</th>
+              <th>희망순위</th>
+              <th>입찰한도</th>
+              <th>가감액</th>
+              <th>입찰</th>
+          </tr>
+      </thead>
+      <tbody> 
+          <tr *ngFor = "let ad of ads; let i = index" class="data-table-row" >
+              <td>{{ i + 1 }}</td>
+              <td>{{ ad.keywords }}</td>
+              <td>{{ ad.is_active }}</td>
+              <td>{{ ad.current_rank }} </td>
+              <td>{{ ad.bid_amt }}</td>
+              <td><input type="text" [(ngModel)]="ad.aimed_rank" ></td>
+              <td><input type="text" [(ngModel)]="ad.bid_amt_limit"> </td>
+              <td><input type="text" [(ngModel)]="ad.bid_change_amt"></td>
+              <td><input type="checkbox"  [ngModel]="ad.is_bidding == false ? 0 : ad.is_bidding == true ? 1 : null" (ngModelChange)="ad.is_bidding = $event ? 1 : 0" name="is_bidding_{{ i }}" >{{ad.is_bidding}}</td>
+          </tr>
+      </tbody>
+    </table>
+        <div *ngIf="successMessage_second" >{{successMessage_second}}</div>
+        <div *ngIf="errorMessage_second" >{{errorMessage_second}}</div>
+    
+  </div>
+
+  <button class="btn btn-success" (click)="click_bidding()" >입찰시작</button>
+
+<!-- <app-adgroups-on *ngIf="loadComponent"></app-adgroups-on>
+<app-adgroups-on></app-adgroups-on>-->
+  <!-- <app-adgroups-on ></app-adgroups-on>
+  <app-ads></app-ads> -->

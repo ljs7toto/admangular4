@@ -1,0 +1,279 @@
+2017-09-11 03:42:45.122 [pid:8011] - debug: 로그인 컨트롤러 실행
+2017-09-11 03:46:16.769 [pid:14264] - debug: 로그인 컨트롤러 실행
+2017-09-11 03:46:20.764 [pid:14264] - debug: 로그인 컨트롤러 실행
+2017-09-11 03:46:24.384 [pid:14264] - debug: 로그인 컨트롤러 실행
+2017-09-11 04:47:09.385 [pid:20125] - debug: ------------ client connection ------------
+2017-09-11 04:47:09.390 [pid:20125] - debug: [Process Id] 20125
+2017-09-11 04:48:44.412 [pid:23455] - debug: ------------ client connection ------------
+2017-09-11 04:48:44.416 [pid:23455] - debug: [Process Id] 23455
+2017-09-11 04:49:39.433 [pid:25130] - debug: ------------ client connection ------------
+2017-09-11 04:49:39.434 [pid:25130] - debug: [Process Id] 25130
+2017-09-11 04:50:36.169 [pid:26744] - debug: ------------ client connection ------------
+2017-09-11 04:50:36.171 [pid:26744] - debug: [Process Id] 26744
+2017-09-11 04:52:37.737 [pid:30125] - debug: ------------ client connection ------------
+2017-09-11 04:52:37.738 [pid:30125] - debug: [Process Id] 30125
+2017-09-11 04:52:37.739 [pid:30125] - debug: [ip] ::ffff:125.131.99.75
+2017-09-11 04:53:03.731 [pid:31125] - debug: ------------ client connection ------------
+2017-09-11 04:53:03.734 [pid:31125] - debug: [Process Id] 31125
+2017-09-11 04:53:03.736 [pid:31125] - debug: [ip] ::ffff:125.131.99.75
+2017-09-11 04:54:50.490 [pid:1545] - debug: ------------ client connection ------------
+2017-09-11 04:54:50.492 [pid:1545] - debug: [Process Id] 1545
+2017-09-11 04:54:50.493 [pid:1545] - debug: [ip] ::ffff:125.131.99.75
+2017-09-11 04:54:50.493 [pid:1545] - debug: [CLIENT INFO] unknown / insomnia (5.6.3) / unknown
+2017-09-11 04:54:50.494 [pid:1545] - debug: [HTTP POST] http://node4.mas-i.com/login
+2017-09-11 04:54:50.511 [pid:1545] - debug: 로그인 컨트롤러 실행
+2017-09-11 04:54:50.515 [pid:1545] - debug: ---------- client disconnection ------------
+2017-09-11 04:54:50.516 [pid:1545] - debug: runtime=35ms
+2017-09-11 04:54:50.516 [pid:1545] - debug: 
+2017-09-11 04:57:10.113 [pid:5934] - debug: ------------ client connection ------------
+2017-09-11 04:57:10.115 [pid:5934] - debug: [Process Id] 5934
+2017-09-11 04:57:10.115 [pid:5934] - debug: [ip] ::ffff:125.131.99.75
+2017-09-11 04:57:10.115 [pid:5934] - debug: [CLIENT INFO] unknown / insomnia (5.6.3) / unknown
+2017-09-11 04:57:10.116 [pid:5934] - debug: [HTTP POST] http://node4.mas-i.com/login
+2017-09-11 04:57:10.130 [pid:5934] - debug: 로그인 컨트롤러 실행
+2017-09-11 04:57:10.134 [pid:5934] - debug: ---------- client disconnection ------------
+2017-09-11 04:57:10.134 [pid:5934] - debug: runtime=25ms
+2017-09-11 04:57:10.134 [pid:5934] - debug: 
+2017-09-11 04:57:28.584 [pid:5934] - debug: ------------ client connection ------------
+2017-09-11 04:57:28.584 [pid:5934] - debug: [Process Id] 5934
+2017-09-11 04:57:28.585 [pid:5934] - debug: [ip] ::ffff:125.131.99.75
+2017-09-11 04:57:28.585 [pid:5934] - debug: [CLIENT INFO] unknown / insomnia (5.6.3) / unknown
+2017-09-11 04:57:28.585 [pid:5934] - debug: [HTTP POST] http://node4.mas-i.com/login
+2017-09-11 04:57:28.587 [pid:5934] - debug: 로그인 컨트롤러 실행
+2017-09-11 04:57:28.588 [pid:5934] - debug: ---------- client disconnection ------------
+2017-09-11 04:57:28.588 [pid:5934] - debug: runtime=5ms
+2017-09-11 04:57:28.588 [pid:5934] - debug: 
+2017-09-11 04:58:06.729 [pid:7661] - debug: ------------ client connection ------------
+2017-09-11 04:58:06.730 [pid:7661] - debug: [Process Id] 7661
+2017-09-11 04:58:06.731 [pid:7661] - debug: [ip] ::ffff:125.131.99.75
+2017-09-11 04:58:06.731 [pid:7661] - debug: [CLIENT INFO] unknown / insomnia (5.6.3) / unknown
+2017-09-11 04:58:06.731 [pid:7661] - debug: [HTTP POST] http://node4.mas-i.com/login
+2017-09-11 04:58:06.745 [pid:7661] - debug: 로그인 컨트롤러 실행
+2017-09-11 04:58:20.612 [pid:7661] - debug: ------------ client connection ------------
+2017-09-11 04:58:20.613 [pid:7661] - debug: [Process Id] 7661
+2017-09-11 04:58:20.613 [pid:7661] - debug: [ip] ::ffff:125.131.99.75
+2017-09-11 04:58:20.614 [pid:7661] - debug: [CLIENT INFO] unknown / insomnia (5.6.3) / unknown
+2017-09-11 04:58:20.614 [pid:7661] - debug: [HTTP POST] http://node4.mas-i.com/login
+2017-09-11 04:58:20.616 [pid:7661] - debug: 로그인 컨트롤러 실행
+2017-09-11 04:59:41.191 [pid:10132] - debug: ------------ client connection ------------
+2017-09-11 04:59:41.193 [pid:10132] - debug: [Process Id] 10132
+2017-09-11 04:59:41.194 [pid:10132] - debug: [ip] ::ffff:125.131.99.75
+2017-09-11 04:59:41.194 [pid:10132] - debug: [CLIENT INFO] unknown / insomnia (5.6.3) / unknown
+2017-09-11 04:59:41.194 [pid:10132] - debug: [HTTP POST] http://node4.mas-i.com/login
+2017-09-11 04:59:41.208 [pid:10132] - debug: 로그인 컨트롤러 실행
+2017-09-11 05:00:25.707 [pid:11745] - debug: ------------ client connection ------------
+2017-09-11 05:00:25.709 [pid:11745] - debug: [Process Id] 11745
+2017-09-11 05:00:25.710 [pid:11745] - debug: [ip] ::ffff:125.131.99.75
+2017-09-11 05:00:25.710 [pid:11745] - debug: [CLIENT INFO] unknown / insomnia (5.6.3) / unknown
+2017-09-11 05:00:25.710 [pid:11745] - debug: [HTTP POST] http://node4.mas-i.com/login
+2017-09-11 05:00:25.731 [pid:11745] - debug: 로그인 컨트롤러 실행
+2017-09-11 05:01:40.672 [pid:13793] - debug: ------------ client connection ------------
+2017-09-11 05:01:40.674 [pid:13793] - debug: [Process Id] 13793
+2017-09-11 05:01:40.674 [pid:13793] - debug: [ip] ::ffff:125.131.99.75
+2017-09-11 05:01:40.674 [pid:13793] - debug: [CLIENT INFO] unknown / insomnia (5.6.3) / unknown
+2017-09-11 05:01:40.674 [pid:13793] - debug: [HTTP POST] http://node4.mas-i.com/login
+2017-09-11 05:01:40.696 [pid:13793] - debug: 로그인 컨트롤러 실행
+2017-09-11 05:03:12.305 [pid:16660] - debug: ------------ client connection ------------
+2017-09-11 05:03:12.306 [pid:16660] - debug: [Process Id] 16660
+2017-09-11 05:03:12.307 [pid:16660] - debug: [ip] ::ffff:125.131.99.75
+2017-09-11 05:03:12.307 [pid:16660] - debug: [CLIENT INFO] unknown / insomnia (5.6.3) / unknown
+2017-09-11 05:03:12.307 [pid:16660] - debug: [HTTP POST] http://node4.mas-i.com/login
+2017-09-11 05:03:12.321 [pid:16660] - debug: 로그인 컨트롤러 실행
+2017-09-11 05:04:52.375 [pid:19516] - debug: ------------ client connection ------------
+2017-09-11 05:04:52.378 [pid:19516] - debug: [Process Id] 19516
+2017-09-11 05:04:52.379 [pid:19516] - debug: [ip] ::ffff:125.131.99.75
+2017-09-11 05:04:52.379 [pid:19516] - debug: [CLIENT INFO] unknown / insomnia (5.6.3) / unknown
+2017-09-11 05:04:52.380 [pid:19516] - debug: [HTTP POST] http://node4.mas-i.com/login
+2017-09-11 05:04:52.399 [pid:19516] - debug: 로그인 컨트롤러 실행
+2017-09-11 05:15:51.349 [pid:6096] - debug: ------------ client connection ------------
+2017-09-11 05:15:51.351 [pid:6096] - debug: [Process Id] 6096
+2017-09-11 05:15:51.352 [pid:6096] - debug: [ip] ::ffff:125.131.99.75
+2017-09-11 05:15:51.352 [pid:6096] - debug: [CLIENT INFO] unknown / insomnia (5.6.3) / unknown
+2017-09-11 05:15:51.352 [pid:6096] - debug: [HTTP POST] http://node4.mas-i.com/login
+2017-09-11 05:15:51.380 [pid:6096] - debug: 로그인 컨트롤러 실행
+2017-09-11 05:16:54.889 [pid:7985] - debug: ------------ client connection ------------
+2017-09-11 05:16:54.892 [pid:7985] - debug: [Process Id] 7985
+2017-09-11 05:16:54.893 [pid:7985] - debug: [ip] ::ffff:125.131.99.75
+2017-09-11 05:16:54.893 [pid:7985] - debug: [CLIENT INFO] unknown / insomnia (5.6.3) / unknown
+2017-09-11 05:16:54.893 [pid:7985] - debug: [HTTP POST] http://node4.mas-i.com/login
+2017-09-11 05:16:54.915 [pid:7985] - debug: 로그인 컨트롤러 실행
+2017-09-11 05:59:16.738 [pid:19008] - debug: ------------ client connection ------------
+2017-09-11 05:59:16.740 [pid:19008] - debug: [Process Id] 19008
+2017-09-11 05:59:16.741 [pid:19008] - debug: [ip] ::ffff:125.131.99.75
+2017-09-11 05:59:16.741 [pid:19008] - debug: [CLIENT INFO] unknown / insomnia (5.6.3) / unknown
+2017-09-11 05:59:16.742 [pid:19008] - debug: [HTTP POST] http://node4.mas-i.com/login
+2017-09-11 05:59:16.758 [pid:19008] - debug: 로그인 컨트롤러 실행
+2017-09-11 05:59:16.759 [pid:19008] - debug: asdf
+2017-09-11 05:59:48.712 [pid:19866] - debug: ------------ client connection ------------
+2017-09-11 05:59:48.714 [pid:19866] - debug: [Process Id] 19866
+2017-09-11 05:59:48.715 [pid:19866] - debug: [ip] ::ffff:125.131.99.75
+2017-09-11 05:59:48.715 [pid:19866] - debug: [CLIENT INFO] unknown / insomnia (5.6.3) / unknown
+2017-09-11 05:59:48.715 [pid:19866] - debug: [HTTP POST] http://node4.mas-i.com/login
+2017-09-11 05:59:48.729 [pid:19866] - debug: 로그인 컨트롤러 실행
+2017-09-11 05:59:48.729 [pid:19866] - debug: asdf
+2017-09-11 05:59:48.896 [pid:19866] - debug: [DB 접속됨 threadId = 467786]
+2017-09-11 05:59:48.898 [pid:19866] - debug: [DB 임대됨 threadId = 467786]
+2017-09-11 05:59:48.905 [pid:19866] - debug: [DB 반납됨 threadId = 467786]
+2017-09-11 05:59:48.913 [pid:19866] - sql: [threadId=467786] SELECT count(*) FROM user WHERE username = 'secjong' AND password = '124578'
+2017-09-11 06:00:11.396 [pid:20626] - debug: ------------ client connection ------------
+2017-09-11 06:00:11.398 [pid:20626] - debug: [Process Id] 20626
+2017-09-11 06:00:11.398 [pid:20626] - debug: [ip] ::ffff:125.131.99.75
+2017-09-11 06:00:11.399 [pid:20626] - debug: [CLIENT INFO] unknown / insomnia (5.6.3) / unknown
+2017-09-11 06:00:11.399 [pid:20626] - debug: [HTTP POST] http://node4.mas-i.com/login
+2017-09-11 06:00:11.413 [pid:20626] - debug: 로그인 컨트롤러 실행
+2017-09-11 06:00:11.413 [pid:20626] - debug: asdf
+2017-09-11 06:00:11.576 [pid:20626] - debug: [DB 접속됨 threadId = 467787]
+2017-09-11 06:00:11.578 [pid:20626] - debug: [DB 임대됨 threadId = 467787]
+2017-09-11 06:00:11.585 [pid:20626] - debug: [DB 반납됨 threadId = 467787]
+2017-09-11 06:00:11.594 [pid:20626] - sql: [threadId=467787] SELECT count(*) FROM user WHERE username = 'secjong' AND password = '124578'
+2017-09-11 06:00:11.614 [pid:20626] - debug:  >> 모든 DATABASE 접속이 해제됨
+2017-09-11 06:01:23.661 [pid:23797] - debug: ------------ client connection ------------
+2017-09-11 06:01:23.663 [pid:23797] - debug: [Process Id] 23797
+2017-09-11 06:01:23.663 [pid:23797] - debug: [ip] ::ffff:125.131.99.75
+2017-09-11 06:01:23.663 [pid:23797] - debug: [CLIENT INFO] unknown / insomnia (5.6.3) / unknown
+2017-09-11 06:01:23.664 [pid:23797] - debug: [HTTP POST] http://node4.mas-i.com/login
+2017-09-11 06:01:23.678 [pid:23797] - debug: 로그인 컨트롤러 실행
+2017-09-11 06:01:23.678 [pid:23797] - debug: asdf
+2017-09-11 06:01:23.849 [pid:23797] - debug: [DB 접속됨 threadId = 467789]
+2017-09-11 06:01:23.850 [pid:23797] - debug: [DB 임대됨 threadId = 467789]
+2017-09-11 06:01:23.852 [pid:23797] - debug: [DB 반납됨 threadId = 467789]
+2017-09-11 06:01:23.855 [pid:23797] - sql: [threadId=467789] SELECT count(*) FROM user WHERE username = 'secjong' AND password = '124578'
+2017-09-11 06:01:23.857 [pid:23797] - debug: [STATUS 200] OK-SUCCESS
+2017-09-11 06:01:23.860 [pid:23797] - debug: ---------- client disconnection ------------
+2017-09-11 06:01:23.860 [pid:23797] - debug: runtime=203ms
+2017-09-11 06:01:23.860 [pid:23797] - debug: 
+2017-09-11 06:02:37.355 [pid:26869] - debug: ------------ client connection ------------
+2017-09-11 06:02:37.357 [pid:26869] - debug: [Process Id] 26869
+2017-09-11 06:02:37.358 [pid:26869] - debug: [ip] ::ffff:125.131.99.75
+2017-09-11 06:02:37.358 [pid:26869] - debug: [CLIENT INFO] unknown / insomnia (5.6.3) / unknown
+2017-09-11 06:02:37.359 [pid:26869] - debug: [HTTP POST] http://node4.mas-i.com/login
+2017-09-11 06:02:37.376 [pid:26869] - debug: 로그인 컨트롤러 실행
+2017-09-11 06:02:37.376 [pid:26869] - debug: asdf
+2017-09-11 06:02:37.420 [pid:26869] - debug: [DB 접속됨 threadId = 467791]
+2017-09-11 06:02:37.421 [pid:26869] - debug: [DB 임대됨 threadId = 467791]
+2017-09-11 06:02:37.422 [pid:26869] - debug: [DB 반납됨 threadId = 467791]
+2017-09-11 06:02:37.425 [pid:26869] - sql: [threadId=467791] SELECT count(*) FROM user WHERE username = 'secjong' AND password = '124578'
+2017-09-11 06:03:19.019 [pid:28946] - debug: ------------ client connection ------------
+2017-09-11 06:03:19.021 [pid:28946] - debug: [Process Id] 28946
+2017-09-11 06:03:19.022 [pid:28946] - debug: [ip] ::ffff:125.131.99.75
+2017-09-11 06:03:19.022 [pid:28946] - debug: [CLIENT INFO] unknown / insomnia (5.6.3) / unknown
+2017-09-11 06:03:19.022 [pid:28946] - debug: [HTTP POST] http://node4.mas-i.com/login
+2017-09-11 06:03:19.036 [pid:28946] - debug: 로그인 컨트롤러 실행
+2017-09-11 06:03:19.037 [pid:28946] - debug: asdf
+2017-09-11 06:03:19.215 [pid:28946] - debug: [DB 접속됨 threadId = 467793]
+2017-09-11 06:03:19.217 [pid:28946] - debug: [DB 임대됨 threadId = 467793]
+2017-09-11 06:03:19.224 [pid:28946] - debug: [DB 반납됨 threadId = 467793]
+2017-09-11 06:03:19.232 [pid:28946] - sql: [threadId=467793] SELECT count(*) FROM user WHERE username = 'secjong' AND password = '124578'
+2017-09-11 06:04:10.336 [pid:30643] - debug: ------------ client connection ------------
+2017-09-11 06:04:10.337 [pid:30643] - debug: [Process Id] 30643
+2017-09-11 06:04:10.338 [pid:30643] - debug: [ip] ::ffff:125.131.99.75
+2017-09-11 06:04:10.338 [pid:30643] - debug: [CLIENT INFO] unknown / insomnia (5.6.3) / unknown
+2017-09-11 06:04:10.338 [pid:30643] - debug: [HTTP POST] http://node4.mas-i.com/login
+2017-09-11 06:04:10.352 [pid:30643] - debug: 로그인 컨트롤러 실행
+2017-09-11 06:04:10.534 [pid:30643] - debug: [DB 접속됨 threadId = 467795]
+2017-09-11 06:04:10.536 [pid:30643] - debug: [DB 임대됨 threadId = 467795]
+2017-09-11 06:04:10.541 [pid:30643] - debug: [DB 반납됨 threadId = 467795]
+2017-09-11 06:04:10.550 [pid:30643] - sql: [threadId=467795] SELECT count(*) FROM user WHERE username = 'picograph' AND password = 'qkrdlcjs2@'
+2017-09-11 06:06:52.689 [pid:2942] - debug: ------------ client connection ------------
+2017-09-11 06:06:52.690 [pid:2942] - debug: [Process Id] 2942
+2017-09-11 06:06:52.691 [pid:2942] - debug: [ip] ::ffff:125.131.99.75
+2017-09-11 06:06:52.691 [pid:2942] - debug: [CLIENT INFO] unknown / insomnia (5.6.3) / unknown
+2017-09-11 06:06:52.691 [pid:2942] - debug: [HTTP POST] http://node4.mas-i.com/login
+2017-09-11 06:06:52.706 [pid:2942] - debug: 로그인 컨트롤러 실행
+2017-09-11 06:06:52.901 [pid:2942] - debug: [DB 접속됨 threadId = 467807]
+2017-09-11 06:06:52.903 [pid:2942] - debug: [DB 임대됨 threadId = 467807]
+2017-09-11 06:06:52.908 [pid:2942] - debug: [DB 반납됨 threadId = 467807]
+2017-09-11 06:06:52.919 [pid:2942] - sql: [threadId=467807] SELECT count(*) FROM user WHERE username = 'picograph' AND password = 'qkrdlcjs2@'
+2017-09-11 06:06:52.930 [pid:2942] - debug: [STATUS 200] OK-SUCCESS
+2017-09-11 06:06:52.944 [pid:2942] - debug: ---------- client disconnection ------------
+2017-09-11 06:06:52.944 [pid:2942] - debug: runtime=260ms
+2017-09-11 06:06:52.945 [pid:2942] - debug: 
+2017-09-11 06:14:48.445 [pid:21180] - debug: ------------ client connection ------------
+2017-09-11 06:14:48.446 [pid:21180] - debug: [Process Id] 21180
+2017-09-11 06:14:48.447 [pid:21180] - debug: [ip] ::ffff:125.131.99.75
+2017-09-11 06:14:48.447 [pid:21180] - debug: [CLIENT INFO] unknown / insomnia (5.6.3) / unknown
+2017-09-11 06:14:48.447 [pid:21180] - debug: [HTTP POST] http://node4.mas-i.com/login
+2017-09-11 06:14:48.461 [pid:21180] - debug: 로그인 컨트롤러 실행
+2017-09-11 06:14:48.462 [pid:21180] - debug: [HTTP POST PARAMS] username=picograph
+2017-09-11 06:14:48.462 [pid:21180] - debug: [HTTP POST PARAMS] password=qkrdlcjs2@
+2017-09-11 06:14:48.635 [pid:21180] - debug: [DB 접속됨 threadId = 467818]
+2017-09-11 06:14:48.637 [pid:21180] - debug: [DB 임대됨 threadId = 467818]
+2017-09-11 06:14:48.644 [pid:21180] - debug: [DB 반납됨 threadId = 467818]
+2017-09-11 06:14:48.651 [pid:21180] - sql: [threadId=467818] SELECT count(*) FROM user WHERE username = 'picograph' AND password = 'qkrdlcjs2@'
+2017-09-11 06:14:48.657 [pid:21180] - debug: [STATUS 200] OK-SUCCESS
+2017-09-11 06:14:48.663 [pid:21180] - debug: ---------- client disconnection ------------
+2017-09-11 06:14:48.664 [pid:21180] - debug: runtime=222ms
+2017-09-11 06:14:48.664 [pid:21180] - debug: 
+2017-09-11 06:16:00.794 [pid:24357] - debug: ------------ client connection ------------
+2017-09-11 06:16:00.795 [pid:24357] - debug: [Process Id] 24357
+2017-09-11 06:16:00.796 [pid:24357] - debug: [ip] ::ffff:125.131.99.75
+2017-09-11 06:16:00.796 [pid:24357] - debug: [CLIENT INFO] unknown / insomnia (5.6.3) / unknown
+2017-09-11 06:16:00.796 [pid:24357] - debug: [HTTP POST] http://node4.mas-i.com/login
+2017-09-11 06:16:00.810 [pid:24357] - debug: 로그인 컨트롤러 실행
+2017-09-11 06:16:00.811 [pid:24357] - debug: [HTTP POST PARAMS] username=picograph
+2017-09-11 06:16:00.811 [pid:24357] - debug: [HTTP POST PARAMS] password=qkrdlcjs2@
+2017-09-11 06:16:01.321 [pid:24357] - debug: [DB 접속됨 threadId = 467827]
+2017-09-11 06:16:01.323 [pid:24357] - debug: [DB 임대됨 threadId = 467827]
+2017-09-11 06:16:01.330 [pid:24357] - debug: [DB 반납됨 threadId = 467827]
+2017-09-11 06:16:01.337 [pid:24357] - sql: [threadId=467827] SELECT count(*) FROM user WHERE username = 'picograph' AND password = 'qkrdlcjs2@'
+2017-09-11 06:17:14.645 [pid:27300] - debug: ------------ client connection ------------
+2017-09-11 06:17:14.646 [pid:27300] - debug: [Process Id] 27300
+2017-09-11 06:17:14.647 [pid:27300] - debug: [ip] ::ffff:125.131.99.75
+2017-09-11 06:17:14.647 [pid:27300] - debug: [CLIENT INFO] unknown / insomnia (5.6.3) / unknown
+2017-09-11 06:17:14.647 [pid:27300] - debug: [HTTP POST] http://node4.mas-i.com/login
+2017-09-11 06:17:14.661 [pid:27300] - debug: 로그인 컨트롤러 실행
+2017-09-11 06:17:14.661 [pid:27300] - debug: [HTTP POST PARAMS] username=picograph
+2017-09-11 06:17:14.662 [pid:27300] - debug: [HTTP POST PARAMS] password=qkrdlcjs2@
+2017-09-11 06:17:16.714 [pid:27300] - debug:  >> 모든 DATABASE 접속이 해제됨
+2017-09-11 06:17:25.897 [pid:27929] - debug: ------------ client connection ------------
+2017-09-11 06:17:25.899 [pid:27929] - debug: [Process Id] 27929
+2017-09-11 06:17:25.899 [pid:27929] - debug: [ip] ::ffff:125.131.99.75
+2017-09-11 06:17:25.900 [pid:27929] - debug: [CLIENT INFO] unknown / insomnia (5.6.3) / unknown
+2017-09-11 06:17:25.900 [pid:27929] - debug: [HTTP POST] http://node4.mas-i.com/login
+2017-09-11 06:17:25.914 [pid:27929] - debug: 로그인 컨트롤러 실행
+2017-09-11 06:17:25.914 [pid:27929] - debug: [HTTP POST PARAMS] username=picograph
+2017-09-11 06:17:25.914 [pid:27929] - debug: [HTTP POST PARAMS] password=qkrdlcjs2@
+2017-09-11 06:17:26.098 [pid:27929] - debug: [DB 접속됨 threadId = 467830]
+2017-09-11 06:17:26.100 [pid:27929] - debug: [DB 임대됨 threadId = 467830]
+2017-09-11 06:17:26.107 [pid:27929] - debug: [DB 반납됨 threadId = 467830]
+2017-09-11 06:17:26.116 [pid:27929] - sql: [threadId=467830] SELECT count(*) FROM user WHERE username = 'picograph' AND password = 'qkrdlcjs2@'
+2017-09-11 06:17:26.121 [pid:27929] - debug: [STATUS 200] OK-SUCCESS
+2017-09-11 06:17:26.128 [pid:27929] - debug: ---------- client disconnection ------------
+2017-09-11 06:17:26.129 [pid:27929] - debug: runtime=235ms
+2017-09-11 06:17:26.129 [pid:27929] - debug: 
+2017-09-11 06:22:02.437 [pid:5197] - debug: ------------ client connection ------------
+2017-09-11 06:22:02.439 [pid:5197] - debug: [Process Id] 5197
+2017-09-11 06:22:02.440 [pid:5197] - debug: [ip] ::ffff:125.131.99.75
+2017-09-11 06:22:02.441 [pid:5197] - debug: [CLIENT INFO] unknown / insomnia (5.6.3) / unknown
+2017-09-11 06:22:02.441 [pid:5197] - debug: [HTTP POST] http://node4.mas-i.com/login
+2017-09-11 06:22:02.458 [pid:5197] - debug: 로그인 컨트롤러 실행
+2017-09-11 06:22:02.458 [pid:5197] - debug: [HTTP POST PARAMS] username=picograph
+2017-09-11 06:22:02.458 [pid:5197] - debug: [HTTP POST PARAMS] password=qkrdlcjs2@
+2017-09-11 06:22:02.556 [pid:5197] - debug: [DB 접속됨 threadId = 467843]
+2017-09-11 06:22:02.558 [pid:5197] - debug: [DB 임대됨 threadId = 467843]
+2017-09-11 06:22:02.565 [pid:5197] - debug: [DB 반납됨 threadId = 467843]
+2017-09-11 06:22:02.573 [pid:5197] - sql: [threadId=467843] SELECT count(*) FROM user WHERE username = 'picograph' AND password = 'qkrdlcjs2@'
+2017-09-11 06:22:02.578 [pid:5197] - sql: selected data:  
+{ '0': { 'count(*)': 1 } }
+2017-09-11 06:22:02.579 [pid:5197] - debug: [STATUS 200] OK-SUCCESS
+2017-09-11 06:22:02.586 [pid:5197] - debug: ---------- client disconnection ------------
+2017-09-11 06:22:02.586 [pid:5197] - debug: runtime=157ms
+2017-09-11 06:22:02.587 [pid:5197] - debug: 
+2017-09-11 06:25:10.544 [pid:11838] - debug: ------------ client connection ------------
+2017-09-11 06:25:10.546 [pid:11838] - debug: [Process Id] 11838
+2017-09-11 06:25:10.546 [pid:11838] - debug: [ip] ::ffff:125.131.99.75
+2017-09-11 06:25:10.547 [pid:11838] - debug: [CLIENT INFO] unknown / insomnia (5.6.3) / unknown
+2017-09-11 06:25:10.547 [pid:11838] - debug: [HTTP POST] http://node4.mas-i.com/login
+2017-09-11 06:25:10.561 [pid:11838] - debug: 로그인 컨트롤러 실행
+2017-09-11 06:25:10.561 [pid:11838] - debug: [HTTP POST PARAMS] username=picograph
+2017-09-11 06:25:10.562 [pid:11838] - debug: [HTTP POST PARAMS] password=qkrdlcjs2@
+2017-09-11 06:25:10.654 [pid:11838] - debug: [DB 접속됨 threadId = 467846]
+2017-09-11 06:25:10.656 [pid:11838] - debug: [DB 임대됨 threadId = 467846]
+2017-09-11 06:25:10.663 [pid:11838] - debug: [DB 반납됨 threadId = 467846]
+2017-09-11 06:25:10.670 [pid:11838] - sql: [threadId=467846] SELECT count(*) FROM user WHERE username = 'picograph' AND password = 'qkrdlcjs2@'
+2017-09-11 06:25:10.674 [pid:11838] - sql: selected data:  
+{ '0': { 'count(*)': 1 } }
+2017-09-11 06:25:10.675 [pid:11838] - debug: [STATUS 200] OK-SUCCESS
+2017-09-11 06:25:10.682 [pid:11838] - debug: ---------- client disconnection ------------
+2017-09-11 06:25:10.682 [pid:11838] - debug: runtime=142ms
+2017-09-11 06:25:10.682 [pid:11838] - debug: 

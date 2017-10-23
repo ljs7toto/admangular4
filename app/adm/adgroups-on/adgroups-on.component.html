@@ -1,0 +1,27 @@
+<div>
+    <h3>선택된 광고그룹 리스트</h3>
+    <table *ngIf="adgroupons" class="table table-striped">
+      <thead>
+          <tr>
+              <th>No</th>
+              <th>캠페인명</th>
+              <th>광고그룹명</th>
+              <th>사이트주소</th>
+              <th>ON/OFF</th>
+              <th>선택</th>
+          </tr>
+      </thead>
+      <tbody *ngFor = "let adgroupon of adgroupons; let ix = index" > 
+          <tr  class="data-table-row">
+              <td>{{ ix + 1 }}</td> 
+              <td [routerLink]="['/ads']" [queryParams]="{adgroup_id: adgroupon.id}" queryParamsHandling="merge">{{ adgroupon.campaign_name }}</td>
+              <td>{{ adgroupon.name }}</td>
+              <td>{{ adgroupon.site }}</td>
+              <td>{{ adgroupon.is_active }}</td>  
+              <td><input type="checkbox"  [ngModel]="adgroupon.is_bidding == false ? 0 : adgroupon.is_bidding == true ? 1 : null" (ngModelChange)="adgroupon.is_bidding = $event ? 1 : 0" name="is_bidding_{{ i }}" >{{adgroupon.is_bidding}}</td>
+          </tr>
+          
+      </tbody>
+    </table>
+  
+  </div>

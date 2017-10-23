@@ -1,0 +1,2931 @@
+2017-09-27 20:43:46.631 [pid:20058] - debug: ------------ client connection ------------
+2017-09-27 20:43:46.633 [pid:20058] - debug: [Process Id] 20058
+2017-09-27 20:43:46.633 [pid:20058] - debug: [ip] ::ffff:125.131.99.75
+2017-09-27 20:43:46.636 [pid:20058] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-27 20:43:46.637 [pid:20058] - debug: [HTTP GET] http://node4.mas-i.com/
+2017-09-27 20:43:46.646 [pid:20058] - debug: ---------- client disconnection ------------
+2017-09-27 20:43:46.646 [pid:20058] - debug: runtime=19ms
+2017-09-27 20:43:46.646 [pid:20058] - debug: 
+2017-09-27 20:43:46.690 [pid:20058] - debug: ------------ client connection ------------
+2017-09-27 20:43:46.691 [pid:20058] - debug: [Process Id] 20058
+2017-09-27 20:43:46.691 [pid:20058] - debug: [ip] ::ffff:125.131.99.75
+2017-09-27 20:43:46.692 [pid:20058] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-27 20:43:46.692 [pid:20058] - debug: [HTTP GET] http://node4.mas-i.com/inline.bundle.js
+2017-09-27 20:43:46.694 [pid:20058] - debug: ------------ client connection ------------
+2017-09-27 20:43:46.694 [pid:20058] - debug: [Process Id] 20058
+2017-09-27 20:43:46.694 [pid:20058] - debug: [ip] ::ffff:125.131.99.75
+2017-09-27 20:43:46.694 [pid:20058] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-27 20:43:46.695 [pid:20058] - debug: [HTTP GET] http://node4.mas-i.com/polyfills.bundle.js
+2017-09-27 20:43:46.696 [pid:20058] - debug: ---------- client disconnection ------------
+2017-09-27 20:43:46.696 [pid:20058] - debug: runtime=6ms
+2017-09-27 20:43:46.697 [pid:20058] - debug: 
+2017-09-27 20:43:46.698 [pid:20058] - debug: ------------ client connection ------------
+2017-09-27 20:43:46.698 [pid:20058] - debug: [Process Id] 20058
+2017-09-27 20:43:46.698 [pid:20058] - debug: [ip] ::ffff:125.131.99.75
+2017-09-27 20:43:46.698 [pid:20058] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-27 20:43:46.699 [pid:20058] - debug: [HTTP GET] http://node4.mas-i.com/styles.bundle.js
+2017-09-27 20:43:46.699 [pid:20058] - debug: ------------ client connection ------------
+2017-09-27 20:43:46.699 [pid:20058] - debug: [Process Id] 20058
+2017-09-27 20:43:46.699 [pid:20058] - debug: [ip] ::ffff:125.131.99.75
+2017-09-27 20:43:46.699 [pid:20058] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-27 20:43:46.700 [pid:20058] - debug: [HTTP GET] http://node4.mas-i.com/vendor.bundle.js
+2017-09-27 20:43:46.700 [pid:20058] - debug: ------------ client connection ------------
+2017-09-27 20:43:46.701 [pid:20058] - debug: [Process Id] 20058
+2017-09-27 20:43:46.701 [pid:20058] - debug: [ip] ::ffff:125.131.99.75
+2017-09-27 20:43:46.701 [pid:20058] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-27 20:43:46.701 [pid:20058] - debug: [HTTP GET] http://node4.mas-i.com/main.bundle.js
+2017-09-27 20:43:46.702 [pid:20058] - debug: ---------- client disconnection ------------
+2017-09-27 20:43:46.703 [pid:20058] - debug: runtime=9ms
+2017-09-27 20:43:46.703 [pid:20058] - debug: 
+2017-09-27 20:43:46.703 [pid:20058] - debug: ---------- client disconnection ------------
+2017-09-27 20:43:46.703 [pid:20058] - debug: runtime=5ms
+2017-09-27 20:43:46.704 [pid:20058] - debug: 
+2017-09-27 20:43:46.704 [pid:20058] - debug: ---------- client disconnection ------------
+2017-09-27 20:43:46.705 [pid:20058] - debug: runtime=6ms
+2017-09-27 20:43:46.705 [pid:20058] - debug: 
+2017-09-27 20:43:46.705 [pid:20058] - debug: ---------- client disconnection ------------
+2017-09-27 20:43:46.706 [pid:20058] - debug: runtime=6ms
+2017-09-27 20:43:46.706 [pid:20058] - debug: 
+2017-09-27 20:43:47.708 [pid:20058] - debug: ------------ client connection ------------
+2017-09-27 20:43:47.708 [pid:20058] - debug: [Process Id] 20058
+2017-09-27 20:43:47.709 [pid:20058] - debug: [ip] ::ffff:125.131.99.75
+2017-09-27 20:43:47.709 [pid:20058] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-27 20:43:47.710 [pid:20058] - debug: [HTTP GET] http://node4.mas-i.com/adgroups
+2017-09-27 20:43:47.713 [pid:20058] - debug: 애드그룹 GET 컨트롤러 실행
+2017-09-27 20:43:47.713 [pid:20058] - debug: [HTTP GET PARAMS] type=false
+2017-09-27 20:43:47.713 [pid:20058] - debug: SELECTAdgroup 실행
+2017-09-27 20:43:47.904 [pid:20058] - debug: [DB 접속됨 threadId = 14565]
+2017-09-27 20:43:47.904 [pid:20058] - debug: [DB 임대됨 threadId = 14565]
+2017-09-27 20:43:47.905 [pid:20058] - debug: 클로즈!
+2017-09-27 20:43:47.905 [pid:20058] - debug: [DB 반납됨 threadId = 14565]
+2017-09-27 20:43:47.909 [pid:20058] - sql: [threadId=14565] SELECT * FROM naver_shopping_adgroup
+2017-09-27 20:43:47.913 [pid:20058] - sql: selected data:  
+{ '0': 
+   { no: 295,
+     id: 'grp-a001-02-000000002315010',
+     name: 'TEST_디자인 케이스',
+     campaign_id: 'cmp-a001-02-000000000354348',
+     campaign_name: '피코그라프_케이스',
+     site: 'http://www.picograph.kr',
+     bid_amt: 50,
+     total_ad_count: 0,
+     bidding_ad_count: 0,
+     is_on_stage: 1,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '1': 
+   { no: 296,
+     id: 'grp-a001-02-000000002977893',
+     name: 'PG_피코포토',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 3,
+     bidding_ad_count: 2,
+     is_on_stage: 1,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '2': 
+   { no: 297,
+     id: 'grp-a001-02-000000002977906',
+     name: 'PG_사진인화',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 300,
+     total_ad_count: 2,
+     bidding_ad_count: 0,
+     is_on_stage: 1,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '3': 
+   { no: 298,
+     id: 'grp-a001-02-000000002977929',
+     name: 'PG_퍼즐액자',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 1,
+     bidding_ad_count: 1,
+     is_on_stage: 1,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '4': 
+   { no: 299,
+     id: 'grp-a001-02-000000002977957',
+     name: 'PG_캔버스',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 400,
+     total_ad_count: 1,
+     bidding_ad_count: 0,
+     is_on_stage: 1,
+     is_bidding: 0,
+     is_active: 'ON' } }
+2017-09-27 20:43:47.914 [pid:20058] - debug: [STATUS 200] OK-SUCCESS
+2017-09-27 20:43:47.916 [pid:20058] - debug: ---------- client disconnection ------------
+2017-09-27 20:43:47.916 [pid:20058] - debug: runtime=209ms
+2017-09-27 20:43:47.918 [pid:20058] - debug: 
+2017-09-27 21:42:53.266 [pid:20058] - debug: ------------ client connection ------------
+2017-09-27 21:42:53.267 [pid:20058] - debug: [Process Id] 20058
+2017-09-27 21:42:53.268 [pid:20058] - debug: [ip] ::ffff:125.131.99.75
+2017-09-27 21:42:53.268 [pid:20058] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-27 21:42:53.268 [pid:20058] - debug: [HTTP POST] http://node4.mas-i.com/test
+2017-09-27 21:42:53.279 [pid:20058] - debug: [HTTP POST PARAMS] data=123
+2017-09-27 21:42:53.281 [pid:20058] - debug: ---------- client disconnection ------------
+2017-09-27 21:42:53.281 [pid:20058] - debug: runtime=15ms
+2017-09-27 21:42:53.281 [pid:20058] - debug: 
+2017-09-27 21:42:56.380 [pid:20058] - debug: ------------ client connection ------------
+2017-09-27 21:42:56.381 [pid:20058] - debug: [Process Id] 20058
+2017-09-27 21:42:56.382 [pid:20058] - debug: [ip] ::ffff:125.131.99.75
+2017-09-27 21:42:56.382 [pid:20058] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-27 21:42:56.382 [pid:20058] - debug: [HTTP POST] http://node4.mas-i.com/test
+2017-09-27 21:42:56.385 [pid:20058] - debug: [HTTP POST PARAMS] data=321
+2017-09-27 21:42:56.388 [pid:20058] - debug: ---------- client disconnection ------------
+2017-09-27 21:42:56.389 [pid:20058] - debug: runtime=8ms
+2017-09-27 21:42:56.389 [pid:20058] - debug: 
+2017-09-27 21:45:09.802 [pid:20058] - debug: ------------ client connection ------------
+2017-09-27 21:45:09.802 [pid:20058] - debug: [Process Id] 20058
+2017-09-27 21:45:09.802 [pid:20058] - debug: [ip] ::ffff:125.131.99.75
+2017-09-27 21:45:09.803 [pid:20058] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-27 21:45:09.803 [pid:20058] - debug: [HTTP POST] http://node4.mas-i.com/test
+2017-09-27 21:45:09.804 [pid:20058] - debug: [HTTP POST PARAMS] data=321
+2017-09-27 21:45:09.805 [pid:20058] - debug: ---------- client disconnection ------------
+2017-09-27 21:45:09.805 [pid:20058] - debug: runtime=4ms
+2017-09-27 21:45:09.805 [pid:20058] - debug: 
+2017-09-27 21:45:25.165 [pid:20058] - debug: ------------ client connection ------------
+2017-09-27 21:45:25.166 [pid:20058] - debug: [Process Id] 20058
+2017-09-27 21:45:25.167 [pid:20058] - debug: [ip] ::ffff:125.131.99.75
+2017-09-27 21:45:25.167 [pid:20058] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-27 21:45:25.168 [pid:20058] - debug: [HTTP POST] http://node4.mas-i.com/test
+2017-09-27 21:45:25.169 [pid:20058] - debug: [HTTP POST PARAMS] data=123
+2017-09-27 21:45:25.170 [pid:20058] - debug: ---------- client disconnection ------------
+2017-09-27 21:45:25.170 [pid:20058] - debug: runtime=5ms
+2017-09-27 21:45:25.170 [pid:20058] - debug: 
+2017-09-27 21:46:50.036 [pid:20058] - debug: ------------ client connection ------------
+2017-09-27 21:46:50.037 [pid:20058] - debug: [Process Id] 20058
+2017-09-27 21:46:50.038 [pid:20058] - debug: [ip] ::ffff:125.131.99.75
+2017-09-27 21:46:50.038 [pid:20058] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-27 21:46:50.039 [pid:20058] - debug: [HTTP POST] http://node4.mas-i.com/test
+2017-09-27 21:46:50.041 [pid:20058] - debug: [HTTP POST PARAMS] data=false
+2017-09-27 21:46:50.041 [pid:20058] - debug: ---------- client disconnection ------------
+2017-09-27 21:46:50.042 [pid:20058] - debug: runtime=6ms
+2017-09-27 21:46:50.042 [pid:20058] - debug: 
+2017-09-27 21:46:51.799 [pid:20058] - debug: ------------ client connection ------------
+2017-09-27 21:46:51.800 [pid:20058] - debug: [Process Id] 20058
+2017-09-27 21:46:51.801 [pid:20058] - debug: [ip] ::ffff:125.131.99.75
+2017-09-27 21:46:51.804 [pid:20058] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-27 21:46:51.805 [pid:20058] - debug: [HTTP POST] http://node4.mas-i.com/test
+2017-09-27 21:46:51.805 [pid:20058] - debug: [HTTP POST PARAMS] data=false
+2017-09-27 21:46:51.806 [pid:20058] - debug: ---------- client disconnection ------------
+2017-09-27 21:46:51.806 [pid:20058] - debug: runtime=7ms
+2017-09-27 21:46:51.806 [pid:20058] - debug: 
+2017-09-27 22:52:52.028 [pid:29728] - debug: ------------ client connection ------------
+2017-09-27 22:52:52.030 [pid:29728] - debug: [Process Id] 29728
+2017-09-27 22:52:52.030 [pid:29728] - debug: [ip] ::ffff:125.131.99.75
+2017-09-27 22:52:52.031 [pid:29728] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-27 22:52:52.031 [pid:29728] - debug: [HTTP PUT] http://node4.mas-i.com/adgroups
+2017-09-27 22:52:52.048 [pid:29728] - debug: putAdgroupOnstageList 컨트롤러 실행
+2017-09-27 22:52:52.048 [pid:29728] - debug: [HTTP PUT PARAMS] data=[{"id":"grp-a001-02-000000002977906","is_on_stage":1},{"id":"grp-a001-02-000000002977929","is_on_stage":1}]
+2017-09-27 22:52:52.049 [pid:29728] - debug: 프로미스시작
+2017-09-27 22:54:20.174 [pid:32108] - debug: ------------ client connection ------------
+2017-09-27 22:54:20.176 [pid:32108] - debug: [Process Id] 32108
+2017-09-27 22:54:20.177 [pid:32108] - debug: [ip] ::ffff:125.131.99.75
+2017-09-27 22:54:20.177 [pid:32108] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-27 22:54:20.179 [pid:32108] - debug: [HTTP PUT] http://node4.mas-i.com/adgroups
+2017-09-27 22:54:20.193 [pid:32108] - debug: putAdgroupOnstageList 컨트롤러 실행
+2017-09-27 22:54:20.194 [pid:32108] - debug: [HTTP PUT PARAMS] data=[{"id":"grp-a001-02-000000002977906","is_on_stage":1},{"id":"grp-a001-02-000000002977929","is_on_stage":1}]
+2017-09-27 22:54:20.194 [pid:32108] - debug: 프로미스시작
+2017-09-27 22:54:20.194 [pid:32108] - debug: data :  [{"id":"grp-a001-02-000000002977906","is_on_stage":1},{"id":"grp-a001-02-000000002977929","is_on_stage":1}]
+2017-09-27 22:55:51.376 [pid:2566] - debug: ------------ client connection ------------
+2017-09-27 22:55:51.378 [pid:2566] - debug: [Process Id] 2566
+2017-09-27 22:55:51.379 [pid:2566] - debug: [ip] ::ffff:125.131.99.75
+2017-09-27 22:55:51.379 [pid:2566] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-27 22:55:51.379 [pid:2566] - debug: [HTTP PUT] http://node4.mas-i.com/adgroups
+2017-09-27 22:55:51.393 [pid:2566] - debug: putAdgroupOnstageList 컨트롤러 실행
+2017-09-27 22:55:51.394 [pid:2566] - debug: [HTTP PUT PARAMS] data=[{"id":"grp-a001-02-000000002977906","is_on_stage":1},{"id":"grp-a001-02-000000002977929","is_on_stage":1}]
+2017-09-27 22:55:51.395 [pid:2566] - debug: 프로미스시작
+2017-09-27 22:55:51.395 [pid:2566] - debug: data :  [{"id":"grp-a001-02-000000002977906","is_on_stage":1},{"id":"grp-a001-02-000000002977929","is_on_stage":1}]
+2017-09-27 22:56:27.162 [pid:3749] - debug: ------------ client connection ------------
+2017-09-27 22:56:27.163 [pid:3749] - debug: [Process Id] 3749
+2017-09-27 22:56:27.164 [pid:3749] - debug: [ip] ::ffff:125.131.99.75
+2017-09-27 22:56:27.164 [pid:3749] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-27 22:56:27.164 [pid:3749] - debug: [HTTP PUT] http://node4.mas-i.com/adgroups
+2017-09-27 22:56:27.179 [pid:3749] - debug: putAdgroupOnstageList 컨트롤러 실행
+2017-09-27 22:56:27.179 [pid:3749] - debug: [HTTP PUT PARAMS] data=false
+2017-09-27 22:56:27.181 [pid:3749] - debug: 프로미스시작
+2017-09-27 22:56:27.181 [pid:3749] - debug: data :  false
+2017-09-27 22:57:07.089 [pid:4809] - debug: ------------ client connection ------------
+2017-09-27 22:57:07.091 [pid:4809] - debug: [Process Id] 4809
+2017-09-27 22:57:07.092 [pid:4809] - debug: [ip] ::ffff:125.131.99.75
+2017-09-27 22:57:07.092 [pid:4809] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-27 22:57:07.092 [pid:4809] - debug: [HTTP PUT] http://node4.mas-i.com/adgroups
+2017-09-27 22:57:07.106 [pid:4809] - debug: putAdgroupOnstageList 컨트롤러 실행
+2017-09-27 22:57:07.106 [pid:4809] - debug: [HTTP PUT PARAMS] data=[object Object],[object Object]
+2017-09-27 22:57:07.108 [pid:4809] - debug: 프로미스시작
+2017-09-27 22:57:07.110 [pid:4809] - debug: data :  
+{ '0': { id: 'grp-a001-02-000000002977906', is_on_stage: 1 },
+  '1': { id: 'grp-a001-02-000000002977929', is_on_stage: 1 } }
+2017-09-27 22:57:07.110 [pid:4809] - debug: UPDATEAdgroupOnStage 실행
+2017-09-27 22:57:07.113 [pid:4809] - debug: UPDATEAdgroupOnStage 실행
+2017-09-27 22:57:07.115 [pid:4809] - debug: 광고그룹 스테이지 업데이트 결과 :  
+{ '0': undefined, '1': undefined }
+2017-09-27 22:57:07.363 [pid:4809] - debug: [DB 접속됨 threadId = 15056]
+2017-09-27 22:57:07.363 [pid:4809] - debug: [DB 임대됨 threadId = 15056]
+2017-09-27 22:57:07.366 [pid:4809] - sql: [threadId=15056] UPDATE naver_shopping_adgroup is_on_stage = 1 WHERE id = 'grp-a001-02-000000002977929'
+2017-09-27 22:57:07.366 [pid:4809] - error: [threadId=15056] Error1064: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 1 WHERE id = 'grp-a001-02-000000002977929'' at line 1
+2017-09-27 22:57:07.367 [pid:4809] - error: UPDATEAdgroupOnStage 에러 :  
+{ threadId: 15056,
+  errno: 1064,
+  message: 'ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'= 1 WHERE id = \'grp-a001-02-000000002977929\'\' at line 1',
+  sql: 'UPDATE naver_shopping_adgroup is_on_stage = 1 WHERE id = \'grp-a001-02-000000002977929\'' }
+2017-09-27 22:57:09.130 [pid:4809] - debug:  >> 모든 DATABASE 접속이 해제됨
+2017-09-27 22:58:15.586 [pid:6819] - debug: ------------ client connection ------------
+2017-09-27 22:58:15.587 [pid:6819] - debug: [Process Id] 6819
+2017-09-27 22:58:15.588 [pid:6819] - debug: [ip] ::ffff:125.131.99.75
+2017-09-27 22:58:15.588 [pid:6819] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-27 22:58:15.588 [pid:6819] - debug: [HTTP PUT] http://node4.mas-i.com/adgroups
+2017-09-27 22:58:15.603 [pid:6819] - debug: putAdgroupOnstageList 컨트롤러 실행
+2017-09-27 22:58:15.604 [pid:6819] - debug: [HTTP PUT PARAMS] data=[{"id":"grp-a001-02-000000002977906","is_on_stage":1},{"id":"grp-a001-02-000000002977929","is_on_stage":1}]
+2017-09-27 22:58:15.604 [pid:6819] - debug: 프로미스시작
+2017-09-27 22:58:15.606 [pid:6819] - debug: data :  
+{ '0': { id: 'grp-a001-02-000000002977906', is_on_stage: 1 },
+  '1': { id: 'grp-a001-02-000000002977929', is_on_stage: 1 } }
+2017-09-27 22:58:15.607 [pid:6819] - debug: UPDATEAdgroupOnStage 실행
+2017-09-27 22:58:15.610 [pid:6819] - debug: UPDATEAdgroupOnStage 실행
+2017-09-27 22:58:15.612 [pid:6819] - debug: 광고그룹 스테이지 업데이트 결과 :  
+{ '0': undefined, '1': undefined }
+2017-09-27 22:58:15.762 [pid:6819] - debug: [DB 접속됨 threadId = 15069]
+2017-09-27 22:58:15.762 [pid:6819] - debug: [DB 임대됨 threadId = 15069]
+2017-09-27 22:58:15.763 [pid:6819] - debug: [DB 접속됨 threadId = 15070]
+2017-09-27 22:58:15.764 [pid:6819] - debug: [DB 임대됨 threadId = 15070]
+2017-09-27 22:58:15.766 [pid:6819] - sql: [threadId=15069] UPDATE naver_shopping_adgroup is_on_stage = 1 WHERE id = 'grp-a001-02-000000002977929'
+2017-09-27 22:58:15.766 [pid:6819] - error: [threadId=15069] Error1064: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 1 WHERE id = 'grp-a001-02-000000002977929'' at line 1
+2017-09-27 22:58:15.766 [pid:6819] - error: UPDATEAdgroupOnStage 에러 :  
+{ threadId: 15069,
+  errno: 1064,
+  message: 'ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'= 1 WHERE id = \'grp-a001-02-000000002977929\'\' at line 1',
+  sql: 'UPDATE naver_shopping_adgroup is_on_stage = 1 WHERE id = \'grp-a001-02-000000002977929\'' }
+2017-09-27 22:58:15.767 [pid:6819] - sql: [threadId=15070] UPDATE naver_shopping_adgroup is_on_stage = 1 WHERE id = 'grp-a001-02-000000002977906'
+2017-09-27 22:58:15.768 [pid:6819] - error: [threadId=15070] Error1064: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 1 WHERE id = 'grp-a001-02-000000002977906'' at line 1
+2017-09-27 22:58:15.772 [pid:6819] - error: UPDATEAdgroupOnStage 에러 :  
+{ threadId: 15070,
+  errno: 1064,
+  message: 'ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near \'= 1 WHERE id = \'grp-a001-02-000000002977906\'\' at line 1',
+  sql: 'UPDATE naver_shopping_adgroup is_on_stage = 1 WHERE id = \'grp-a001-02-000000002977906\'' }
+2017-09-27 23:00:55.332 [pid:11332] - debug: ------------ client connection ------------
+2017-09-27 23:00:55.333 [pid:11332] - debug: [Process Id] 11332
+2017-09-27 23:00:55.334 [pid:11332] - debug: [ip] ::ffff:125.131.99.75
+2017-09-27 23:00:55.334 [pid:11332] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-27 23:00:55.335 [pid:11332] - debug: [HTTP PUT] http://node4.mas-i.com/adgroups
+2017-09-27 23:00:55.353 [pid:11332] - debug: putAdgroupOnstageList 컨트롤러 실행
+2017-09-27 23:00:55.353 [pid:11332] - debug: [HTTP PUT PARAMS] data=[{"id":"grp-a001-02-000000002977906","is_on_stage":1},{"id":"grp-a001-02-000000002977929","is_on_stage":1}]
+2017-09-27 23:00:55.354 [pid:11332] - debug: 프로미스시작
+2017-09-27 23:00:55.354 [pid:11332] - debug: UPDATEAdgroupOnStage 실행
+2017-09-27 23:00:55.357 [pid:11332] - debug: UPDATEAdgroupOnStage 실행
+2017-09-27 23:00:55.360 [pid:11332] - debug: 광고그룹 스테이지 업데이트 결과 :  
+{ '0': undefined, '1': undefined }
+2017-09-27 23:00:55.699 [pid:11332] - debug: [DB 접속됨 threadId = 15077]
+2017-09-27 23:00:55.699 [pid:11332] - debug: [DB 임대됨 threadId = 15077]
+2017-09-27 23:00:55.728 [pid:11332] - debug: [DB 접속됨 threadId = 15078]
+2017-09-27 23:00:55.728 [pid:11332] - debug: [DB 임대됨 threadId = 15078]
+2017-09-27 23:00:55.743 [pid:11332] - sql: [threadId=15077] UPDATE naver_shopping_adgroup SET is_on_stage = 1 WHERE id = 'grp-a001-02-000000002977906'
+2017-09-27 23:00:55.744 [pid:11332] - sql: affectedRows: 1
+2017-09-27 23:00:55.785 [pid:11332] - sql: [threadId=15078] UPDATE naver_shopping_adgroup SET is_on_stage = 1 WHERE id = 'grp-a001-02-000000002977929'
+2017-09-27 23:00:55.785 [pid:11332] - sql: affectedRows: 1
+2017-09-27 23:04:38.423 [pid:18026] - debug: ------------ client connection ------------
+2017-09-27 23:04:38.424 [pid:18026] - debug: [Process Id] 18026
+2017-09-27 23:04:38.425 [pid:18026] - debug: [ip] ::ffff:125.131.99.75
+2017-09-27 23:04:38.425 [pid:18026] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-27 23:04:38.426 [pid:18026] - debug: [HTTP PUT] http://node4.mas-i.com/adgroups
+2017-09-27 23:04:38.440 [pid:18026] - debug: putAdgroupOnstageList 컨트롤러 실행
+2017-09-27 23:04:38.441 [pid:18026] - debug: [HTTP PUT PARAMS] data=[{"id":"grp-a001-02-000000002977906","is_on_stage":1},{"id":"grp-a001-02-000000002977929","is_on_stage":1}]
+2017-09-27 23:04:38.442 [pid:18026] - debug: 프로미스시작
+2017-09-27 23:04:38.442 [pid:18026] - debug: UPDATEAdgroupOnStage 실행
+2017-09-27 23:04:38.445 [pid:18026] - debug: UPDATEAdgroupOnStage 실행
+2017-09-27 23:04:38.604 [pid:18026] - debug: [DB 접속됨 threadId = 15090]
+2017-09-27 23:04:38.604 [pid:18026] - debug: [DB 임대됨 threadId = 15090]
+2017-09-27 23:04:38.655 [pid:18026] - sql: [threadId=15090] UPDATE naver_shopping_adgroup SET is_on_stage = 1 WHERE id = 'grp-a001-02-000000002977906'
+2017-09-27 23:04:38.656 [pid:18026] - sql: affectedRows: 1
+2017-09-27 23:04:38.857 [pid:18026] - debug: [DB 접속됨 threadId = 15091]
+2017-09-27 23:04:38.858 [pid:18026] - debug: [DB 임대됨 threadId = 15091]
+2017-09-27 23:04:38.896 [pid:18026] - sql: [threadId=15091] UPDATE naver_shopping_adgroup SET is_on_stage = 1 WHERE id = 'grp-a001-02-000000002977929'
+2017-09-27 23:04:38.896 [pid:18026] - sql: affectedRows: 1
+2017-09-28 00:16:09.282 [pid:18026] - debug: ------------ client connection ------------
+2017-09-28 00:16:09.283 [pid:18026] - debug: [Process Id] 18026
+2017-09-28 00:16:09.283 [pid:18026] - debug: [ip] ::ffff:187.87.188.126
+2017-09-28 00:16:09.283 [pid:18026] - debug: [CLIENT INFO] unknown / unknown (undefined) / unknown
+2017-09-28 00:16:09.283 [pid:18026] - debug: [HTTP GET] http://121.124.124.178/
+2017-09-28 00:16:09.289 [pid:18026] - debug: ---------- client disconnection ------------
+2017-09-28 00:16:09.289 [pid:18026] - debug: runtime=7ms
+2017-09-28 00:16:09.289 [pid:18026] - debug: 
+2017-09-28 00:16:18.796 [pid:18026] - debug: ------------ client connection ------------
+2017-09-28 00:16:18.820 [pid:18026] - debug: [Process Id] 18026
+2017-09-28 00:16:18.822 [pid:18026] - debug: [ip] ::ffff:187.87.188.126
+2017-09-28 00:16:18.822 [pid:18026] - debug: [CLIENT INFO] unknown / unknown (undefined) / unknown
+2017-09-28 00:16:18.824 [pid:18026] - debug: [HTTP GET] http://121.124.124.178/HNAP1/
+2017-09-28 00:16:18.830 [pid:18026] - debug: ---------- client disconnection ------------
+2017-09-28 00:16:18.831 [pid:18026] - debug: runtime=34ms
+2017-09-28 00:16:18.831 [pid:18026] - debug: 
+2017-09-28 00:29:40.501 [pid:28155] - debug: ------------ client connection ------------
+2017-09-28 00:29:40.502 [pid:28155] - debug: [Process Id] 28155
+2017-09-28 00:29:40.503 [pid:28155] - debug: [ip] ::ffff:125.131.99.75
+2017-09-28 00:29:40.503 [pid:28155] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-28 00:29:40.506 [pid:28155] - debug: [HTTP PUT] http://node4.mas-i.com/adgroups
+2017-09-28 00:29:40.520 [pid:28155] - debug: putAdgroupOnstageList 컨트롤러 실행
+2017-09-28 00:29:40.520 [pid:28155] - debug: [HTTP PUT PARAMS] data=[{"id":"grp-a001-02-000000002977906","is_on_stage":1},{"id":"grp-a001-02-000000002977929","is_on_stage":1}]
+2017-09-28 00:29:40.521 [pid:28155] - debug: 프로미스시작
+2017-09-28 00:29:40.521 [pid:28155] - debug: UPDATEAdgroupOnStage 실행
+2017-09-28 00:29:40.524 [pid:28155] - debug: UPDATEAdgroupOnStage 실행
+2017-09-28 00:29:40.688 [pid:28155] - debug: [DB 접속됨 threadId = 15342]
+2017-09-28 00:29:40.689 [pid:28155] - debug: [DB 임대됨 threadId = 15342]
+2017-09-28 00:29:40.732 [pid:28155] - sql: [threadId=15342] UPDATE naver_shopping_adgroup SET is_on_stage = 1 WHERE id = 'grp-a001-02-000000002977906'
+2017-09-28 00:29:40.733 [pid:28155] - sql: affectedRows: 1
+2017-09-28 00:29:40.992 [pid:28155] - debug: [DB 접속됨 threadId = 15343]
+2017-09-28 00:29:40.992 [pid:28155] - debug: [DB 임대됨 threadId = 15343]
+2017-09-28 00:29:41.031 [pid:28155] - sql: [threadId=15343] UPDATE naver_shopping_adgroup SET is_on_stage = 1 WHERE id = 'grp-a001-02-000000002977929'
+2017-09-28 00:29:41.032 [pid:28155] - sql: affectedRows: 1
+2017-09-28 00:29:41.042 [pid:28155] - debug: 광고그룹 스테이지 업데이트 결과 :  
+{ '0': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+     protocol41: true,
+     changedRows: 0 },
+  '1': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+     protocol41: true,
+     changedRows: 0 } }
+2017-09-28 00:29:41.050 [pid:28155] - error: 에러 :  ReferenceError: results is not defined
+    at /opt/www/banana/controllers/adgroup_controller.js:43:34
+    at process._tickCallback (internal/process/next_tick.js:109:7)
+2017-09-28 00:30:28.256 [pid:28930] - debug: ------------ client connection ------------
+2017-09-28 00:30:28.259 [pid:28930] - debug: [Process Id] 28930
+2017-09-28 00:30:28.259 [pid:28930] - debug: [ip] ::ffff:125.131.99.75
+2017-09-28 00:30:28.260 [pid:28930] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-28 00:30:28.263 [pid:28930] - debug: [HTTP PUT] http://node4.mas-i.com/adgroups
+2017-09-28 00:30:28.276 [pid:28930] - debug: putAdgroupOnstageList 컨트롤러 실행
+2017-09-28 00:30:28.277 [pid:28930] - debug: [HTTP PUT PARAMS] data=[{"id":"grp-a001-02-000000002977906","is_on_stage":1},{"id":"grp-a001-02-000000002977929","is_on_stage":1}]
+2017-09-28 00:30:28.277 [pid:28930] - debug: 프로미스시작
+2017-09-28 00:30:28.278 [pid:28930] - debug: UPDATEAdgroupOnStage 실행
+2017-09-28 00:30:28.281 [pid:28930] - debug: UPDATEAdgroupOnStage 실행
+2017-09-28 00:30:28.826 [pid:28930] - debug: [DB 접속됨 threadId = 15348]
+2017-09-28 00:30:28.827 [pid:28930] - debug: [DB 임대됨 threadId = 15348]
+2017-09-28 00:30:28.856 [pid:28930] - debug: [DB 접속됨 threadId = 15349]
+2017-09-28 00:30:28.856 [pid:28930] - debug: [DB 임대됨 threadId = 15349]
+2017-09-28 00:30:28.869 [pid:28930] - sql: [threadId=15348] UPDATE naver_shopping_adgroup SET is_on_stage = 1 WHERE id = 'grp-a001-02-000000002977906'
+2017-09-28 00:30:28.869 [pid:28930] - sql: affectedRows: 1
+2017-09-28 00:30:28.910 [pid:28930] - sql: [threadId=15349] UPDATE naver_shopping_adgroup SET is_on_stage = 1 WHERE id = 'grp-a001-02-000000002977929'
+2017-09-28 00:30:28.911 [pid:28930] - sql: affectedRows: 1
+2017-09-28 00:30:28.917 [pid:28930] - debug: 광고그룹 스테이지 업데이트 결과 :  
+{ '0': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+     protocol41: true,
+     changedRows: 0 },
+  '1': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+     protocol41: true,
+     changedRows: 1 } }
+2017-09-28 00:30:28.918 [pid:28930] - debug: [STATUS 200] OK-SUCCESS
+2017-09-28 00:30:28.928 [pid:28930] - debug: ---------- client disconnection ------------
+2017-09-28 00:30:28.928 [pid:28930] - debug: runtime=676ms
+2017-09-28 00:30:28.929 [pid:28930] - debug: 
+2017-09-28 00:31:15.813 [pid:28930] - debug: ------------ client connection ------------
+2017-09-28 00:31:15.813 [pid:28930] - debug: [Process Id] 28930
+2017-09-28 00:31:15.813 [pid:28930] - debug: [ip] ::ffff:125.131.99.75
+2017-09-28 00:31:15.813 [pid:28930] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-28 00:31:15.813 [pid:28930] - debug: [HTTP PUT] http://node4.mas-i.com/adgroups
+2017-09-28 00:31:15.815 [pid:28930] - debug: putAdgroupOnstageList 컨트롤러 실행
+2017-09-28 00:31:15.815 [pid:28930] - debug: [HTTP PUT PARAMS] data=[{"id":"grp-a001-02-000000002977906","is_on_stage":1},{"id":"grp-a001-02-000000002977929","is_on_stage":1}]
+2017-09-28 00:31:15.815 [pid:28930] - debug: 프로미스시작
+2017-09-28 00:31:15.815 [pid:28930] - debug: UPDATEAdgroupOnStage 실행
+2017-09-28 00:31:15.816 [pid:28930] - debug: UPDATEAdgroupOnStage 실행
+2017-09-28 00:31:15.855 [pid:28930] - debug: [DB 접속됨 threadId = 15350]
+2017-09-28 00:31:15.855 [pid:28930] - debug: [DB 임대됨 threadId = 15350]
+2017-09-28 00:31:15.898 [pid:28930] - sql: [threadId=15350] UPDATE naver_shopping_adgroup SET is_on_stage = 1 WHERE id = 'grp-a001-02-000000002977906'
+2017-09-28 00:31:15.899 [pid:28930] - sql: affectedRows: 1
+2017-09-28 00:31:16.203 [pid:28930] - debug: [DB 접속됨 threadId = 15351]
+2017-09-28 00:31:16.204 [pid:28930] - debug: [DB 임대됨 threadId = 15351]
+2017-09-28 00:31:16.249 [pid:28930] - sql: [threadId=15351] UPDATE naver_shopping_adgroup SET is_on_stage = 1 WHERE id = 'grp-a001-02-000000002977929'
+2017-09-28 00:31:16.250 [pid:28930] - sql: affectedRows: 1
+2017-09-28 00:31:16.252 [pid:28930] - debug: 광고그룹 스테이지 업데이트 결과 :  
+{ '0': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+     protocol41: true,
+     changedRows: 1 },
+  '1': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+     protocol41: true,
+     changedRows: 1 } }
+2017-09-28 00:31:16.254 [pid:28930] - debug: [STATUS 200] OK-SUCCESS
+2017-09-28 00:31:16.258 [pid:28930] - debug: ---------- client disconnection ------------
+2017-09-28 00:31:16.261 [pid:28930] - debug: runtime=445ms
+2017-09-28 00:31:16.261 [pid:28930] - debug: 
+2017-09-28 00:41:29.874 [pid:28930] - debug: ------------ client connection ------------
+2017-09-28 00:41:29.874 [pid:28930] - debug: [Process Id] 28930
+2017-09-28 00:41:29.874 [pid:28930] - debug: [ip] ::ffff:194.25.8.139
+2017-09-28 00:41:29.874 [pid:28930] - debug: [CLIENT INFO] unknown / unknown (undefined) / unknown
+2017-09-28 00:41:29.874 [pid:28930] - debug: [HTTP GET] http://121.124.124.178/manager/html
+2017-09-28 00:41:29.879 [pid:28930] - debug: ---------- client disconnection ------------
+2017-09-28 00:41:29.879 [pid:28930] - debug: runtime=6ms
+2017-09-28 00:41:29.879 [pid:28930] - debug: 
+2017-09-28 00:44:17.004 [pid:19782] - debug: ------------ client connection ------------
+2017-09-28 00:44:17.006 [pid:19782] - debug: [Process Id] 19782
+2017-09-28 00:44:17.007 [pid:19782] - debug: [ip] ::ffff:125.131.99.75
+2017-09-28 00:44:17.007 [pid:19782] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-28 00:44:17.007 [pid:19782] - debug: [HTTP PUT] http://node4.mas-i.com/adgroups
+2017-09-28 00:44:17.022 [pid:19782] - debug: putAdgroupOnstageList 컨트롤러 실행
+2017-09-28 00:44:17.022 [pid:19782] - debug: [HTTP PUT PARAMS] data=[{"id":"grp-a001-02-000000002977906","is_on_stage":1},{"id":"grp-a001-02-000000002977929","is_on_stage":1}]
+2017-09-28 00:44:17.023 [pid:19782] - debug: UPDATEAdgroupOnStage 실행
+2017-09-28 00:44:17.026 [pid:19782] - debug: UPDATEAdgroupOnStage 실행
+2017-09-28 00:44:17.189 [pid:19782] - debug: [DB 접속됨 threadId = 15366]
+2017-09-28 00:44:17.191 [pid:19782] - debug: [DB 임대됨 threadId = 15366]
+2017-09-28 00:44:17.237 [pid:19782] - sql: [threadId=15366] UPDATE naver_shopping_adgroup SET is_on_stage = 1 WHERE id = 'grp-a001-02-000000002977906'
+2017-09-28 00:44:17.239 [pid:19782] - sql: affectedRows: 1
+2017-09-28 00:44:17.281 [pid:19782] - debug: [DB 접속됨 threadId = 15367]
+2017-09-28 00:44:17.282 [pid:19782] - debug: [DB 임대됨 threadId = 15367]
+2017-09-28 00:44:17.318 [pid:19782] - sql: [threadId=15367] UPDATE naver_shopping_adgroup SET is_on_stage = 1 WHERE id = 'grp-a001-02-000000002977929'
+2017-09-28 00:44:17.319 [pid:19782] - sql: affectedRows: 1
+2017-09-28 00:44:17.321 [pid:19782] - debug: SELECTAdgroupOnStage 실행
+2017-09-28 00:44:17.700 [pid:19782] - debug: [DB 접속됨 threadId = 15368]
+2017-09-28 00:44:17.700 [pid:19782] - debug: [DB 임대됨 threadId = 15368]
+2017-09-28 00:44:17.703 [pid:19782] - debug: 클로즈!
+2017-09-28 00:44:17.704 [pid:19782] - debug: [DB 반납됨 threadId = 15368]
+2017-09-28 00:44:17.707 [pid:19782] - sql: [threadId=15368] SELECT * FROM naver_shopping_adgroup WHERE is_on_stage = 1
+2017-09-28 00:44:17.710 [pid:19782] - sql: selected data:  
+{ '0': 
+   { no: 295,
+     id: 'grp-a001-02-000000002315010',
+     name: 'TEST_디자인 케이스',
+     campaign_id: 'cmp-a001-02-000000000354348',
+     campaign_name: '피코그라프_케이스',
+     site: 'http://www.picograph.kr',
+     bid_amt: 50,
+     total_ad_count: 0,
+     bidding_ad_count: 0,
+     is_on_stage: 1,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '1': 
+   { no: 296,
+     id: 'grp-a001-02-000000002977893',
+     name: 'PG_피코포토',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 3,
+     bidding_ad_count: 2,
+     is_on_stage: 1,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '2': 
+   { no: 297,
+     id: 'grp-a001-02-000000002977906',
+     name: 'PG_사진인화',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 300,
+     total_ad_count: 2,
+     bidding_ad_count: 0,
+     is_on_stage: 1,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '3': 
+   { no: 298,
+     id: 'grp-a001-02-000000002977929',
+     name: 'PG_퍼즐액자',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 1,
+     bidding_ad_count: 1,
+     is_on_stage: 1,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '4': 
+   { no: 299,
+     id: 'grp-a001-02-000000002977957',
+     name: 'PG_캔버스',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 400,
+     total_ad_count: 1,
+     bidding_ad_count: 0,
+     is_on_stage: 1,
+     is_bidding: 0,
+     is_active: 'ON' } }
+2017-09-28 00:44:17.713 [pid:19782] - error: 에러 :  TypeError: res.sendAPI is not a function
+    at /opt/www/banana/controllers/adgroup_controller.js:48:13
+    at process._tickCallback (internal/process/next_tick.js:109:7)
+2017-09-28 00:44:17.713 [pid:19782] - error: [STATUS 500] Server Error-TypeError: res.sendAPI is not a function
+2017-09-28 00:44:17.717 [pid:19782] - debug: ---------- client disconnection ------------
+2017-09-28 00:44:17.717 [pid:19782] - debug: runtime=717ms
+2017-09-28 00:44:17.718 [pid:19782] - debug: 
+2017-09-28 00:44:54.283 [pid:20740] - debug: ------------ client connection ------------
+2017-09-28 00:44:54.286 [pid:20740] - debug: [Process Id] 20740
+2017-09-28 00:44:54.287 [pid:20740] - debug: [ip] ::ffff:125.131.99.75
+2017-09-28 00:44:54.288 [pid:20740] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-28 00:44:54.288 [pid:20740] - debug: [HTTP PUT] http://node4.mas-i.com/adgroups
+2017-09-28 00:44:54.306 [pid:20740] - debug: putAdgroupOnstageList 컨트롤러 실행
+2017-09-28 00:44:54.306 [pid:20740] - debug: [HTTP PUT PARAMS] data=[{"id":"grp-a001-02-000000002977906","is_on_stage":1},{"id":"grp-a001-02-000000002977929","is_on_stage":1}]
+2017-09-28 00:44:54.307 [pid:20740] - debug: UPDATEAdgroupOnStage 실행
+2017-09-28 00:44:54.310 [pid:20740] - debug: UPDATEAdgroupOnStage 실행
+2017-09-28 00:44:54.496 [pid:20740] - debug: [DB 접속됨 threadId = 15373]
+2017-09-28 00:44:54.496 [pid:20740] - debug: [DB 임대됨 threadId = 15373]
+2017-09-28 00:44:54.540 [pid:20740] - sql: [threadId=15373] UPDATE naver_shopping_adgroup SET is_on_stage = 1 WHERE id = 'grp-a001-02-000000002977929'
+2017-09-28 00:44:54.541 [pid:20740] - sql: affectedRows: 1
+2017-09-28 00:44:55.118 [pid:20740] - debug: [DB 접속됨 threadId = 15374]
+2017-09-28 00:44:55.119 [pid:20740] - debug: [DB 임대됨 threadId = 15374]
+2017-09-28 00:44:55.164 [pid:20740] - sql: [threadId=15374] UPDATE naver_shopping_adgroup SET is_on_stage = 1 WHERE id = 'grp-a001-02-000000002977906'
+2017-09-28 00:44:55.165 [pid:20740] - sql: affectedRows: 1
+2017-09-28 00:44:55.167 [pid:20740] - debug: SELECTAdgroupOnStage 실행
+2017-09-28 00:44:55.321 [pid:20740] - debug: [DB 접속됨 threadId = 15375]
+2017-09-28 00:44:55.322 [pid:20740] - debug: [DB 임대됨 threadId = 15375]
+2017-09-28 00:44:55.325 [pid:20740] - debug: 클로즈!
+2017-09-28 00:44:55.327 [pid:20740] - debug: [DB 반납됨 threadId = 15375]
+2017-09-28 00:44:55.337 [pid:20740] - sql: [threadId=15375] SELECT * FROM naver_shopping_adgroup WHERE is_on_stage = 1
+2017-09-28 00:44:55.350 [pid:20740] - sql: selected data:  
+{ '0': 
+   { no: 295,
+     id: 'grp-a001-02-000000002315010',
+     name: 'TEST_디자인 케이스',
+     campaign_id: 'cmp-a001-02-000000000354348',
+     campaign_name: '피코그라프_케이스',
+     site: 'http://www.picograph.kr',
+     bid_amt: 50,
+     total_ad_count: 0,
+     bidding_ad_count: 0,
+     is_on_stage: 1,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '1': 
+   { no: 296,
+     id: 'grp-a001-02-000000002977893',
+     name: 'PG_피코포토',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 3,
+     bidding_ad_count: 2,
+     is_on_stage: 1,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '2': 
+   { no: 297,
+     id: 'grp-a001-02-000000002977906',
+     name: 'PG_사진인화',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 300,
+     total_ad_count: 2,
+     bidding_ad_count: 0,
+     is_on_stage: 1,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '3': 
+   { no: 298,
+     id: 'grp-a001-02-000000002977929',
+     name: 'PG_퍼즐액자',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 1,
+     bidding_ad_count: 1,
+     is_on_stage: 1,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '4': 
+   { no: 299,
+     id: 'grp-a001-02-000000002977957',
+     name: 'PG_캔버스',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 400,
+     total_ad_count: 1,
+     bidding_ad_count: 0,
+     is_on_stage: 1,
+     is_bidding: 0,
+     is_active: 'ON' } }
+2017-09-28 00:44:55.354 [pid:20740] - debug: [STATUS 200] OK-SUCCESS
+2017-09-28 00:44:55.363 [pid:20740] - debug: ---------- client disconnection ------------
+2017-09-28 00:44:55.364 [pid:20740] - debug: runtime=1091ms
+2017-09-28 00:44:55.364 [pid:20740] - debug: 
+2017-09-28 00:47:38.825 [pid:20740] - debug: ------------ client connection ------------
+2017-09-28 00:47:38.826 [pid:20740] - debug: [Process Id] 20740
+2017-09-28 00:47:38.827 [pid:20740] - debug: [ip] ::ffff:125.131.99.75
+2017-09-28 00:47:38.827 [pid:20740] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-28 00:47:38.828 [pid:20740] - debug: [HTTP PUT] http://node4.mas-i.com/adgroups
+2017-09-28 00:47:38.834 [pid:20740] - debug: putAdgroupOnstageList 컨트롤러 실행
+2017-09-28 00:47:38.835 [pid:20740] - debug: [HTTP PUT PARAMS] data=[{"id":"grp-a001-02-000000002977906","is_on_stage":1},{"id":"grp-a001-02-000000002977929","is_on_stage":1}]
+2017-09-28 00:47:38.836 [pid:20740] - debug: UPDATEAdgroupOnStage 실행
+2017-09-28 00:47:38.839 [pid:20740] - debug: UPDATEAdgroupOnStage 실행
+2017-09-28 00:47:38.842 [pid:20740] - debug: [DB 임대됨 threadId = 15375]
+2017-09-28 00:47:38.879 [pid:20740] - sql: [threadId=15375] UPDATE naver_shopping_adgroup SET is_on_stage = 1 WHERE id = 'grp-a001-02-000000002977906'
+2017-09-28 00:47:38.880 [pid:20740] - sql: affectedRows: 1
+2017-09-28 00:47:38.988 [pid:20740] - debug: [DB 접속됨 threadId = 15387]
+2017-09-28 00:47:38.988 [pid:20740] - debug: [DB 임대됨 threadId = 15387]
+2017-09-28 00:47:39.029 [pid:20740] - sql: [threadId=15387] UPDATE naver_shopping_adgroup SET is_on_stage = 1 WHERE id = 'grp-a001-02-000000002977929'
+2017-09-28 00:47:39.030 [pid:20740] - sql: affectedRows: 1
+2017-09-28 00:47:39.030 [pid:20740] - debug: SELECTAdgroupOnStage 실행
+2017-09-28 00:47:39.103 [pid:20740] - debug: [DB 접속됨 threadId = 15388]
+2017-09-28 00:47:39.103 [pid:20740] - debug: [DB 임대됨 threadId = 15388]
+2017-09-28 00:47:39.104 [pid:20740] - debug: 클로즈!
+2017-09-28 00:47:39.104 [pid:20740] - debug: [DB 반납됨 threadId = 15388]
+2017-09-28 00:47:39.106 [pid:20740] - sql: [threadId=15388] SELECT * FROM naver_shopping_adgroup WHERE is_on_stage = 1
+2017-09-28 00:47:39.107 [pid:20740] - sql: selected data:  
+{ '0': 
+   { no: 295,
+     id: 'grp-a001-02-000000002315010',
+     name: 'TEST_디자인 케이스',
+     campaign_id: 'cmp-a001-02-000000000354348',
+     campaign_name: '피코그라프_케이스',
+     site: 'http://www.picograph.kr',
+     bid_amt: 50,
+     total_ad_count: 0,
+     bidding_ad_count: 0,
+     is_on_stage: 1,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '1': 
+   { no: 296,
+     id: 'grp-a001-02-000000002977893',
+     name: 'PG_피코포토',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 3,
+     bidding_ad_count: 2,
+     is_on_stage: 1,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '2': 
+   { no: 297,
+     id: 'grp-a001-02-000000002977906',
+     name: 'PG_사진인화',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 300,
+     total_ad_count: 2,
+     bidding_ad_count: 0,
+     is_on_stage: 1,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '3': 
+   { no: 298,
+     id: 'grp-a001-02-000000002977929',
+     name: 'PG_퍼즐액자',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 1,
+     bidding_ad_count: 1,
+     is_on_stage: 1,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '4': 
+   { no: 299,
+     id: 'grp-a001-02-000000002977957',
+     name: 'PG_캔버스',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 400,
+     total_ad_count: 1,
+     bidding_ad_count: 0,
+     is_on_stage: 1,
+     is_bidding: 0,
+     is_active: 'ON' } }
+2017-09-28 00:47:39.108 [pid:20740] - debug: [STATUS 200] OK-SUCCESS
+2017-09-28 00:47:39.109 [pid:20740] - debug: ---------- client disconnection ------------
+2017-09-28 00:47:39.110 [pid:20740] - debug: runtime=284ms
+2017-09-28 00:47:39.110 [pid:20740] - debug: 
+2017-09-28 01:02:35.004 [pid:17816] - debug: ------------ client connection ------------
+2017-09-28 01:02:35.005 [pid:17816] - debug: [Process Id] 17816
+2017-09-28 01:02:35.006 [pid:17816] - debug: [ip] ::ffff:125.131.99.75
+2017-09-28 01:02:35.006 [pid:17816] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-28 01:02:35.006 [pid:17816] - debug: [HTTP GET] http://node4.mas-i.com/ads%3Fadgroup_id=cmp-a001-02-000000000486117
+2017-09-28 01:02:35.012 [pid:17816] - debug: getAdList 컨트롤러 실행
+2017-09-28 01:02:35.012 [pid:17816] - debug: [HTTP GET PARAMS] adgroup_id=cmp-a001-02-000000000486117
+2017-09-28 01:02:35.012 [pid:17816] - debug: SELECTAd 실행
+2017-09-28 01:02:37.033 [pid:17816] - debug:  >> 모든 DATABASE 접속이 해제됨
+2017-09-28 01:03:26.395 [pid:19153] - debug: ------------ client connection ------------
+2017-09-28 01:03:26.397 [pid:19153] - debug: [Process Id] 19153
+2017-09-28 01:03:26.397 [pid:19153] - debug: [ip] ::ffff:125.131.99.75
+2017-09-28 01:03:26.398 [pid:19153] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-28 01:03:26.398 [pid:19153] - debug: [HTTP GET] http://node4.mas-i.com/ads%3Fadgroup_id=cmp-a001-02-000000000486117
+2017-09-28 01:03:26.403 [pid:19153] - debug: getAdList 컨트롤러 실행
+2017-09-28 01:03:26.404 [pid:19153] - debug: [HTTP GET PARAMS] adgroup_id=cmp-a001-02-000000000486117
+2017-09-28 01:03:26.404 [pid:19153] - debug: SELECTAd 실행
+2017-09-28 01:03:26.894 [pid:19153] - debug: [DB 접속됨 threadId = 15417]
+2017-09-28 01:03:26.894 [pid:19153] - debug: [DB 임대됨 threadId = 15417]
+2017-09-28 01:03:26.898 [pid:19153] - debug: 클로즈!
+2017-09-28 01:03:26.899 [pid:19153] - debug: [DB 반납됨 threadId = 15417]
+2017-09-28 01:03:26.901 [pid:19153] - sql: [threadId=15417] SELECT * FROM naver_shopping_ad WHERE adgroup_id = 'cmp-a001-02-000000000486117'
+2017-09-28 01:03:26.901 [pid:19153] - sql: selected data: 
+2017-09-28 01:03:26.902 [pid:19153] - debug: [STATUS 200] OK-SUCCESS
+2017-09-28 01:03:26.905 [pid:19153] - debug: ---------- client disconnection ------------
+2017-09-28 01:03:26.906 [pid:19153] - debug: runtime=514ms
+2017-09-28 01:03:26.906 [pid:19153] - debug: 
+2017-09-28 01:05:17.293 [pid:19153] - debug: ------------ client connection ------------
+2017-09-28 01:05:17.293 [pid:19153] - debug: [Process Id] 19153
+2017-09-28 01:05:17.294 [pid:19153] - debug: [ip] ::ffff:125.131.99.75
+2017-09-28 01:05:17.294 [pid:19153] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-28 01:05:17.294 [pid:19153] - debug: [HTTP GET] http://node4.mas-i.com/ads%3Fadgroup_id=grp-a001-02-000000002977906
+2017-09-28 01:05:17.295 [pid:19153] - debug: getAdList 컨트롤러 실행
+2017-09-28 01:05:17.295 [pid:19153] - debug: [HTTP GET PARAMS] adgroup_id=grp-a001-02-000000002977906
+2017-09-28 01:05:17.296 [pid:19153] - debug: SELECTAd 실행
+2017-09-28 01:05:17.297 [pid:19153] - debug: [DB 임대됨 threadId = 15417]
+2017-09-28 01:05:17.298 [pid:19153] - debug: 클로즈!
+2017-09-28 01:05:17.298 [pid:19153] - debug: [DB 반납됨 threadId = 15417]
+2017-09-28 01:05:17.301 [pid:19153] - sql: [threadId=15417] SELECT * FROM naver_shopping_ad WHERE adgroup_id = 'grp-a001-02-000000002977906'
+2017-09-28 01:05:17.304 [pid:19153] - sql: selected data:  
+{ '0': 
+   { no: 501,
+     id: 'nad-a001-02-000000011695649',
+     name: '피코포토 사진인화 4구 액자',
+     adgroup_id: 'grp-a001-02-000000002977906',
+     adgroup_name: 'PG_사진인화',
+     is_active: 'ON',
+     use_group_bid_amt: 1,
+     bid_amt: 300,
+     current_rank: 2,
+     aimed_rank: 2,
+     bid_amt_limit: 500,
+     bid_change_amt: 10,
+     keywords: '4구액자',
+     is_bidding: 0,
+     inner_aimed_rank: 0 },
+  '1': 
+   { no: 502,
+     id: 'nad-a001-02-000000011695650',
+     name: '피코포토 사진인화 9구 액자',
+     adgroup_id: 'grp-a001-02-000000002977906',
+     adgroup_name: 'PG_사진인화',
+     is_active: 'ON',
+     use_group_bid_amt: 1,
+     bid_amt: 300,
+     current_rank: 1,
+     aimed_rank: 2,
+     bid_amt_limit: 500,
+     bid_change_amt: 10,
+     keywords: '9구액자',
+     is_bidding: 0,
+     inner_aimed_rank: 1 } }
+2017-09-28 01:05:17.304 [pid:19153] - debug: [STATUS 200] OK-SUCCESS
+2017-09-28 01:05:17.306 [pid:19153] - debug: ---------- client disconnection ------------
+2017-09-28 01:05:17.306 [pid:19153] - debug: runtime=13ms
+2017-09-28 01:05:17.307 [pid:19153] - debug: 
+2017-09-28 01:24:31.443 [pid:19153] - debug: ------------ client connection ------------
+2017-09-28 01:24:31.443 [pid:19153] - debug: [Process Id] 19153
+2017-09-28 01:24:31.444 [pid:19153] - debug: [ip] ::ffff:213.123.124.15
+2017-09-28 01:24:31.444 [pid:19153] - debug: [CLIENT INFO] unknown / unknown (undefined) / unknown
+2017-09-28 01:24:31.444 [pid:19153] - debug: [HTTP GET] http://121.124.124.178/phpMyAdmin/scripts/setup.php
+2017-09-28 01:24:31.448 [pid:19153] - debug: ---------- client disconnection ------------
+2017-09-28 01:24:31.448 [pid:19153] - debug: runtime=5ms
+2017-09-28 01:24:31.448 [pid:19153] - debug: 
+2017-09-28 01:24:32.079 [pid:19153] - debug: ------------ client connection ------------
+2017-09-28 01:24:32.079 [pid:19153] - debug: [Process Id] 19153
+2017-09-28 01:24:32.080 [pid:19153] - debug: [ip] ::ffff:213.123.124.15
+2017-09-28 01:24:32.080 [pid:19153] - debug: [CLIENT INFO] unknown / unknown (undefined) / unknown
+2017-09-28 01:24:32.081 [pid:19153] - debug: [HTTP GET] http://121.124.124.178/phpmyadmin/scripts/setup.php
+2017-09-28 01:24:32.084 [pid:19153] - debug: ---------- client disconnection ------------
+2017-09-28 01:24:32.084 [pid:19153] - debug: runtime=5ms
+2017-09-28 01:24:32.084 [pid:19153] - debug: 
+2017-09-28 01:24:32.713 [pid:19153] - debug: ------------ client connection ------------
+2017-09-28 01:24:32.715 [pid:19153] - debug: [Process Id] 19153
+2017-09-28 01:24:32.716 [pid:19153] - debug: [ip] ::ffff:213.123.124.15
+2017-09-28 01:24:32.716 [pid:19153] - debug: [CLIENT INFO] unknown / unknown (undefined) / unknown
+2017-09-28 01:24:32.717 [pid:19153] - debug: [HTTP GET] http://121.124.124.178/pma/scripts/setup.php
+2017-09-28 01:24:32.719 [pid:19153] - debug: ---------- client disconnection ------------
+2017-09-28 01:24:32.719 [pid:19153] - debug: runtime=6ms
+2017-09-28 01:24:32.720 [pid:19153] - debug: 
+2017-09-28 01:24:33.339 [pid:19153] - debug: ------------ client connection ------------
+2017-09-28 01:24:33.340 [pid:19153] - debug: [Process Id] 19153
+2017-09-28 01:24:33.340 [pid:19153] - debug: [ip] ::ffff:213.123.124.15
+2017-09-28 01:24:33.341 [pid:19153] - debug: [CLIENT INFO] unknown / unknown (undefined) / unknown
+2017-09-28 01:24:33.343 [pid:19153] - debug: [HTTP GET] http://121.124.124.178/myadmin/scripts/setup.php
+2017-09-28 01:24:33.348 [pid:19153] - debug: ---------- client disconnection ------------
+2017-09-28 01:24:33.359 [pid:19153] - debug: runtime=10ms
+2017-09-28 01:24:33.365 [pid:19153] - debug: 
+2017-09-28 01:24:33.963 [pid:19153] - debug: ------------ client connection ------------
+2017-09-28 01:24:33.964 [pid:19153] - debug: [Process Id] 19153
+2017-09-28 01:24:33.965 [pid:19153] - debug: [ip] ::ffff:213.123.124.15
+2017-09-28 01:24:33.966 [pid:19153] - debug: [CLIENT INFO] unknown / unknown (undefined) / unknown
+2017-09-28 01:24:33.967 [pid:19153] - debug: [HTTP GET] http://121.124.124.178/MyAdmin/scripts/setup.php
+2017-09-28 01:24:33.971 [pid:19153] - debug: ---------- client disconnection ------------
+2017-09-28 01:24:33.972 [pid:19153] - debug: runtime=10ms
+2017-09-28 01:24:33.973 [pid:19153] - debug: 
+2017-09-28 02:08:35.569 [pid:27428] - debug: ------------ client connection ------------
+2017-09-28 02:08:35.571 [pid:27428] - debug: [Process Id] 27428
+2017-09-28 02:08:35.572 [pid:27428] - debug: [ip] ::ffff:125.131.99.75
+2017-09-28 02:08:35.572 [pid:27428] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-28 02:08:35.572 [pid:27428] - debug: [HTTP PUT] http://node4.mas-i.com/ads
+2017-09-28 02:08:35.589 [pid:27428] - debug: [HTTP PUT PARAMS] data={
+    "adgroups" : [
+        {
+            "id" : "grp-a001-02-000000002315010",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977893",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977906",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977929",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977957",
+            "is_bidding" : 0
+        }
+    ],
+    "ads" : [
+        {
+            "id" : "nad-a001-02-000000011695540",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 1000,
+            "bid_change_amt" : 20,
+            "keywords" : "퍼즐액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695649",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1100,
+            "bid_change_amt" : 10,
+            "keywords" : "4구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695650",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1200,
+            "bid_change_amt" : 30,
+            "keywords" : "9구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695615",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 500,
+            "bid_change_amt" : 10,
+            "keywords" : "원목거치대",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695616",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 700,
+            "bid_change_amt" : 10,
+            "keywords" : "정사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695617",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 800,
+            "bid_change_amt" : 20,
+            "keywords" : "직사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695502",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 900,
+            "bid_change_amt" : 10,
+            "keywords" : "캔버스액자",
+            "is_bidding" : 0
+        }
+    ]
+}
+2017-09-28 02:08:35.595 [pid:27428] - debug: ---------- client disconnection ------------
+2017-09-28 02:08:35.595 [pid:27428] - debug: runtime=30ms
+2017-09-28 02:08:35.596 [pid:27428] - debug: 
+2017-09-28 02:08:38.600 [pid:27428] - debug:  >> 모든 DATABASE 접속이 해제됨
+2017-09-28 02:11:06.530 [pid:31498] - debug: ------------ client connection ------------
+2017-09-28 02:11:06.531 [pid:31498] - debug: [Process Id] 31498
+2017-09-28 02:11:06.532 [pid:31498] - debug: [ip] ::ffff:125.131.99.75
+2017-09-28 02:11:06.532 [pid:31498] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-28 02:11:06.533 [pid:31498] - debug: [HTTP PUT] http://node4.mas-i.com/ads
+2017-09-28 02:11:06.548 [pid:31498] - debug: [HTTP PUT PARAMS] data={
+    "adgroups" : [
+        {
+            "id" : "grp-a001-02-000000002315010",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977893",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977906",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977929",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977957",
+            "is_bidding" : 0
+        }
+    ],
+    "ads" : [
+        {
+            "id" : "nad-a001-02-000000011695540",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 1000,
+            "bid_change_amt" : 20,
+            "keywords" : "퍼즐액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695649",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1100,
+            "bid_change_amt" : 10,
+            "keywords" : "4구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695650",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1200,
+            "bid_change_amt" : 30,
+            "keywords" : "9구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695615",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 500,
+            "bid_change_amt" : 10,
+            "keywords" : "원목거치대",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695616",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 700,
+            "bid_change_amt" : 10,
+            "keywords" : "정사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695617",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 800,
+            "bid_change_amt" : 20,
+            "keywords" : "직사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695502",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 900,
+            "bid_change_amt" : 10,
+            "keywords" : "캔버스액자",
+            "is_bidding" : 0
+        }
+    ]
+}
+2017-09-28 02:11:06.554 [pid:31498] - debug: ---------- client disconnection ------------
+2017-09-28 02:11:06.555 [pid:31498] - debug: runtime=28ms
+2017-09-28 02:11:06.555 [pid:31498] - debug: 
+2017-09-28 02:11:09.558 [pid:31498] - debug:  >> 모든 DATABASE 접속이 해제됨
+2017-09-28 02:12:09.555 [pid:629] - debug: ------------ client connection ------------
+2017-09-28 02:12:09.557 [pid:629] - debug: [Process Id] 629
+2017-09-28 02:12:09.558 [pid:629] - debug: [ip] ::ffff:125.131.99.75
+2017-09-28 02:12:09.558 [pid:629] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-28 02:12:09.558 [pid:629] - debug: [HTTP PUT] http://node4.mas-i.com/ads
+2017-09-28 02:12:09.573 [pid:629] - debug: [HTTP PUT PARAMS] adgroups=false
+2017-09-28 02:12:09.573 [pid:629] - debug: [HTTP PUT PARAMS] ads=false
+2017-09-28 02:12:09.574 [pid:629] - debug: putAdgroupBiddingList 컨트롤러 실행
+2017-09-28 02:12:09.575 [pid:629] - error: 에러 :  TypeError: adgroup_data.map is not a function
+    at Object.module.exports.putAdgroupBiddingList (/opt/www/banana/controllers/adgroup_controller.js:62:37)
+    at /opt/www/banana/routes/index.js:78:38
+    at process._tickCallback (internal/process/next_tick.js:109:7)
+2017-09-28 02:12:09.576 [pid:629] - error: [STATUS 500] Server Error-TypeError: adgroup_data.map is not a function
+2017-09-28 02:12:09.580 [pid:629] - debug: ---------- client disconnection ------------
+2017-09-28 02:12:09.580 [pid:629] - debug: runtime=29ms
+2017-09-28 02:12:09.580 [pid:629] - debug: 
+2017-09-28 02:13:03.587 [pid:2126] - debug: ------------ client connection ------------
+2017-09-28 02:13:03.589 [pid:2126] - debug: [Process Id] 2126
+2017-09-28 02:13:03.590 [pid:2126] - debug: [ip] ::ffff:125.131.99.75
+2017-09-28 02:13:03.590 [pid:2126] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-28 02:13:03.590 [pid:2126] - debug: [HTTP PUT] http://node4.mas-i.com/ads
+2017-09-28 02:13:03.605 [pid:2126] - debug: [HTTP PUT PARAMS] data={
+    "adgroups" : [
+        {
+            "id" : "grp-a001-02-000000002315010",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977893",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977906",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977929",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977957",
+            "is_bidding" : 0
+        }
+    ],
+    "ads" : [
+        {
+            "id" : "nad-a001-02-000000011695540",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 1000,
+            "bid_change_amt" : 20,
+            "keywords" : "퍼즐액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695649",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1100,
+            "bid_change_amt" : 10,
+            "keywords" : "4구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695650",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1200,
+            "bid_change_amt" : 30,
+            "keywords" : "9구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695615",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 500,
+            "bid_change_amt" : 10,
+            "keywords" : "원목거치대",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695616",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 700,
+            "bid_change_amt" : 10,
+            "keywords" : "정사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695617",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 800,
+            "bid_change_amt" : 20,
+            "keywords" : "직사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695502",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 900,
+            "bid_change_amt" : 10,
+            "keywords" : "캔버스액자",
+            "is_bidding" : 0
+        }
+    ]
+}
+2017-09-28 02:13:03.611 [pid:2126] - debug: ---------- client disconnection ------------
+2017-09-28 02:13:03.611 [pid:2126] - debug: runtime=28ms
+2017-09-28 02:13:03.612 [pid:2126] - debug: 
+2017-09-28 02:13:06.616 [pid:2126] - debug:  >> 모든 DATABASE 접속이 해제됨
+2017-09-28 02:14:21.588 [pid:4503] - debug: ------------ client connection ------------
+2017-09-28 02:14:21.590 [pid:4503] - debug: [Process Id] 4503
+2017-09-28 02:14:21.590 [pid:4503] - debug: [ip] ::ffff:125.131.99.75
+2017-09-28 02:14:21.591 [pid:4503] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-28 02:14:21.591 [pid:4503] - debug: [HTTP PUT] http://node4.mas-i.com/ads
+2017-09-28 02:14:21.606 [pid:4503] - debug: [HTTP PUT PARAMS] adgroups=[
+        {
+            "id" : "grp-a001-02-000000002315010",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977893",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977906",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977929",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977957",
+            "is_bidding" : 0
+        }
+    ]
+2017-09-28 02:14:21.606 [pid:4503] - debug: [HTTP PUT PARAMS] ads=[
+        {
+            "id" : "nad-a001-02-000000011695540",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 1000,
+            "bid_change_amt" : 20,
+            "keywords" : "퍼즐액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695649",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1100,
+            "bid_change_amt" : 10,
+            "keywords" : "4구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695650",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1200,
+            "bid_change_amt" : 30,
+            "keywords" : "9구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695615",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 500,
+            "bid_change_amt" : 10,
+            "keywords" : "원목거치대",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695616",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 700,
+            "bid_change_amt" : 10,
+            "keywords" : "정사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695617",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 800,
+            "bid_change_amt" : 20,
+            "keywords" : "직사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695502",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 900,
+            "bid_change_amt" : 10,
+            "keywords" : "캔버스액자",
+            "is_bidding" : 0
+        }
+    ]
+2017-09-28 02:14:21.607 [pid:4503] - debug: putAdgroupBiddingList 컨트롤러 실행
+2017-09-28 02:14:21.608 [pid:4503] - error: 에러 :  TypeError: adgroup_data.map is not a function
+    at Object.module.exports.putAdgroupBiddingList (/opt/www/banana/controllers/adgroup_controller.js:62:37)
+    at /opt/www/banana/routes/index.js:78:38
+    at process._tickCallback (internal/process/next_tick.js:109:7)
+2017-09-28 02:14:21.609 [pid:4503] - error: [STATUS 500] Server Error-TypeError: adgroup_data.map is not a function
+2017-09-28 02:14:21.613 [pid:4503] - debug: ---------- client disconnection ------------
+2017-09-28 02:14:21.613 [pid:4503] - debug: runtime=29ms
+2017-09-28 02:14:21.613 [pid:4503] - debug: 
+2017-09-28 02:15:29.933 [pid:6168] - debug: ------------ client connection ------------
+2017-09-28 02:15:29.935 [pid:6168] - debug: [Process Id] 6168
+2017-09-28 02:15:29.936 [pid:6168] - debug: [ip] ::ffff:125.131.99.75
+2017-09-28 02:15:29.936 [pid:6168] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-28 02:15:29.936 [pid:6168] - debug: [HTTP PUT] http://node4.mas-i.com/ads
+2017-09-28 02:15:29.951 [pid:6168] - debug: [HTTP PUT PARAMS] adgroups=[
+        {
+            "id" : "grp-a001-02-000000002315010",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977893",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977906",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977929",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977957",
+            "is_bidding" : 0
+        }
+    ]
+2017-09-28 02:15:29.952 [pid:6168] - debug: [HTTP PUT PARAMS] ads=[
+        {
+            "id" : "nad-a001-02-000000011695540",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 1000,
+            "bid_change_amt" : 20,
+            "keywords" : "퍼즐액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695649",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1100,
+            "bid_change_amt" : 10,
+            "keywords" : "4구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695650",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1200,
+            "bid_change_amt" : 30,
+            "keywords" : "9구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695615",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 500,
+            "bid_change_amt" : 10,
+            "keywords" : "원목거치대",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695616",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 700,
+            "bid_change_amt" : 10,
+            "keywords" : "정사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695617",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 800,
+            "bid_change_amt" : 20,
+            "keywords" : "직사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695502",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 900,
+            "bid_change_amt" : 10,
+            "keywords" : "캔버스액자",
+            "is_bidding" : 0
+        }
+    ]
+2017-09-28 02:15:29.953 [pid:6168] - debug: putAdgroupBiddingList 컨트롤러 실행
+2017-09-28 02:15:29.953 [pid:6168] - debug: UPDATEAdgroupBidding 실행
+2017-09-28 02:15:29.956 [pid:6168] - debug: UPDATEAdgroupBidding 실행
+2017-09-28 02:15:29.957 [pid:6168] - debug: UPDATEAdgroupBidding 실행
+2017-09-28 02:15:29.957 [pid:6168] - debug: UPDATEAdgroupBidding 실행
+2017-09-28 02:15:29.958 [pid:6168] - debug: UPDATEAdgroupBidding 실행
+2017-09-28 02:15:30.134 [pid:6168] - debug: [DB 접속됨 threadId = 15600]
+2017-09-28 02:15:30.135 [pid:6168] - debug: [DB 임대됨 threadId = 15600]
+2017-09-28 02:15:30.143 [pid:6168] - debug: [DB 접속됨 threadId = 15601]
+2017-09-28 02:15:30.143 [pid:6168] - debug: [DB 임대됨 threadId = 15601]
+2017-09-28 02:15:30.174 [pid:6168] - sql: [threadId=15600] UPDATE naver_shopping_adgroup SET is_bidding = 0 WHERE id = 'grp-a001-02-000000002977893'
+2017-09-28 02:15:30.174 [pid:6168] - sql: affectedRows: 1
+2017-09-28 02:15:30.178 [pid:6168] - debug: [DB 접속됨 threadId = 15602]
+2017-09-28 02:15:30.178 [pid:6168] - debug: [DB 임대됨 threadId = 15602]
+2017-09-28 02:15:30.208 [pid:6168] - sql: [threadId=15601] UPDATE naver_shopping_adgroup SET is_bidding = 1 WHERE id = 'grp-a001-02-000000002977906'
+2017-09-28 02:15:30.220 [pid:6168] - sql: affectedRows: 1
+2017-09-28 02:15:30.240 [pid:6168] - sql: [threadId=15602] UPDATE naver_shopping_adgroup SET is_bidding = 0 WHERE id = 'grp-a001-02-000000002977957'
+2017-09-28 02:15:30.240 [pid:6168] - sql: affectedRows: 1
+2017-09-28 02:15:30.241 [pid:6168] - debug: [DB 접속됨 threadId = 15603]
+2017-09-28 02:15:30.242 [pid:6168] - debug: [DB 임대됨 threadId = 15603]
+2017-09-28 02:15:30.274 [pid:6168] - sql: [threadId=15603] UPDATE naver_shopping_adgroup SET is_bidding = 0 WHERE id = 'grp-a001-02-000000002315010'
+2017-09-28 02:15:30.274 [pid:6168] - sql: affectedRows: 1
+2017-09-28 02:15:30.471 [pid:6168] - debug: [DB 접속됨 threadId = 15604]
+2017-09-28 02:15:30.472 [pid:6168] - debug: [DB 임대됨 threadId = 15604]
+2017-09-28 02:15:30.508 [pid:6168] - sql: [threadId=15604] UPDATE naver_shopping_adgroup SET is_bidding = 1 WHERE id = 'grp-a001-02-000000002977929'
+2017-09-28 02:15:30.509 [pid:6168] - sql: affectedRows: 1
+2017-09-28 02:15:30.521 [pid:6168] - debug: 광고그룹비딩값 업데이트결과 :  
+{ '0': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+     protocol41: true,
+     changedRows: 0 },
+  '1': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+     protocol41: true,
+     changedRows: 1 },
+  '2': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+     protocol41: true,
+     changedRows: 1 },
+  '3': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+     protocol41: true,
+     changedRows: 0 },
+  '4': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+     protocol41: true,
+     changedRows: 0 } }
+2017-09-28 02:15:30.524 [pid:6168] - debug: putAdList 컨트롤러 실행
+2017-09-28 02:15:30.525 [pid:6168] - debug: UPDATEAd 실행
+2017-09-28 02:15:30.527 [pid:6168] - debug: UPDATEAd 실행
+2017-09-28 02:15:30.528 [pid:6168] - debug: UPDATEAd 실행
+2017-09-28 02:15:30.529 [pid:6168] - debug: UPDATEAd 실행
+2017-09-28 02:15:30.530 [pid:6168] - debug: UPDATEAd 실행
+2017-09-28 02:15:30.531 [pid:6168] - debug: UPDATEAd 실행
+2017-09-28 02:15:30.531 [pid:6168] - debug: UPDATEAd 실행
+2017-09-28 02:15:30.603 [pid:6168] - debug: [DB 접속됨 threadId = 15605]
+2017-09-28 02:15:30.604 [pid:6168] - debug: [DB 임대됨 threadId = 15605]
+2017-09-28 02:15:30.642 [pid:6168] - sql: [threadId=15605] UPDATE naver_shopping_ad SET aimed_rank = 3, bid_amt_limit = 1000, bid_change_amt = 20, keywords = '퍼즐액자', is_bidding = 1 WHERE id = 'nad-a001-02-000000011695540'
+2017-09-28 02:15:30.643 [pid:6168] - sql: affectedRows: 1
+2017-09-28 02:15:30.670 [pid:6168] - debug: [DB 접속됨 threadId = 15606]
+2017-09-28 02:15:30.671 [pid:6168] - debug: [DB 임대됨 threadId = 15606]
+2017-09-28 02:15:30.674 [pid:6168] - debug: [DB 접속됨 threadId = 15607]
+2017-09-28 02:15:30.675 [pid:6168] - debug: [DB 임대됨 threadId = 15607]
+2017-09-28 02:15:30.708 [pid:6168] - sql: [threadId=15606] UPDATE naver_shopping_ad SET aimed_rank = 2, bid_amt_limit = 1200, bid_change_amt = 30, keywords = '9구액자', is_bidding = 1 WHERE id = 'nad-a001-02-000000011695650'
+2017-09-28 02:15:30.708 [pid:6168] - sql: affectedRows: 1
+2017-09-28 02:15:30.741 [pid:6168] - sql: [threadId=15607] UPDATE naver_shopping_ad SET aimed_rank = 3, bid_amt_limit = 700, bid_change_amt = 10, keywords = '정사각형액자', is_bidding = 0 WHERE id = 'nad-a001-02-000000011695616'
+2017-09-28 02:15:30.742 [pid:6168] - sql: affectedRows: 1
+2017-09-28 02:15:30.852 [pid:6168] - debug: [DB 접속됨 threadId = 15608]
+2017-09-28 02:15:30.853 [pid:6168] - debug: [DB 임대됨 threadId = 15608]
+2017-09-28 02:15:30.893 [pid:6168] - debug: [DB 접속됨 threadId = 15609]
+2017-09-28 02:15:30.893 [pid:6168] - debug: [DB 임대됨 threadId = 15609]
+2017-09-28 02:15:31.032 [pid:6168] - debug: [DB 접속됨 threadId = 15610]
+2017-09-28 02:15:31.033 [pid:6168] - debug: [DB 임대됨 threadId = 15610]
+2017-09-28 02:15:31.039 [pid:6168] - sql: [threadId=15608] UPDATE naver_shopping_ad SET aimed_rank = 2, bid_amt_limit = 900, bid_change_amt = 10, keywords = '캔버스액자', is_bidding = 0 WHERE id = 'nad-a001-02-000000011695502'
+2017-09-28 02:15:31.039 [pid:6168] - sql: affectedRows: 1
+2017-09-28 02:15:31.250 [pid:6168] - sql: [threadId=15610] UPDATE naver_shopping_ad SET aimed_rank = 2, bid_amt_limit = 800, bid_change_amt = 20, keywords = '직사각형액자', is_bidding = 0 WHERE id = 'nad-a001-02-000000011695617'
+2017-09-28 02:15:31.251 [pid:6168] - sql: affectedRows: 1
+2017-09-28 02:15:31.252 [pid:6168] - sql: [threadId=15609] UPDATE naver_shopping_ad SET aimed_rank = 3, bid_amt_limit = 500, bid_change_amt = 10, keywords = '원목거치대', is_bidding = 0 WHERE id = 'nad-a001-02-000000011695615'
+2017-09-28 02:15:31.257 [pid:6168] - sql: affectedRows: 1
+2017-09-28 02:15:31.286 [pid:6168] - debug: [DB 접속됨 threadId = 15611]
+2017-09-28 02:15:31.287 [pid:6168] - debug: [DB 임대됨 threadId = 15611]
+2017-09-28 02:15:31.325 [pid:6168] - sql: [threadId=15611] UPDATE naver_shopping_ad SET aimed_rank = 2, bid_amt_limit = 1100, bid_change_amt = 10, keywords = '4구액자', is_bidding = 1 WHERE id = 'nad-a001-02-000000011695649'
+2017-09-28 02:15:31.325 [pid:6168] - sql: affectedRows: 1
+2017-09-28 02:15:31.331 [pid:6168] - debug: 광고업데이트결과 :  
+{ '0': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+     protocol41: true,
+     changedRows: 1 },
+  '1': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+     protocol41: true,
+     changedRows: 1 },
+  '2': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+     protocol41: true,
+     changedRows: 1 },
+  '3': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+     protocol41: true,
+     changedRows: 1 },
+  '4': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+     protocol41: true,
+     changedRows: 1 },
+  '5': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+     protocol41: true,
+     changedRows: 1 },
+  '6': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+     protocol41: true,
+     changedRows: 1 } }
+2017-09-28 02:15:31.334 [pid:6168] - debug: [STATUS 200] OK-SUCCESS
+2017-09-28 02:15:31.348 [pid:6168] - debug: ---------- client disconnection ------------
+2017-09-28 02:15:31.350 [pid:6168] - debug: runtime=1426ms
+2017-09-28 02:15:31.351 [pid:6168] - debug: 
+2017-09-28 02:18:15.503 [pid:6168] - debug: ------------ client connection ------------
+2017-09-28 02:18:15.503 [pid:6168] - debug: [Process Id] 6168
+2017-09-28 02:18:15.503 [pid:6168] - debug: [ip] ::ffff:125.131.99.75
+2017-09-28 02:18:15.503 [pid:6168] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-28 02:18:15.503 [pid:6168] - debug: [HTTP PUT] http://node4.mas-i.com/ads
+2017-09-28 02:18:15.505 [pid:6168] - debug: [HTTP PUT PARAMS] adgroups=false
+2017-09-28 02:18:15.505 [pid:6168] - debug: [HTTP PUT PARAMS] ads=false
+2017-09-28 02:18:15.506 [pid:6168] - debug: putAdgroupBiddingList 컨트롤러 실행
+2017-09-28 02:18:15.507 [pid:6168] - error: 에러 :  TypeError: adgroup_data.map is not a function
+    at Object.module.exports.putAdgroupBiddingList (/opt/www/banana/controllers/adgroup_controller.js:62:37)
+    at /opt/www/banana/routes/index.js:81:38
+    at process._tickCallback (internal/process/next_tick.js:109:7)
+2017-09-28 02:18:15.507 [pid:6168] - error: [STATUS 500] Server Error-TypeError: adgroup_data.map is not a function
+2017-09-28 02:18:15.508 [pid:6168] - debug: ---------- client disconnection ------------
+2017-09-28 02:18:15.509 [pid:6168] - debug: runtime=10ms
+2017-09-28 02:18:15.509 [pid:6168] - debug: 
+2017-09-28 02:18:52.735 [pid:6168] - debug: ------------ client connection ------------
+2017-09-28 02:18:52.736 [pid:6168] - debug: [Process Id] 6168
+2017-09-28 02:18:52.736 [pid:6168] - debug: [ip] ::ffff:125.131.99.75
+2017-09-28 02:18:52.737 [pid:6168] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-28 02:18:52.737 [pid:6168] - debug: [HTTP PUT] http://node4.mas-i.com/ads
+2017-09-28 02:18:52.739 [pid:6168] - debug: [HTTP PUT PARAMS] adgroups=false
+2017-09-28 02:18:52.740 [pid:6168] - debug: [HTTP PUT PARAMS] ads=false
+2017-09-28 02:18:52.740 [pid:6168] - debug: putAdgroupBiddingList 컨트롤러 실행
+2017-09-28 02:18:52.740 [pid:6168] - error: 에러 :  TypeError: adgroup_data.map is not a function
+    at Object.module.exports.putAdgroupBiddingList (/opt/www/banana/controllers/adgroup_controller.js:62:37)
+    at /opt/www/banana/routes/index.js:81:38
+    at process._tickCallback (internal/process/next_tick.js:109:7)
+2017-09-28 02:18:52.740 [pid:6168] - error: [STATUS 500] Server Error-TypeError: adgroup_data.map is not a function
+2017-09-28 02:18:52.741 [pid:6168] - debug: ---------- client disconnection ------------
+2017-09-28 02:18:52.741 [pid:6168] - debug: runtime=6ms
+2017-09-28 02:18:52.742 [pid:6168] - debug: 
+2017-09-28 02:19:44.816 [pid:12332] - debug: ------------ client connection ------------
+2017-09-28 02:19:44.818 [pid:12332] - debug: [Process Id] 12332
+2017-09-28 02:19:44.818 [pid:12332] - debug: [ip] ::ffff:125.131.99.75
+2017-09-28 02:19:44.819 [pid:12332] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-28 02:19:44.821 [pid:12332] - debug: [HTTP PUT] http://node4.mas-i.com/ads
+2017-09-28 02:19:44.843 [pid:12332] - debug: ---------- client disconnection ------------
+2017-09-28 02:19:44.843 [pid:12332] - debug: runtime=31ms
+2017-09-28 02:19:44.844 [pid:12332] - debug: 
+2017-09-28 02:19:47.848 [pid:12332] - debug:  >> 모든 DATABASE 접속이 해제됨
+2017-09-28 02:20:31.740 [pid:14337] - debug: ------------ client connection ------------
+2017-09-28 02:20:31.741 [pid:14337] - debug: [Process Id] 14337
+2017-09-28 02:20:31.742 [pid:14337] - debug: [ip] ::ffff:125.131.99.75
+2017-09-28 02:20:31.742 [pid:14337] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-28 02:20:31.742 [pid:14337] - debug: [HTTP PUT] http://node4.mas-i.com/ads
+2017-09-28 02:20:31.759 [pid:14337] - debug: [HTTP PUT PARAMS] data={
+    "adgroups" : [
+        {
+            "id" : "grp-a001-02-000000002315010",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977893",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977906",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977929",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977957",
+            "is_bidding" : 0
+        }
+    ],
+    "ads" : [
+        {
+            "id" : "nad-a001-02-000000011695540",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 1000,
+            "bid_change_amt" : 20,
+            "keywords" : "퍼즐액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695649",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1100,
+            "bid_change_amt" : 10,
+            "keywords" : "4구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695650",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1200,
+            "bid_change_amt" : 30,
+            "keywords" : "9구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695615",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 500,
+            "bid_change_amt" : 10,
+            "keywords" : "원목거치대",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695616",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 700,
+            "bid_change_amt" : 10,
+            "keywords" : "정사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695617",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 800,
+            "bid_change_amt" : 20,
+            "keywords" : "직사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695502",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 900,
+            "bid_change_amt" : 10,
+            "keywords" : "캔버스액자",
+            "is_bidding" : 0
+        }
+    ]
+}
+2017-09-28 02:20:31.766 [pid:14337] - debug: ---------- client disconnection ------------
+2017-09-28 02:20:31.766 [pid:14337] - debug: runtime=31ms
+2017-09-28 02:20:31.766 [pid:14337] - debug: 
+2017-09-28 02:20:34.770 [pid:14337] - debug:  >> 모든 DATABASE 접속이 해제됨
+2017-09-28 02:21:01.252 [pid:15071] - debug: ------------ client connection ------------
+2017-09-28 02:21:01.253 [pid:15071] - debug: [Process Id] 15071
+2017-09-28 02:21:01.254 [pid:15071] - debug: [ip] ::ffff:125.131.99.75
+2017-09-28 02:21:01.254 [pid:15071] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-28 02:21:01.254 [pid:15071] - debug: [HTTP PUT] http://node4.mas-i.com/ads
+2017-09-28 02:21:01.270 [pid:15071] - debug: [HTTP PUT PARAMS] data={
+    "adgroups" : [
+        {
+            "id" : "grp-a001-02-000000002315010",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977893",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977906",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977929",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977957",
+            "is_bidding" : 0
+        }
+    ],
+    "ads" : [
+        {
+            "id" : "nad-a001-02-000000011695540",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 1000,
+            "bid_change_amt" : 20,
+            "keywords" : "퍼즐액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695649",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1100,
+            "bid_change_amt" : 10,
+            "keywords" : "4구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695650",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1200,
+            "bid_change_amt" : 30,
+            "keywords" : "9구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695615",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 500,
+            "bid_change_amt" : 10,
+            "keywords" : "원목거치대",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695616",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 700,
+            "bid_change_amt" : 10,
+            "keywords" : "정사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695617",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 800,
+            "bid_change_amt" : 20,
+            "keywords" : "직사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695502",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 900,
+            "bid_change_amt" : 10,
+            "keywords" : "캔버스액자",
+            "is_bidding" : 0
+        }
+    ]
+}
+2017-09-28 02:21:01.276 [pid:15071] - debug: ---------- client disconnection ------------
+2017-09-28 02:21:01.276 [pid:15071] - debug: runtime=28ms
+2017-09-28 02:21:01.277 [pid:15071] - debug: 
+2017-09-28 02:21:04.280 [pid:15071] - debug:  >> 모든 DATABASE 접속이 해제됨
+2017-09-28 02:21:09.264 [pid:15217] - debug: ------------ client connection ------------
+2017-09-28 02:21:09.265 [pid:15217] - debug: [Process Id] 15217
+2017-09-28 02:21:09.266 [pid:15217] - debug: [ip] ::ffff:125.131.99.75
+2017-09-28 02:21:09.266 [pid:15217] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-28 02:21:09.266 [pid:15217] - debug: [HTTP PUT] http://node4.mas-i.com/ads
+2017-09-28 02:21:09.282 [pid:15217] - debug: [HTTP PUT PARAMS] data={
+    "adgroups" : [
+        {
+            "id" : "grp-a001-02-000000002315010",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977893",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977906",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977929",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977957",
+            "is_bidding" : 0
+        }
+    ],
+    "ads" : [
+        {
+            "id" : "nad-a001-02-000000011695540",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 1000,
+            "bid_change_amt" : 20,
+            "keywords" : "퍼즐액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695649",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1100,
+            "bid_change_amt" : 10,
+            "keywords" : "4구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695650",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1200,
+            "bid_change_amt" : 30,
+            "keywords" : "9구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695615",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 500,
+            "bid_change_amt" : 10,
+            "keywords" : "원목거치대",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695616",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 700,
+            "bid_change_amt" : 10,
+            "keywords" : "정사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695617",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 800,
+            "bid_change_amt" : 20,
+            "keywords" : "직사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695502",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 900,
+            "bid_change_amt" : 10,
+            "keywords" : "캔버스액자",
+            "is_bidding" : 0
+        }
+    ]
+}
+2017-09-28 02:21:09.288 [pid:15217] - debug: ---------- client disconnection ------------
+2017-09-28 02:21:09.288 [pid:15217] - debug: runtime=29ms
+2017-09-28 02:21:09.289 [pid:15217] - debug: 
+2017-09-28 02:21:12.293 [pid:15217] - debug:  >> 모든 DATABASE 접속이 해제됨
+2017-09-28 02:21:34.367 [pid:15955] - debug: ------------ client connection ------------
+2017-09-28 02:21:34.369 [pid:15955] - debug: [Process Id] 15955
+2017-09-28 02:21:34.369 [pid:15955] - debug: [ip] ::ffff:125.131.99.75
+2017-09-28 02:21:34.370 [pid:15955] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-28 02:21:34.370 [pid:15955] - debug: [HTTP PUT] http://node4.mas-i.com/ads
+2017-09-28 02:21:34.387 [pid:15955] - debug: [HTTP PUT PARAMS] data={
+    "adgroups" : [
+        {
+            "id" : "grp-a001-02-000000002315010",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977893",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977906",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977929",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977957",
+            "is_bidding" : 0
+        }
+    ],
+    "ads" : [
+        {
+            "id" : "nad-a001-02-000000011695540",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 1000,
+            "bid_change_amt" : 20,
+            "keywords" : "퍼즐액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695649",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1100,
+            "bid_change_amt" : 10,
+            "keywords" : "4구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695650",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1200,
+            "bid_change_amt" : 30,
+            "keywords" : "9구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695615",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 500,
+            "bid_change_amt" : 10,
+            "keywords" : "원목거치대",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695616",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 700,
+            "bid_change_amt" : 10,
+            "keywords" : "정사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695617",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 800,
+            "bid_change_amt" : 20,
+            "keywords" : "직사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695502",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 900,
+            "bid_change_amt" : 10,
+            "keywords" : "캔버스액자",
+            "is_bidding" : 0
+        }
+    ]
+}
+2017-09-28 02:21:34.394 [pid:15955] - debug: ---------- client disconnection ------------
+2017-09-28 02:21:34.394 [pid:15955] - debug: runtime=32ms
+2017-09-28 02:21:34.394 [pid:15955] - debug: 
+2017-09-28 02:21:37.398 [pid:15955] - debug:  >> 모든 DATABASE 접속이 해제됨
+2017-09-28 02:54:05.582 [pid:3309] - debug: ------------ client connection ------------
+2017-09-28 02:54:05.584 [pid:3309] - debug: [Process Id] 3309
+2017-09-28 02:54:05.584 [pid:3309] - debug: [ip] ::ffff:125.131.99.75
+2017-09-28 02:54:05.585 [pid:3309] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-28 02:54:05.585 [pid:3309] - debug: [HTTP PUT] http://node4.mas-i.com/ads
+2017-09-28 02:54:05.600 [pid:3309] - debug: [HTTP PUT PARAMS] data={
+    "adgroups" : [
+        {
+            "id" : "grp-a001-02-000000002315010",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977893",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977906",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977929",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977957",
+            "is_bidding" : 0
+        }
+    ],
+    "ads" : [
+        {
+            "id" : "nad-a001-02-000000011695540",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 1000,
+            "bid_change_amt" : 20,
+            "keywords" : "퍼즐액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695649",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1100,
+            "bid_change_amt" : 10,
+            "keywords" : "4구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695650",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1200,
+            "bid_change_amt" : 30,
+            "keywords" : "9구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695615",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 500,
+            "bid_change_amt" : 10,
+            "keywords" : "원목거치대",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695616",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 700,
+            "bid_change_amt" : 10,
+            "keywords" : "정사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695617",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 800,
+            "bid_change_amt" : 20,
+            "keywords" : "직사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695502",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 900,
+            "bid_change_amt" : 10,
+            "keywords" : "캔버스액자",
+            "is_bidding" : 0
+        }
+    ]
+}
+2017-09-28 02:54:05.606 [pid:3309] - debug: ---------- client disconnection ------------
+2017-09-28 02:54:05.607 [pid:3309] - debug: runtime=28ms
+2017-09-28 02:54:05.607 [pid:3309] - debug: 
+2017-09-28 02:54:08.610 [pid:3309] - debug:  >> 모든 DATABASE 접속이 해제됨
+2017-09-28 02:56:50.505 [pid:8053] - debug: ------------ client connection ------------
+2017-09-28 02:56:50.506 [pid:8053] - debug: [Process Id] 8053
+2017-09-28 02:56:50.507 [pid:8053] - debug: [ip] ::ffff:125.131.99.75
+2017-09-28 02:56:50.507 [pid:8053] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-28 02:56:50.508 [pid:8053] - debug: [HTTP PUT] http://node4.mas-i.com/ads
+2017-09-28 02:56:50.523 [pid:8053] - debug: [HTTP PUT PARAMS] data={
+    "adgroups" : [
+        {
+            "id" : "grp-a001-02-000000002315010",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977893",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977906",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977929",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977957",
+            "is_bidding" : 0
+        }
+    ],
+    "ads" : [
+        {
+            "id" : "nad-a001-02-000000011695540",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 1000,
+            "bid_change_amt" : 20,
+            "keywords" : "퍼즐액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695649",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1100,
+            "bid_change_amt" : 10,
+            "keywords" : "4구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695650",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1200,
+            "bid_change_amt" : 30,
+            "keywords" : "9구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695615",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 500,
+            "bid_change_amt" : 10,
+            "keywords" : "원목거치대",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695616",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 700,
+            "bid_change_amt" : 10,
+            "keywords" : "정사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695617",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 800,
+            "bid_change_amt" : 20,
+            "keywords" : "직사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695502",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 900,
+            "bid_change_amt" : 10,
+            "keywords" : "캔버스액자",
+            "is_bidding" : 0
+        }
+    ]
+}
+2017-09-28 02:56:50.529 [pid:8053] - debug: ---------- client disconnection ------------
+2017-09-28 02:56:50.529 [pid:8053] - debug: runtime=33ms
+2017-09-28 02:56:50.529 [pid:8053] - debug: 
+2017-09-28 02:56:53.532 [pid:8053] - debug:  >> 모든 DATABASE 접속이 해제됨
+2017-09-28 02:57:37.223 [pid:9201] - debug: ------------ client connection ------------
+2017-09-28 02:57:37.224 [pid:9201] - debug: [Process Id] 9201
+2017-09-28 02:57:37.225 [pid:9201] - debug: [ip] ::ffff:125.131.99.75
+2017-09-28 02:57:37.225 [pid:9201] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-28 02:57:37.226 [pid:9201] - debug: [HTTP PUT] http://node4.mas-i.com/ads
+2017-09-28 02:57:37.241 [pid:9201] - debug: [HTTP PUT PARAMS] data={
+    "adgroups" : [
+        {
+            "id" : "grp-a001-02-000000002315010",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977893",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977906",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977929",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977957",
+            "is_bidding" : 0
+        }
+    ],
+    "ads" : [
+        {
+            "id" : "nad-a001-02-000000011695540",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 1000,
+            "bid_change_amt" : 20,
+            "keywords" : "퍼즐액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695649",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1100,
+            "bid_change_amt" : 10,
+            "keywords" : "4구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695650",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1200,
+            "bid_change_amt" : 30,
+            "keywords" : "9구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695615",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 500,
+            "bid_change_amt" : 10,
+            "keywords" : "원목거치대",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695616",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 700,
+            "bid_change_amt" : 10,
+            "keywords" : "정사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695617",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 800,
+            "bid_change_amt" : 20,
+            "keywords" : "직사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695502",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 900,
+            "bid_change_amt" : 10,
+            "keywords" : "캔버스액자",
+            "is_bidding" : 0
+        }
+    ]
+}
+2017-09-28 02:57:37.247 [pid:9201] - debug: ---------- client disconnection ------------
+2017-09-28 02:57:37.247 [pid:9201] - debug: runtime=32ms
+2017-09-28 02:57:37.247 [pid:9201] - debug: 
+2017-09-28 02:57:40.251 [pid:9201] - debug:  >> 모든 DATABASE 접속이 해제됨
+2017-09-28 02:58:32.101 [pid:10971] - debug: ------------ client connection ------------
+2017-09-28 02:58:32.105 [pid:10971] - debug: [Process Id] 10971
+2017-09-28 02:58:32.107 [pid:10971] - debug: [ip] ::ffff:125.131.99.75
+2017-09-28 02:58:32.107 [pid:10971] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-28 02:58:32.107 [pid:10971] - debug: [HTTP PUT] http://node4.mas-i.com/ads
+2017-09-28 02:58:32.124 [pid:10971] - debug: [HTTP PUT PARAMS] data={
+    "adgroups" : [
+        {
+            "id" : "grp-a001-02-000000002315010",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977893",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977906",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977929",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977957",
+            "is_bidding" : 0
+        }
+    ],
+    "ads" : [
+        {
+            "id" : "nad-a001-02-000000011695540",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 1000,
+            "bid_change_amt" : 20,
+            "keywords" : "퍼즐액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695649",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1100,
+            "bid_change_amt" : 10,
+            "keywords" : "4구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695650",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1200,
+            "bid_change_amt" : 30,
+            "keywords" : "9구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695615",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 500,
+            "bid_change_amt" : 10,
+            "keywords" : "원목거치대",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695616",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 700,
+            "bid_change_amt" : 10,
+            "keywords" : "정사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695617",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 800,
+            "bid_change_amt" : 20,
+            "keywords" : "직사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695502",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 900,
+            "bid_change_amt" : 10,
+            "keywords" : "캔버스액자",
+            "is_bidding" : 0
+        }
+    ]
+}
+2017-09-28 02:58:32.125 [pid:10971] - debug: putAdgroupBiddingList 컨트롤러 실행
+2017-09-28 02:58:32.125 [pid:10971] - debug: UPDATEAdgroupBidding 실행
+2017-09-28 02:58:32.128 [pid:10971] - debug: UPDATEAdgroupBidding 실행
+2017-09-28 02:58:32.130 [pid:10971] - debug: UPDATEAdgroupBidding 실행
+2017-09-28 02:58:32.130 [pid:10971] - debug: UPDATEAdgroupBidding 실행
+2017-09-28 02:58:32.131 [pid:10971] - debug: UPDATEAdgroupBidding 실행
+2017-09-28 02:58:32.217 [pid:10971] - debug: [DB 접속됨 threadId = 15780]
+2017-09-28 02:58:32.218 [pid:10971] - debug: [DB 임대됨 threadId = 15780]
+2017-09-28 02:58:32.276 [pid:10971] - debug: [DB 접속됨 threadId = 15781]
+2017-09-28 02:58:32.277 [pid:10971] - debug: [DB 임대됨 threadId = 15781]
+2017-09-28 02:58:32.281 [pid:10971] - sql: [threadId=15780] UPDATE naver_shopping_adgroup SET is_bidding = 0 WHERE id = 'grp-a001-02-000000002977893'
+2017-09-28 02:58:32.283 [pid:10971] - sql: affectedRows: 1
+2017-09-28 02:58:32.286 [pid:10971] - debug: [DB 접속됨 threadId = 15782]
+2017-09-28 02:58:32.288 [pid:10971] - debug: [DB 임대됨 threadId = 15782]
+2017-09-28 02:58:32.318 [pid:10971] - sql: [threadId=15781] UPDATE naver_shopping_adgroup SET is_bidding = 1 WHERE id = 'grp-a001-02-000000002977906'
+2017-09-28 02:58:32.318 [pid:10971] - sql: affectedRows: 1
+2017-09-28 02:58:32.346 [pid:10971] - debug: [DB 접속됨 threadId = 15783]
+2017-09-28 02:58:32.346 [pid:10971] - debug: [DB 임대됨 threadId = 15783]
+2017-09-28 02:58:32.349 [pid:10971] - debug: [DB 접속됨 threadId = 15784]
+2017-09-28 02:58:32.351 [pid:10971] - debug: [DB 임대됨 threadId = 15784]
+2017-09-28 02:58:32.353 [pid:10971] - sql: [threadId=15782] UPDATE naver_shopping_adgroup SET is_bidding = 1 WHERE id = 'grp-a001-02-000000002977929'
+2017-09-28 02:58:32.353 [pid:10971] - sql: affectedRows: 1
+2017-09-28 02:58:32.383 [pid:10971] - sql: [threadId=15783] UPDATE naver_shopping_adgroup SET is_bidding = 0 WHERE id = 'grp-a001-02-000000002977957'
+2017-09-28 02:58:32.384 [pid:10971] - sql: affectedRows: 1
+2017-09-28 02:58:32.417 [pid:10971] - sql: [threadId=15784] UPDATE naver_shopping_adgroup SET is_bidding = 0 WHERE id = 'grp-a001-02-000000002315010'
+2017-09-28 02:58:32.418 [pid:10971] - sql: affectedRows: 1
+2017-09-28 02:58:32.430 [pid:10971] - debug: 광고그룹비딩값 업데이트결과 :  
+{ '0': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+     protocol41: true,
+     changedRows: 0 },
+  '1': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+     protocol41: true,
+     changedRows: 0 },
+  '2': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+     protocol41: true,
+     changedRows: 0 },
+  '3': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+     protocol41: true,
+     changedRows: 0 },
+  '4': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+     protocol41: true,
+     changedRows: 0 } }
+2017-09-28 02:58:32.434 [pid:10971] - debug: putAdList 컨트롤러 실행
+2017-09-28 02:58:32.436 [pid:10971] - debug: UPDATEAd 실행
+2017-09-28 02:58:32.438 [pid:10971] - debug: UPDATEAd 실행
+2017-09-28 02:58:32.440 [pid:10971] - debug: UPDATEAd 실행
+2017-09-28 02:58:32.441 [pid:10971] - debug: UPDATEAd 실행
+2017-09-28 02:58:32.443 [pid:10971] - debug: UPDATEAd 실행
+2017-09-28 02:58:32.444 [pid:10971] - debug: UPDATEAd 실행
+2017-09-28 02:58:32.445 [pid:10971] - debug: UPDATEAd 실행
+2017-09-28 02:58:32.512 [pid:10971] - debug: [DB 접속됨 threadId = 15786]
+2017-09-28 02:58:32.513 [pid:10971] - debug: [DB 임대됨 threadId = 15786]
+2017-09-28 02:58:32.518 [pid:10971] - debug: [DB 접속됨 threadId = 15787]
+2017-09-28 02:58:32.519 [pid:10971] - debug: [DB 임대됨 threadId = 15787]
+2017-09-28 02:58:32.550 [pid:10971] - sql: [threadId=15786] UPDATE naver_shopping_ad SET aimed_rank = 3, bid_amt_limit = 1000, bid_change_amt = 20, keywords = '퍼즐액자', is_bidding = 1 WHERE id = 'nad-a001-02-000000011695540'
+2017-09-28 02:58:32.551 [pid:10971] - sql: affectedRows: 1
+2017-09-28 02:58:32.584 [pid:10971] - sql: [threadId=15787] UPDATE naver_shopping_ad SET aimed_rank = 3, bid_amt_limit = 500, bid_change_amt = 10, keywords = '원목거치대', is_bidding = 0 WHERE id = 'nad-a001-02-000000011695615'
+2017-09-28 02:58:32.585 [pid:10971] - sql: affectedRows: 1
+2017-09-28 02:58:32.589 [pid:10971] - debug: [DB 접속됨 threadId = 15788]
+2017-09-28 02:58:32.590 [pid:10971] - debug: [DB 임대됨 threadId = 15788]
+2017-09-28 02:58:32.626 [pid:10971] - sql: [threadId=15788] UPDATE naver_shopping_ad SET aimed_rank = 2, bid_amt_limit = 800, bid_change_amt = 20, keywords = '직사각형액자', is_bidding = 0 WHERE id = 'nad-a001-02-000000011695617'
+2017-09-28 02:58:32.626 [pid:10971] - sql: affectedRows: 1
+2017-09-28 02:58:32.707 [pid:10971] - debug: [DB 접속됨 threadId = 15789]
+2017-09-28 02:58:32.708 [pid:10971] - debug: [DB 임대됨 threadId = 15789]
+2017-09-28 02:58:32.740 [pid:10971] - debug: [DB 접속됨 threadId = 15790]
+2017-09-28 02:58:32.741 [pid:10971] - debug: [DB 임대됨 threadId = 15790]
+2017-09-28 02:58:32.751 [pid:10971] - sql: [threadId=15789] UPDATE naver_shopping_ad SET aimed_rank = 2, bid_amt_limit = 1100, bid_change_amt = 10, keywords = '4구액자', is_bidding = 1 WHERE id = 'nad-a001-02-000000011695649'
+2017-09-28 02:58:32.752 [pid:10971] - sql: affectedRows: 1
+2017-09-28 02:58:32.776 [pid:10971] - sql: [threadId=15790] UPDATE naver_shopping_ad SET aimed_rank = 2, bid_amt_limit = 900, bid_change_amt = 10, keywords = '캔버스액자', is_bidding = 0 WHERE id = 'nad-a001-02-000000011695502'
+2017-09-28 02:58:32.777 [pid:10971] - sql: affectedRows: 1
+2017-09-28 02:58:32.788 [pid:10971] - debug: [DB 접속됨 threadId = 15791]
+2017-09-28 02:58:32.788 [pid:10971] - debug: [DB 임대됨 threadId = 15791]
+2017-09-28 02:58:32.826 [pid:10971] - sql: [threadId=15791] UPDATE naver_shopping_ad SET aimed_rank = 3, bid_amt_limit = 700, bid_change_amt = 10, keywords = '정사각형액자', is_bidding = 0 WHERE id = 'nad-a001-02-000000011695616'
+2017-09-28 02:58:32.827 [pid:10971] - sql: affectedRows: 1
+2017-09-28 02:58:33.144 [pid:10971] - debug: [DB 접속됨 threadId = 15792]
+2017-09-28 02:58:33.146 [pid:10971] - debug: [DB 임대됨 threadId = 15792]
+2017-09-28 02:58:33.184 [pid:10971] - sql: [threadId=15792] UPDATE naver_shopping_ad SET aimed_rank = 2, bid_amt_limit = 1200, bid_change_amt = 30, keywords = '9구액자', is_bidding = 1 WHERE id = 'nad-a001-02-000000011695650'
+2017-09-28 02:58:33.184 [pid:10971] - sql: affectedRows: 1
+2017-09-28 02:58:33.189 [pid:10971] - debug: 광고업데이트결과 :  
+{ '0': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+     protocol41: true,
+     changedRows: 0 },
+  '1': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+     protocol41: true,
+     changedRows: 0 },
+  '2': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+     protocol41: true,
+     changedRows: 0 },
+  '3': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+     protocol41: true,
+     changedRows: 0 },
+  '4': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+     protocol41: true,
+     changedRows: 0 },
+  '5': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+     protocol41: true,
+     changedRows: 0 },
+  '6': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+     protocol41: true,
+     changedRows: 0 } }
+2017-09-28 02:58:33.191 [pid:10971] - debug: [STATUS 200] OK-SUCCESS
+2017-09-28 02:58:33.205 [pid:10971] - debug: ---------- client disconnection ------------
+2017-09-28 02:58:33.206 [pid:10971] - debug: runtime=1115ms
+2017-09-28 02:58:33.206 [pid:10971] - debug: 
+2017-09-28 03:05:59.558 [pid:22987] - debug: ------------ client connection ------------
+2017-09-28 03:05:59.559 [pid:22987] - debug: [Process Id] 22987
+2017-09-28 03:05:59.560 [pid:22987] - debug: [ip] ::ffff:125.131.99.75
+2017-09-28 03:05:59.560 [pid:22987] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-28 03:05:59.563 [pid:22987] - debug: [HTTP PUT] http://node4.mas-i.com/ads
+2017-09-28 03:05:59.578 [pid:22987] - debug: [HTTP PUT PARAMS] data={
+    "adgroups" : [
+        {
+            "id" : "grp-a001-02-000000002315010",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977893",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977906",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977929",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977957",
+            "is_bidding" : 0
+        }
+    ],
+    "ads" : [
+        {
+            "id" : "nad-a001-02-000000011695540",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 1000,
+            "bid_change_amt" : 20,
+            "keywords" : "퍼즐액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695649",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1100,
+            "bid_change_amt" : 10,
+            "keywords" : "4구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695650",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1200,
+            "bid_change_amt" : 30,
+            "keywords" : "9구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695615",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 500,
+            "bid_change_amt" : 10,
+            "keywords" : "원목거치대",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695616",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 700,
+            "bid_change_amt" : 10,
+            "keywords" : "정사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695617",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 800,
+            "bid_change_amt" : 20,
+            "keywords" : "직사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695502",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 900,
+            "bid_change_amt" : 10,
+            "keywords" : "캔버스액자",
+            "is_bidding" : 0
+        }
+    ]
+}
+2017-09-28 03:05:59.579 [pid:22987] - debug: putAdgroupBiddingList 컨트롤러 실행
+2017-09-28 03:05:59.579 [pid:22987] - debug: UPDATEAdgroupBidding 실행
+2017-09-28 03:05:59.582 [pid:22987] - debug: UPDATEAdgroupBidding 실행
+2017-09-28 03:05:59.583 [pid:22987] - debug: UPDATEAdgroupBidding 실행
+2017-09-28 03:05:59.583 [pid:22987] - debug: UPDATEAdgroupBidding 실행
+2017-09-28 03:05:59.584 [pid:22987] - debug: UPDATEAdgroupBidding 실행
+2017-09-28 03:05:59.626 [pid:22987] - debug: [DB 접속됨 threadId = 15958]
+2017-09-28 03:05:59.626 [pid:22987] - debug: [DB 임대됨 threadId = 15958]
+2017-09-28 03:05:59.657 [pid:22987] - debug: [DB 접속됨 threadId = 15959]
+2017-09-28 03:05:59.657 [pid:22987] - debug: [DB 임대됨 threadId = 15959]
+2017-09-28 03:05:59.658 [pid:22987] - debug: [DB 접속됨 threadId = 15960]
+2017-09-28 03:05:59.658 [pid:22987] - debug: [DB 임대됨 threadId = 15960]
+2017-09-28 03:05:59.662 [pid:22987] - sql: [threadId=15958] UPDATE naver_shopping_adgroup SET is_bidding = 0 WHERE id = 'grp-a001-02-000000002977893'
+2017-09-28 03:05:59.663 [pid:22987] - sql: affectedRows: 1
+2017-09-28 03:05:59.696 [pid:22987] - sql: [threadId=15959] UPDATE naver_shopping_adgroup SET is_bidding = 0 WHERE id = 'grp-a001-02-000000002315010'
+2017-09-28 03:05:59.697 [pid:22987] - sql: affectedRows: 1
+2017-09-28 03:05:59.698 [pid:22987] - sql: [threadId=15960] UPDATE naver_shopping_adgroup SET is_bidding = 1 WHERE id = 'grp-a001-02-000000002977906'
+2017-09-28 03:05:59.698 [pid:22987] - sql: affectedRows: 1
+2017-09-28 03:05:59.773 [pid:22987] - debug: [DB 접속됨 threadId = 15961]
+2017-09-28 03:05:59.774 [pid:22987] - debug: [DB 임대됨 threadId = 15961]
+2017-09-28 03:05:59.813 [pid:22987] - sql: [threadId=15961] UPDATE naver_shopping_adgroup SET is_bidding = 0 WHERE id = 'grp-a001-02-000000002977957'
+2017-09-28 03:05:59.813 [pid:22987] - sql: affectedRows: 1
+2017-09-28 03:06:01.602 [pid:22987] - debug:  >> 모든 DATABASE 접속이 해제됨
+2017-09-28 03:06:37.834 [pid:24055] - debug: ------------ client connection ------------
+2017-09-28 03:06:37.835 [pid:24055] - debug: [Process Id] 24055
+2017-09-28 03:06:37.836 [pid:24055] - debug: [ip] ::ffff:125.131.99.75
+2017-09-28 03:06:37.836 [pid:24055] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-28 03:06:37.836 [pid:24055] - debug: [HTTP PUT] http://node4.mas-i.com/ads
+2017-09-28 03:06:37.852 [pid:24055] - debug: [HTTP PUT PARAMS] data={
+    "adgroups" : [
+        {
+            "id" : "grp-a001-02-000000002315010",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977893",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "grp-a001-02-000000002977906",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977929",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "grp-a001-02-000000002977957",
+            "is_bidding" : 0
+        }
+    ],
+    "ads" : [
+        {
+            "id" : "nad-a001-02-000000011695540",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 1000,
+            "bid_change_amt" : 20,
+            "keywords" : "퍼즐액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695649",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1100,
+            "bid_change_amt" : 10,
+            "keywords" : "4구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695650",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 1200,
+            "bid_change_amt" : 30,
+            "keywords" : "9구액자",
+            "is_bidding" : 1
+        },
+        {
+            "id" : "nad-a001-02-000000011695615",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 500,
+            "bid_change_amt" : 10,
+            "keywords" : "원목거치대",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695616",
+            "aimed_rank" : 3,
+            "bid_amt_limit" : 700,
+            "bid_change_amt" : 10,
+            "keywords" : "정사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695617",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 800,
+            "bid_change_amt" : 20,
+            "keywords" : "직사각형액자",
+            "is_bidding" : 0
+        },
+        {
+            "id" : "nad-a001-02-000000011695502",
+            "aimed_rank" : 2,
+            "bid_amt_limit" : 900,
+            "bid_change_amt" : 10,
+            "keywords" : "캔버스액자",
+            "is_bidding" : 0
+        }
+    ]
+}
+2017-09-28 03:06:37.853 [pid:24055] - debug: putAdgroupBiddingList 컨트롤러 실행
+2017-09-28 03:06:37.853 [pid:24055] - debug: UPDATEAdgroupBidding 실행
+2017-09-28 03:06:37.856 [pid:24055] - debug: UPDATEAdgroupBidding 실행
+2017-09-28 03:06:37.857 [pid:24055] - debug: UPDATEAdgroupBidding 실행
+2017-09-28 03:06:37.858 [pid:24055] - debug: UPDATEAdgroupBidding 실행
+2017-09-28 03:06:37.858 [pid:24055] - debug: UPDATEAdgroupBidding 실행
+2017-09-28 03:06:37.955 [pid:24055] - debug: [DB 접속됨 threadId = 15975]
+2017-09-28 03:06:37.956 [pid:24055] - debug: [DB 임대됨 threadId = 15975]
+2017-09-28 03:06:37.962 [pid:24055] - debug: [DB 접속됨 threadId = 15976]
+2017-09-28 03:06:37.963 [pid:24055] - debug: [DB 임대됨 threadId = 15976]
+2017-09-28 03:06:37.966 [pid:24055] - debug: [DB 접속됨 threadId = 15977]
+2017-09-28 03:06:37.967 [pid:24055] - debug: [DB 임대됨 threadId = 15977]
+2017-09-28 03:06:37.970 [pid:24055] - debug: [DB 접속됨 threadId = 15978]
+2017-09-28 03:06:37.971 [pid:24055] - debug: [DB 임대됨 threadId = 15978]
+2017-09-28 03:06:37.995 [pid:24055] - sql: [threadId=15975] UPDATE naver_shopping_adgroup SET is_bidding = 1 WHERE id = 'grp-a001-02-000000002977929'
+2017-09-28 03:06:37.997 [pid:24055] - sql: affectedRows: 1
+2017-09-28 03:06:38.030 [pid:24055] - debug: [DB 접속됨 threadId = 15979]
+2017-09-28 03:06:38.030 [pid:24055] - debug: [DB 임대됨 threadId = 15979]
+2017-09-28 03:06:38.035 [pid:24055] - sql: [threadId=15977] UPDATE naver_shopping_adgroup SET is_bidding = 1 WHERE id = 'grp-a001-02-000000002977906'
+2017-09-28 03:06:38.035 [pid:24055] - sql: affectedRows: 1
+2017-09-28 03:06:38.036 [pid:24055] - sql: [threadId=15978] UPDATE naver_shopping_adgroup SET is_bidding = 0 WHERE id = 'grp-a001-02-000000002977957'
+2017-09-28 03:06:38.036 [pid:24055] - sql: affectedRows: 1
+2017-09-28 03:06:38.036 [pid:24055] - sql: [threadId=15976] UPDATE naver_shopping_adgroup SET is_bidding = 0 WHERE id = 'grp-a001-02-000000002315010'
+2017-09-28 03:06:38.036 [pid:24055] - sql: affectedRows: 1
+2017-09-28 03:06:38.077 [pid:24055] - sql: [threadId=15979] UPDATE naver_shopping_adgroup SET is_bidding = 0 WHERE id = 'grp-a001-02-000000002977893'
+2017-09-28 03:06:38.078 [pid:24055] - sql: affectedRows: 1
+2017-09-28 03:06:38.091 [pid:24055] - debug: 광고그룹비딩값 업데이트결과 :  
+{ '0': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+     protocol41: true,
+     changedRows: 0 },
+  '1': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+     protocol41: true,
+     changedRows: 0 },
+  '2': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+     protocol41: true,
+     changedRows: 1 },
+  '3': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+     protocol41: true,
+     changedRows: 1 },
+  '4': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 0  Warnings: 0',
+     protocol41: true,
+     changedRows: 0 } }
+2017-09-28 03:06:38.095 [pid:24055] - debug: putAdList 컨트롤러 실행
+2017-09-28 03:06:38.097 [pid:24055] - debug: UPDATEAd 실행
+2017-09-28 03:06:38.100 [pid:24055] - debug: UPDATEAd 실행
+2017-09-28 03:06:38.101 [pid:24055] - debug: UPDATEAd 실행
+2017-09-28 03:06:38.102 [pid:24055] - debug: UPDATEAd 실행
+2017-09-28 03:06:38.104 [pid:24055] - debug: UPDATEAd 실행
+2017-09-28 03:06:38.105 [pid:24055] - debug: UPDATEAd 실행
+2017-09-28 03:06:38.106 [pid:24055] - debug: UPDATEAd 실행
+2017-09-28 03:06:38.142 [pid:24055] - debug: [DB 접속됨 threadId = 15980]
+2017-09-28 03:06:38.143 [pid:24055] - debug: [DB 임대됨 threadId = 15980]
+2017-09-28 03:06:38.145 [pid:24055] - debug: [DB 접속됨 threadId = 15981]
+2017-09-28 03:06:38.146 [pid:24055] - debug: [DB 임대됨 threadId = 15981]
+2017-09-28 03:06:38.169 [pid:24055] - debug: [DB 접속됨 threadId = 15982]
+2017-09-28 03:06:38.170 [pid:24055] - debug: [DB 임대됨 threadId = 15982]
+2017-09-28 03:06:38.186 [pid:24055] - sql: [threadId=15980] UPDATE naver_shopping_ad SET aimed_rank = 2, bid_amt_limit = 1100, bid_change_amt = 10, keywords = '4구액자', is_bidding = 1 WHERE id = 'nad-a001-02-000000011695649'
+2017-09-28 03:06:38.187 [pid:24055] - sql: affectedRows: 1
+2017-09-28 03:06:38.211 [pid:24055] - debug: [DB 접속됨 threadId = 15983]
+2017-09-28 03:06:38.212 [pid:24055] - debug: [DB 임대됨 threadId = 15983]
+2017-09-28 03:06:38.216 [pid:24055] - debug: [DB 접속됨 threadId = 15984]
+2017-09-28 03:06:38.217 [pid:24055] - debug: [DB 임대됨 threadId = 15984]
+2017-09-28 03:06:38.220 [pid:24055] - debug: [DB 접속됨 threadId = 15985]
+2017-09-28 03:06:38.221 [pid:24055] - debug: [DB 임대됨 threadId = 15985]
+2017-09-28 03:06:38.228 [pid:24055] - sql: [threadId=15982] UPDATE naver_shopping_ad SET aimed_rank = 3, bid_amt_limit = 1000, bid_change_amt = 20, keywords = '퍼즐액자', is_bidding = 1 WHERE id = 'nad-a001-02-000000011695540'
+2017-09-28 03:06:38.228 [pid:24055] - sql: affectedRows: 1
+2017-09-28 03:06:38.237 [pid:24055] - sql: [threadId=15981] UPDATE naver_shopping_ad SET aimed_rank = 3, bid_amt_limit = 500, bid_change_amt = 10, keywords = '원목거치대', is_bidding = 0 WHERE id = 'nad-a001-02-000000011695615'
+2017-09-28 03:06:38.238 [pid:24055] - sql: affectedRows: 1
+2017-09-28 03:06:38.241 [pid:24055] - debug: [DB 접속됨 threadId = 15986]
+2017-09-28 03:06:38.241 [pid:24055] - debug: [DB 임대됨 threadId = 15986]
+2017-09-28 03:06:38.269 [pid:24055] - sql: [threadId=15983] UPDATE naver_shopping_ad SET aimed_rank = 2, bid_amt_limit = 900, bid_change_amt = 10, keywords = '캔버스액자', is_bidding = 0 WHERE id = 'nad-a001-02-000000011695502'
+2017-09-28 03:06:38.270 [pid:24055] - sql: affectedRows: 1
+2017-09-28 03:06:38.270 [pid:24055] - sql: [threadId=15984] UPDATE naver_shopping_ad SET aimed_rank = 3, bid_amt_limit = 700, bid_change_amt = 10, keywords = '정사각형액자', is_bidding = 0 WHERE id = 'nad-a001-02-000000011695616'
+2017-09-28 03:06:38.271 [pid:24055] - sql: affectedRows: 1
+2017-09-28 03:06:38.285 [pid:24055] - sql: [threadId=15985] UPDATE naver_shopping_ad SET aimed_rank = 2, bid_amt_limit = 800, bid_change_amt = 20, keywords = '직사각형액자', is_bidding = 0 WHERE id = 'nad-a001-02-000000011695617'
+2017-09-28 03:06:38.293 [pid:24055] - sql: affectedRows: 1
+2017-09-28 03:06:38.313 [pid:24055] - sql: [threadId=15986] UPDATE naver_shopping_ad SET aimed_rank = 2, bid_amt_limit = 1200, bid_change_amt = 30, keywords = '9구액자', is_bidding = 1 WHERE id = 'nad-a001-02-000000011695650'
+2017-09-28 03:06:38.313 [pid:24055] - sql: affectedRows: 1
+2017-09-28 03:06:38.318 [pid:24055] - debug: 광고업데이트결과 :  
+{ '0': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+     protocol41: true,
+     changedRows: 1 },
+  '1': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+     protocol41: true,
+     changedRows: 1 },
+  '2': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+     protocol41: true,
+     changedRows: 1 },
+  '3': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+     protocol41: true,
+     changedRows: 1 },
+  '4': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+     protocol41: true,
+     changedRows: 1 },
+  '5': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+     protocol41: true,
+     changedRows: 1 },
+  '6': 
+   { fieldCount: 0,
+     affectedRows: 1,
+     insertId: 0,
+     serverStatus: 2,
+     warningCount: 0,
+     message: '(Rows matched: 1  Changed: 1  Warnings: 0',
+     protocol41: true,
+     changedRows: 1 } }
+2017-09-28 03:06:38.322 [pid:24055] - debug: [STATUS 200] OK-SUCCESS
+2017-09-28 03:06:38.331 [pid:24055] - debug: ---------- client disconnection ------------
+2017-09-28 03:06:38.331 [pid:24055] - debug: runtime=502ms
+2017-09-28 03:06:38.331 [pid:24055] - debug: 
+2017-09-28 03:12:57.544 [pid:24055] - debug: ------------ client connection ------------
+2017-09-28 03:12:57.544 [pid:24055] - debug: [Process Id] 24055
+2017-09-28 03:12:57.545 [pid:24055] - debug: [ip] ::ffff:125.131.99.75
+2017-09-28 03:12:57.545 [pid:24055] - debug: [CLIENT INFO] Windows 8.1 / Chrome (61.0.3163.100) / Microsoft Windows
+2017-09-28 03:12:57.545 [pid:24055] - debug: [HTTP GET] http://node4.mas-i.com/adgroups
+2017-09-28 03:12:57.548 [pid:24055] - debug: getAdgroupList 컨트롤러 실행
+2017-09-28 03:12:57.548 [pid:24055] - debug: SELECTAdgroup 실행
+2017-09-28 03:12:57.625 [pid:24055] - debug: [DB 접속됨 threadId = 16011]
+2017-09-28 03:12:57.626 [pid:24055] - debug: [DB 임대됨 threadId = 16011]
+2017-09-28 03:12:57.627 [pid:24055] - debug: 클로즈!
+2017-09-28 03:12:57.628 [pid:24055] - debug: [DB 반납됨 threadId = 16011]
+2017-09-28 03:12:57.636 [pid:24055] - sql: [threadId=16011] SELECT * FROM naver_shopping_adgroup
+2017-09-28 03:12:57.637 [pid:24055] - sql: selected data:  
+{ '0': 
+   { no: 295,
+     id: 'grp-a001-02-000000002315010',
+     name: 'TEST_디자인 케이스',
+     campaign_id: 'cmp-a001-02-000000000354348',
+     campaign_name: '피코그라프_케이스',
+     site: 'http://www.picograph.kr',
+     bid_amt: 50,
+     total_ad_count: 0,
+     bidding_ad_count: 0,
+     is_on_stage: 1,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '1': 
+   { no: 296,
+     id: 'grp-a001-02-000000002977893',
+     name: 'PG_피코포토',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 3,
+     bidding_ad_count: 2,
+     is_on_stage: 1,
+     is_bidding: 0,
+     is_active: 'ON' },
+  '2': 
+   { no: 297,
+     id: 'grp-a001-02-000000002977906',
+     name: 'PG_사진인화',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 300,
+     total_ad_count: 2,
+     bidding_ad_count: 0,
+     is_on_stage: 1,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '3': 
+   { no: 298,
+     id: 'grp-a001-02-000000002977929',
+     name: 'PG_퍼즐액자',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 200,
+     total_ad_count: 1,
+     bidding_ad_count: 1,
+     is_on_stage: 1,
+     is_bidding: 1,
+     is_active: 'ON' },
+  '4': 
+   { no: 299,
+     id: 'grp-a001-02-000000002977957',
+     name: 'PG_캔버스',
+     campaign_id: 'cmp-a001-02-000000000486117',
+     campaign_name: 'Picograph_액자',
+     site: 'http://www.picograph.kr',
+     bid_amt: 400,
+     total_ad_count: 1,
+     bidding_ad_count: 0,
+     is_on_stage: 1,
+     is_bidding: 0,
+     is_active: 'ON' } }
+2017-09-28 03:12:57.638 [pid:24055] - debug: [STATUS 200] OK-SUCCESS
+2017-09-28 03:12:57.638 [pid:24055] - debug: ---------- client disconnection ------------
+2017-09-28 03:12:57.639 [pid:24055] - debug: runtime=95ms
+2017-09-28 03:12:57.639 [pid:24055] - debug: 
+2017-09-28 04:31:08.227 [pid:24055] - debug: ------------ client connection ------------
+2017-09-28 04:31:08.228 [pid:24055] - debug: [Process Id] 24055
+2017-09-28 04:31:08.234 [pid:24055] - debug: [ip] ::ffff:58.221.47.59
+2017-09-28 04:31:08.235 [pid:24055] - debug: [CLIENT INFO] Windows 2000 / IE (6.0) / Microsoft Windows
+2017-09-28 04:31:08.237 [pid:24055] - debug: [HTTP GET] http://121.124.124.178/
+2017-09-28 04:31:08.255 [pid:24055] - debug: ---------- client disconnection ------------
+2017-09-28 04:31:08.256 [pid:24055] - debug: runtime=29ms
+2017-09-28 04:31:08.256 [pid:24055] - debug: 
+2017-09-28 05:10:56.172 [pid:24055] - debug: ------------ client connection ------------
+2017-09-28 05:10:56.172 [pid:24055] - debug: [Process Id] 24055
+2017-09-28 05:10:56.172 [pid:24055] - debug: [ip] ::ffff:210.218.163.108
+2017-09-28 05:10:56.172 [pid:24055] - debug: [CLIENT INFO] unknown / unknown (undefined) / unknown
+2017-09-28 05:10:56.173 [pid:24055] - debug: [HTTP GET] http://node4.mas-i.com/
+2017-09-28 05:10:56.174 [pid:24055] - debug: ---------- client disconnection ------------
+2017-09-28 05:10:56.175 [pid:24055] - debug: runtime=4ms
+2017-09-28 05:10:56.175 [pid:24055] - debug: 
+2017-09-28 05:10:58.475 [pid:24055] - debug: ------------ client connection ------------
+2017-09-28 05:10:58.476 [pid:24055] - debug: [Process Id] 24055
+2017-09-28 05:10:58.476 [pid:24055] - debug: [ip] ::ffff:210.218.163.108
+2017-09-28 05:10:58.477 [pid:24055] - debug: [CLIENT INFO] unknown / unknown (undefined) / unknown
+2017-09-28 05:10:58.478 [pid:24055] - debug: [HTTP GET] http:/nice%20ports%2C/Tri%6Eity.txt%2ebak
+2017-09-28 05:10:58.481 [pid:24055] - debug: ---------- client disconnection ------------
+2017-09-28 05:10:58.481 [pid:24055] - debug: runtime=6ms
+2017-09-28 05:10:58.481 [pid:24055] - debug: 
+2017-09-28 05:10:58.523 [pid:24055] - debug: ------------ client connection ------------
+2017-09-28 05:10:58.524 [pid:24055] - debug: [Process Id] 24055
+2017-09-28 05:10:58.525 [pid:24055] - debug: [ip] ::ffff:210.218.163.108
+2017-09-28 05:10:58.525 [pid:24055] - debug: [CLIENT INFO] unknown / unknown (undefined) / unknown
+2017-09-28 05:10:58.526 [pid:24055] - debug: [HTTP GET] http:/
+2017-09-28 05:10:58.531 [pid:24055] - debug: ---------- client disconnection ------------
+2017-09-28 05:10:58.531 [pid:24055] - debug: runtime=8ms
+2017-09-28 05:10:58.532 [pid:24055] - debug: 
